@@ -3,6 +3,6 @@ plugins/Redemption/bot.jpg	https://raw.githubusercontent.com/thejambi/AnimoLacke
 plugins/Redemption/cardback.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/cardback.jpg	1
 plugins/Redemption/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	2
 plugins/Redemption/setlist.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/setlist.txt	2
-plugins/Redemption/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	2
+plugins/Redemption/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	3
 CardGeneralURLs:
 https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/setimages/general/

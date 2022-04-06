@@ -1,3 +1,3 @@
-Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	Attribute	ActivationCost	AbilityText	Weakness	VerseReference	VerseText	Artist
-Nico Lv.1	RLD	rld_50_nico	50	Virtuous Animo	1	S	2			Born Again	S			John 3:3	Jesus answered him, “Most certainly, I tell you, unless one is born anew, he can’t see God’s Kingdom.”	Danh Tran Art
-Mercifire Lv.1	RLD	rld_65-mercifire-bvc	65	Virtuous Animo	1	U	7			Merciful	UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less. Shuffle your deck afterward.		Luke 6:36	Therefore be merciful, even as your Father is also merciful.	Danh Tran Art
+Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	ActivationCost	AbilityText	Weakness	VerseReference
+Nico Lv.1	RLD	rld_50_nico	50	Virtuous Animo	1	S	2			S			John 3:3
+Mercifire Lv.1	RLD	rld_65-mercifire-bvc	65	Virtuous Animo	1	U	7			UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less. Shuffle your deck afterward.		Luke 6:36

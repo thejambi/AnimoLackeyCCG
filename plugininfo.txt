@@ -3,7 +3,8 @@
 
 <pluginname>AnimoLackeyCCG</pluginname>
 
-<playerstat><label>Defeated Sinnies</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Sinnies Defeated</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>Score</label><initialvalue>0</initialvalue></playerstat>
 
 <deckzone>
 	<label>Deck</label>

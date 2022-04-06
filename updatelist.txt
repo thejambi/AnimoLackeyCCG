@@ -1,8 +1,8 @@
 Animo	04-05-22
-plugins/Redemption/bot.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/bot.jpg	100001
-plugins/Redemption/cardback.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/cardback.jpg	100001
-plugins/Redemption/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	100001
-plugins/Redemption/setlist.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/setlist.txt	100001
-plugins/Redemption/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	100001
+plugins/Redemption/bot.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/bot.jpg	101
+plugins/Redemption/cardback.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/cardback.jpg	101
+plugins/Redemption/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	101
+plugins/Redemption/setlist.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/setlist.txt	101
+plugins/Redemption/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	101
 CardGeneralURLs:
 https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/setimages/general/

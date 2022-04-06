@@ -1,7 +1,7 @@
 <plugin>
 <pluginversion>1.0</pluginversion>
 
-<pluginname>Animo</pluginname>
+<pluginname>AnimoLackeyCCG</pluginname>
 
 <playerstat><label>Defeated Sinnies</label><initialvalue>0</initialvalue></playerstat>
 

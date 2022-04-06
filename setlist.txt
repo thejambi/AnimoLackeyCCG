@@ -4,7 +4,7 @@ carddata.txt
 1
 Standard
 
-29
+6
 Series 1 Starter Decks
 Series 1 Booster
 Hopeful Hearts

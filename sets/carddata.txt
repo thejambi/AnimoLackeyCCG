@@ -205,7 +205,7 @@ Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28	
 Quillow 2	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd
 Prayeregrine ULTRA 1	RLD	61_Prayeregrine_ULTRA.jpg	61	Virtuous	1	Spirit	13			SUUU			Willing Spirit	Matthew 26:41		Alex Gil Ble
 Hybird ULTRA 1	RLD	62_Hybird_Ultra.jpg	62	Virtuous	1	Spirit	8	F	13	SUU			Living Water	John 7:38		Danh Tran Art
-Nico ULTRA 1	RLD	63_Nicco_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:24		Danh Tran Art
+Nico ULTRA 1	RLD	63_Nico_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:24		Danh Tran Art
 Cordiawl 3	RLD	64_Cordiawl_3.jpg	64	Virtuous	3	Universal	10			UU	ABILITY: As long as this card is in your small group, all F, H, L, and S costs on your other Animo become U costs.		Loving	Luke 6:35a		Danh Tran Art
 Mercifire 1	RLD	65_Mercifire.jpg	65	Virtuous	1	Universal	7			UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less.  Shuffle your deck afterward.		Merciful	Luke 6:36		Danh Tran Art
 Servidude 1	RLD	66_Servidude.jpg	66	Virtuous	1	Universal	5			UUU	ABILITY: This card costs 1 less power to activate for each L or S Animo in your small group.		Servant	Matthew 20:26		Christina Todd

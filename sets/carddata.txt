@@ -51,7 +51,7 @@ Razzbear 1	CT	49_Razzbear.jpg	49	Virtuous	1	Spirit	8			SUU	ACTION: Reveal the to
 Draylight 1	CT	50_Draylight.jpg	50	Virtuous	1	Spirit	2			S 			Made Special	Psalm 139:13		Joshua Wegner
 Draylight 2	CT	51_Draylight2.jpg	51	Virtuous	2	Spirit	7			SU 			Wonderfully Made	Psalm 139:14		Joshua Wegner
 Draylight 3	CT	52_Draylight3.jpg	52	Virtuous	3	Spirit	13			SUU	ABILITY: When this card is played from your hand to grow Draylight Lv. 2, you may search your deck for any card.  Shuffly your deck afterward. 		New Creation	2 Corinthians 5:17		Danh Tran Art
-Guppeace 1	CT	53_Guppeace_CT.jpg	53	Virtuous	1	Spirit	2			S	ABILITY: When you play this card from your hand into your small group, you may search your deck for any 1 F or H Animo.  Shuffle your deck afterward.		Overflowing Peace	Philippians 4:7		Joshua Wegner
+Guppeace 1 (CT)	CT	53_Guppeace_CT.jpg	53	Virtuous	1	Spirit	2			S	ABILITY: When you play this card from your hand into your small group, you may search your deck for any 1 F or H Animo.  Shuffle your deck afterward.		Overflowing Peace	Philippians 4:7		Joshua Wegner
 Manty 1	CT	54_Manty.jpg	54	Virtuous	1	Spirit	3			S			Steadfast	Colossians 4:2		Joshua Wegner
 Manty 2	CT	55_manty2.jpg	55	Virtuous	2	Spirit	8			SU	ACTION: Search your deck for any power card and place it directly in your power pool.  Shuffle your deck afterward.		Prayer	Ephesians 6:18a (NIV)		Danh Tran Art
 Fuzzwurm 1	CT	56_Fuzzwurm.jpg	56	Virtuous	1	Spirit	2			S			Beyond Compare	Romans 8:18		Joshua Wegner

@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	ActivationCost	AbilityText	Weakness	VerseReference	VerseText	Artist
+Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	ActivationCost	AbilityText	Weakness	Attribute	VerseReference	VerseText	Artist
 Beeliever 1	CT	1_Beeliever.jpg	1	Virtuous	1	Faith	6			FU	ACTION: Search your discard pile for any 1 F Animo and put it in your hand		Saving Faith	Acts 16:31 		Danh Tran Art
 Halfalanche 1	CT	2_Halfalanche.jpg	2	Virtuous	1	Faith	6			FF			Child of God	Galatians 3:26		Joshua Wegner
 Halfalanche 2	CT	3_Halfalanche2.jpg	3	Virtuous	2	Faith	10			FFF	ACTION: You may shuffle up to 5 of any combination of F powers and/or F Animo from your discard pile back into your deck.		Mountain Mover	Matthew 20:7b		Danh Tran Art

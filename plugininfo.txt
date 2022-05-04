@@ -11,6 +11,11 @@
 	<shuffle>yes</shuffle>
 	<gamezonetoloadto>Library</gamezonetoloadto>
 </deckzone>
+<deckzone>
+	<label>Truth Seeker</label>
+	<shuffle>no</shuffle>
+	<gamezonetoloadto>Truth Seeker</gamezonetoloadto>
+</deckzone>
 
 <gamezone>
 	<label>Hand</label>
@@ -36,6 +41,11 @@
 	<label>Removed</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Truth Seeker</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
 </gamezone>
 
 <phase><label>Draw</label></phase>

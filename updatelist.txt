@@ -1,7 +1,7 @@
 Animo	04-05-22
 plugins/Animo/bot.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/bot.jpg	101
 plugins/Animo/cardback.jpg	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/cardback.jpg	103
-plugins/Animo/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	101
+plugins/Animo/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	102
 plugins/Animo/setlist.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/setlist.txt	101
 plugins/Animo/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	110
 CardGeneralURLs:

@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>Animo</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="4_sparkube.jpg">Sparkube 1</name><set>RLD</set></card>
+		<card><name id="4_sparkube.jpg">Sparkube 1</name><set>RLD</set></card>
+		<card><name id="5_Sparkube_2.jpg">Sparkube 2</name><set>RLD</set></card>
+		<card><name id="7_Trusty.jpg">Trusty 1</name><set>RLD</set></card>
+		<card><name id="7_Trusty.jpg">Trusty 1</name><set>RLD</set></card>
+		<card><name id="7_Trusty.jpg">Trusty 1</name><set>RLD</set></card>
+		<card><name id="8_Trusty_2.jpg">Trusty 2</name><set>RLD</set></card>
+		<card><name id="8_Trusty_2.jpg">Trusty 2</name><set>RLD</set></card>
+		<card><name id="22_Percy.jpg">Percy 1</name><set>RLD</set></card>
+		<card><name id="22_Percy.jpg">Percy 1</name><set>RLD</set></card>
+		<card><name id="22_Percy.jpg">Percy 1</name><set>RLD</set></card>
+		<card><name id="23_Percy_2.jpg">Percy 2</name><set>RLD</set></card>
+		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2</name><set>RLD</set></card>
+		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2</name><set>RLD</set></card>
+		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
+		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
+		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
+		<card><name id="26_Sowcrow_2.jpg">Sowcrow 2</name><set>RLD</set></card>
+		<card><name id="26_Sowcrow_2.jpg">Sowcrow 2</name><set>RLD</set></card>
+		<card><name id="27_Aurora.jpg">Aurora 1</name><set>RLD</set></card>
+		<card><name id="27_Aurora.jpg">Aurora 1</name><set>RLD</set></card>
+		<card><name id="27_Aurora.jpg">Aurora 1</name><set>RLD</set></card>
+		<card><name id="73_Seacurl.jpg">Seacurl 1</name><set>RLD</set></card>
+		<card><name id="73_Seacurl.jpg">Seacurl 1</name><set>RLD</set></card>
+		<card><name id="75_Heraldash.jpg">Heraldash 1</name><set>RLD</set></card>
+		<card><name id="75_Heraldash.jpg">Heraldash 1</name><set>RLD</set></card>
+		<card><name id="80_Flamingrow.jpg">Flamingrow 1</name><set>RLD</set></card>
+		<card><name id="80_Flamingrow.jpg">Flamingrow 1</name><set>RLD</set></card>
+		<card><name id="80_Flamingrow.jpg">Flamingrow 1</name><set>RLD</set></card>
+		<card><name id="86_Anxietor.jpg">Anxietor</name><set>RLD</set></card>
+		<card><name id="89_Woolf.jpg">Woolf</name><set>RLD</set></card>
+		<card><name id="92_Nastree.jpg">Nastree</name><set>RLD</set></card>
+		<card><name id="93_Hookwurm.jpg">Hookwurm</name><set>RLD</set></card>
+		<card><name id="95_Denyala.jpg">Denyala</name><set>RLD</set></card>
+		<card><name id="96_Pogo.jpg">Pogo</name><set>RLD</set></card>
+		<card><name id="99_Fearcrow.jpg">Fearcrow</name><set>RLD</set></card>
+		<card><name id="110_Hidden_Treasure.jpg">Hidden Treasure</name><set>RLD</set></card>
+		<card><name id="110_Hidden_Treasure.jpg">Hidden Treasure</name><set>RLD</set></card>
+		<card><name id="115_Rich_Fool.jpg">The Rich Fool</name><set>RLD</set></card>
+		<card><name id="115_Rich_Fool.jpg">The Rich Fool</name><set>RLD</set></card>
+		<card><name id="116_The_Runaway.jpg">The Runaway</name><set>RLD</set></card>
+		<card><name id="116_The_Runaway.jpg">The Runaway</name><set>RLD</set></card>
+		<card><name id="117_Gold.jpg">Gold</name><set>RLD</set></card>
+		<card><name id="117_Gold.jpg">Gold</name><set>RLD</set></card>
+		<card><name id="118_Frankincense.jpg">Frankincense</name><set>RLD</set></card>
+		<card><name id="123_Roman_Scourge.jpg">Roman Scourge</name><set>RLD</set></card>
+		<card><name id="126_Levi.jpg">Levi</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+	</superzone>
+</deck>

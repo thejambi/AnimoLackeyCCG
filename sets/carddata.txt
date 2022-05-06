@@ -154,19 +154,19 @@ Trusty 2	RLD	8_Trusty_2.jpg	8	Virtuous	2	Faith	10			FFF	ABILITY: For each Trusty
 Flo 1	RLD	9_Flo_a.jpg	9	Virtuous	1	Faith	3			F	ABILITY: When this card is played from your hand into your small gorup, you may place 1 L Animo from your discard pile into your hand.		Good Shepherd	John 10:11		Lucy_Was_Taken
 Flo 1	RLD	10_Flo_b.jpg	10	Virtuous	1	Faith	4	L	6	Fx			Follow	John 10:27		Chris Alonso
 Flo 2	RLD	11_Flo_2.jpg	11	Virtuous	2	Faith	6	L	9	F	ABILITY: As long as this card is in your small group, any L Animo in play may NOT be targeted by the ACTIONS of Sinnies.		Safe and Sound	John 10:28		Lucy_Was_Taken
-Quillow 2	RLD	12_Quillow_2_F.jpg	12	Virtuous	2	Faith	3x			F	ABILITY: You may place up to 4 cards from your hand beneath this card (and effectively out of play).  When activated, this card earns 3 VP for each card beneath this one.  Discard those cards when this card is discarded.		Trial by Fire	Matthew 5:10		Christina Todd
-Flamingrow 2	RLD	13_Flamingrow_2_F.jpg	13	Virtuous	2	Faith	10			FFx	ABILITY: When this card is played to grow Flamingrow Lv. 1, you may select any 3 cards from your discard pile and place them in any order on the bottom of your deck.		All Things Possible	Mark 9:23		Alex Gil Ble
+Quillow 2 (F)	RLD	12_Quillow_2_F.jpg	12	Virtuous	2	Faith	3x			F	ABILITY: You may place up to 4 cards from your hand beneath this card (and effectively out of play).  When activated, this card earns 3 VP for each card beneath this one.  Discard those cards when this card is discarded.		Trial by Fire	Matthew 5:10		Christina Todd
+Flamingrow 2 (F)	RLD	13_flamingrow_2_F.jpg	13	Virtuous	2	Faith	10			FFx	ABILITY: When this card is played to grow Flamingrow Lv. 1, you may select any 3 cards from your discard pile and place them in any order on the bottom of your deck.		All Things Possible	Mark 9:23		Alex Gil Ble
 Halfalanche ULTRA 1	RLD	14_Halfalanche_Ultra.jpg	14	Virtuous	1	Faith	11			FxFx			Faith Flurry	Mark 11:23		Danh Tran Art
 Luminey ULTRA 1	RLD	15_Luminey_Ultra.jpg	15	Virtuous	1	Faith	15			FFFF			Revealed	Luke 8:17		Danh Tran Art
 Hopper 1	RLD	16_Hopper.jpg	16	Virtuous	1	Hope	4			HHU	ACTION: Search your deck for ANY 2 Animo with a VP score of 8 or less and place them in your hand.  Shuffle your deck afterwards.		Squeak N' Seek	Matthew 7:7		Christina Todd
-Quillow 2	RLD	17_Quillow_2H.jpg	17	Virtuous	2	Hope	8			HH 	ACTION: Search your deck for any 1 Story Card and 1 H power.  Reveal them and put them into your hand.  Shuffle your deck afterward.		Comforted	Matthew 5:4		Christina Todd
+Quillow 2 (H)	RLD	17_Quillow_2H.jpg	17	Virtuous	2	Hope	8			HH 	ACTION: Search your deck for any 1 Story Card and 1 H power.  Reveal them and put them into your hand.  Shuffle your deck afterward.		Comforted	Matthew 5:4		Christina Todd
 Glimmer 1	RLD	18_Glimmer.jpg	18	Virtuous	1	Hope	4	L	6	HH-			Joy	John 15:11		Lucy_Was_Taken
 Glimmer 2	RLD	19_Glimmer_2.jpg	19	Virtuous	2	Hope	7	L	10	HH	ABILITY: When this card is played from your hand to grow "Glimmer Lv. 1" you may draw 2 cards.		The Golden Rule	Matthew 7:12 (NIV)		Lucy_Was_Taken
 Amaryllis 1	RLD	20_Amaryllis.jpg	20	Virtuous	1	Hope	5	S	8	HU			Provision	Matthew 6:28b-29		Baygent Baker
 Shwimmer 1	RLD	21_Shwimmer.jpg	21	Virtuous	1	Hope	3	S	5	H	ACTION: Search your deck for 1 standard power card and place it directly into your power pool.  Shuffle your deck afterward.		Greater Things	John 14:12		Christina Todd
 Percy 1	RLD	22_Percy.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: When this card is played from your hand into your small group, you may look at the top 5 cards of your deck, take 1, and return the rest in any order.		Cheer Up!	John 16:33		Alex Gil Ble
 Percy 2	RLD	23_Percy_2.jpg	23	Virtuous	2	Hope	10			HHU	ACTION: Search your deck for any 2 cards and place them in your hand.  Shuffle afterward.		Overcomer	Revelation 21:7		Alex Gil Ble
-Flamingrow 2	RLD	24_Flamingrow_2H.jpg	24	Virtuous	2	Hope	9	F	12	HH-			Repent	Luke 15:10		Alex Gil Ble
+Flamingrow 2 (H)	RLD	24_Flamingrow_2H.jpg	24	Virtuous	2	Hope	9	F	12	HH-			Repent	Luke 15:10		Alex Gil Ble
 Sowcrow 1	RLD	25_Sowcrow.jpg	25	Virtuous	1	Hope	6			H-H-	ABILITY: When this card is played from your hand into your small group, you may draw 1 card.		Harvest	Matthew 9:37-38		Joshua Wegner
 Sowcrow 2	RLD	26_Sowcrow_2.jpg	26	Virtuous	2	Hope	9			HH-	ABILITY: When this card is played from your hand to grow Sowcrow lv. 1, you may shuffle your hand back into your deck and draw 5 cards.		Ripe for Harvest	John 4:25b		Mangaboi
 Aurora 1	RLD	27_Aurora.jpg	27	Virtuous	1	Hope	4			H	ABILITY: If this card is in your small group, it provides 1 H power during your scoring phase.  This card may not be activated in the turn this ability is used.		Walking on Sunshine	John 8:12		Christina Todd
@@ -176,10 +176,10 @@ Percy ULTRA 1	RLD	30_Percy_ULTRA.jpg	30	Virtuous	1	Hope	12			HHH	ABILITY: Once p
 Heartvark 1	RLD	31_Heartvark.jpg	31	Virtuous	1	Love	5			LL			Christ's Love	John 15:9		Joshua Wegner
 Heartvark 2	RLD	32_Heartvark_2.jpg	32	Virtuous	2	Love	7	F	10	LU	ACTION: Search your deck for up to 2 Animo with a VP score of 8 or less.  Reveal them, place them in your hand, and shuffle your deck afterward.		Remaining in Love	John 15:10		Joshua Wegner
 Mongoroo 1	RLD	33_Mongoroo.jpg	33	Virtuous	1	Love	4	S	8	LL			Cheerful Giver	Matthew 5:42		Lucy_Was_Taken
-Flamingrow 2	RLD	34_Flamingrow_2L.jpg	34	Virtuous	2	Love	8			LU	ABILITY: When this card is played from your hand to grow "Flamingrow Lv. 1", you may search your deck for 1 L power and add it to your power pool.		Love One Another	John 13:34		Alex Gil Ble
+Flamingrow 2 (L)	RLD	34_Flamingrow_2L.jpg	34	Virtuous	2	Love	8			LU	ABILITY: When this card is played from your hand to grow "Flamingrow Lv. 1", you may search your deck for 1 L power and add it to your power pool.		Love One Another	John 13:34		Alex Gil Ble
 Cordaiwl 1	RLD	35_Cordiawl.jpg	35	Virtuous	1	Love	3			LL			Caring	Luke 6:27		Joshua Wegner
 Cordiawl 2	RLD	36_Cordiawl_2.jpg	36	Virtuous	2	Love	5			L			Cordial	Luke 6:28		Danh Tran Art
-Quillow 2	RLD	37_Quillow_2L.jpg	37	Virtuous	2	Love	4			L	ACTION: Search your deck for either 1 special power or 2 standr power cards and add it/them to your power pool.  Shuffle your deck afterward.		Merciful	Matthew 5:7		Christina Todd
+Quillow 2 (L)	RLD	37_Quillow_2L.jpg	37	Virtuous	2	Love	4			L	ACTION: Search your deck for either 1 special power or 2 standr power cards and add it/them to your power pool.  Shuffle your deck afterward.		Merciful	Matthew 5:7		Christina Todd
 Treashell 1	RLD	38_Treashell.jpg	38	Virtuous	1	Love	2			L			Investment	Matthew 13:45-46		Danh Tran Art
 Treashell 2	RLD	39_Treashell_2.jpg	39	Virtuous	2	Love	6			LU			Heavenly Treasure	Matthew 6:20		Danh Tran Art
 Treashell 3	RLD	40_Treashell_3.jpg	40	Virtuous	3	Love	12	H	15	LL	ABILITY: If this card is in your small group, it provides 2 L powers during your scoring phase.  This card may not be activated in the turn this ability is used.		True Treasure	Matthew 6:21		Danh Tran Art
@@ -199,10 +199,10 @@ Guppeace 1	RLD	53_Guppeace.jpg	53	Virtuous	1	Spirit	5			SU			Peace	John 14:27a (
 Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this card is played from your hand to grow "Guppeace Lv. 1", you may re-shuffle your hand into your deck and draw 6 cards.		Untroubled	John 14:27b (KJV)		Joshua Wegner
 Prayeregrine 1	RLD	55_Prayeragrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble
 Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble
-Flamingrow 2	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble
+Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble
 Razzbear 1	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd
 Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28		Joshua Wegner
-Quillow 2	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd
+Quillow 2 (S)	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd
 Prayeregrine ULTRA 1	RLD	61_Prayeregrine_ULTRA.jpg	61	Virtuous	1	Spirit	13			SUUU			Willing Spirit	Matthew 26:41		Alex Gil Ble
 Hybird ULTRA 1	RLD	62_Hybird_Ultra.jpg	62	Virtuous	1	Spirit	8	F	13	SUU			Living Water	John 7:38		Danh Tran Art
 Nico ULTRA 1	RLD	63_Nico_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:24		Danh Tran Art

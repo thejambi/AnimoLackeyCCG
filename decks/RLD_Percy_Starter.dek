@@ -15,8 +15,8 @@
 		<card><name id="22_Percy.jpg">Percy 1</name><set>RLD</set></card>
 		<card><name id="22_Percy.jpg">Percy 1</name><set>RLD</set></card>
 		<card><name id="23_Percy_2.jpg">Percy 2</name><set>RLD</set></card>
-		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2</name><set>RLD</set></card>
-		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2</name><set>RLD</set></card>
+		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2 (H)</name><set>RLD</set></card>
+		<card><name id="24_Flamingrow_2H.jpg">Flamingrow 2 (H)</name><set>RLD</set></card>
 		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
 		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
 		<card><name id="25_Sowcrow.jpg">Sowcrow 1</name><set>RLD</set></card>
@@ -49,13 +49,15 @@
 		<card><name id="117_Gold.jpg">Gold</name><set>RLD</set></card>
 		<card><name id="118_Frankincense.jpg">Frankincense</name><set>RLD</set></card>
 		<card><name id="123_Roman_Scourge.jpg">Roman Scourge</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+	</superzone>
+	<superzone name="Truth Seeker">
 		<card><name id="126_Levi.jpg">Levi</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
 	</superzone>
 </deck>

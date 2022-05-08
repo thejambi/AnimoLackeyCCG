@@ -4,6 +4,6 @@ plugins/Animo/cardback.jpg	https://raw.githubusercontent.com/thejambi/AnimoLacke
 plugins/Animo/plugininfo.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/plugininfo.txt	102
 plugins/Animo/setlist.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/setlist.txt	101
 plugins/Animo/decks/RLD_Percy_Starter.dek	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/decks/RLD_Percy_Starter.dek	103
-plugins/Animo/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	111
+plugins/Animo/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/carddata.txt	112
 CardGeneralURLs:
 https://raw.githubusercontent.com/thejambi/AnimoLackeyCCG/main/sets/setimages/general/

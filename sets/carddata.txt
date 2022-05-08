@@ -47,7 +47,7 @@ Salteeny 1	CT	45_Salteeny.jpg	45	Virtuous	1	Love	5			LL			Tasty Talk	Colossians 
 Salteeny 2	CT	46_Salteeny2.jpg	46	Virtuous	2	Love	10	S	14	LL			Speak Truth	Ephesians 4:25		Danh Tran Art
 Salteeny ULTRA 1	CT	47_Salteeny_Ultra.jpg	47	Virtuous	1	Love	11			LLU			Speak Life	Ephesians 4:15		Danh Tran Art
 Agapesaur ULTRA 1	CT	48_Agapesaur_Ultra.jpg	48	Virtuous	1	Love	13			LLL			Loving	1 Corinthians 16:14		Danh Tran Art
-Razzbear 1	CT	49_Razzbear.jpg	49	Virtuous	1	Spirit	8			SUU	ACTION: Reveal the top three cards of your deck.  You may place any power cards you find there directly into your power pool.  Shuffle the rest back into your deck.		Bear-ing Fruit	Galatians 5:22-23		Danh Tran Art
+Razzbear 1 (CT)	CT	49_Razzbear.jpg	49	Virtuous	1	Spirit	8			SUU	ACTION: Reveal the top three cards of your deck.  You may place any power cards you find there directly into your power pool.  Shuffle the rest back into your deck.		Bear-ing Fruit	Galatians 5:22-23		Danh Tran Art
 Draylight 1	CT	50_Draylight.jpg	50	Virtuous	1	Spirit	2			S 			Made Special	Psalm 139:13		Joshua Wegner
 Draylight 2	CT	51_Draylight2.jpg	51	Virtuous	2	Spirit	7			SU 			Wonderfully Made	Psalm 139:14		Joshua Wegner
 Draylight 3	CT	52_Draylight3.jpg	52	Virtuous	3	Spirit	13			SUU	ABILITY: When this card is played from your hand to grow Draylight Lv. 2, you may search your deck for any card.  Shuffly your deck afterward. 		New Creation	2 Corinthians 5:17		Danh Tran Art
@@ -200,7 +200,7 @@ Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this 
 Prayeregrine 1	RLD	55_Prayeragrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble
 Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble
 Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble
-Razzbear 1	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd
+Razzbear 1 (S)	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd
 Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28		Joshua Wegner
 Quillow 2 (S)	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd
 Prayeregrine ULTRA 1	RLD	61_Prayeregrine_ULTRA.jpg	61	Virtuous	1	Spirit	13			SUUU			Willing Spirit	Matthew 26:41		Alex Gil Ble
@@ -209,8 +209,8 @@ Nico ULTRA 1	RLD	63_Nico_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:2
 Cordiawl 3	RLD	64_Cordiawl_3.jpg	64	Virtuous	3	Universal	10			UU	ABILITY: As long as this card is in your small group, all F, H, L, and S costs on your other Animo become U costs.		Loving	Luke 6:35a		Danh Tran Art
 Mercifire 1	RLD	65_Mercifire.jpg	65	Virtuous	1	Universal	7			UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less.  Shuffle your deck afterward.		Merciful	Luke 6:36		Danh Tran Art
 Servidude 1	RLD	66_Servidude.jpg	66	Virtuous	1	Universal	5			UUU	ABILITY: This card costs 1 less power to activate for each L or S Animo in your small group.		Servant	Matthew 20:26		Christina Todd
-Razzbear 1	RLD	67_Razzbear_b.jpg	67	Virtuous	1	Universal	9			SLU			Fruitful	Matthew 7:16-17a		Christina Todd
-Razzbear 1	RLD	68_Razzbear_c.jpg	68	Virtuous	1	Universal	9			SFU			Fruitful	John 15:4		Christina Todd
+Razzbear 1 (RLD 67)	RLD	67_Razzbear_b.jpg	67	Virtuous	1	Universal	9			SLU			Fruitful	Matthew 7:16-17a		Christina Todd
+Razzbear 1 (RLD 68)	RLD	68_Razzbear_c.jpg	68	Virtuous	1	Universal	9			SFU			Fruitful	John 15:4		Christina Todd
 Alphalux 1	RLD	69_Alphalux.jpg	69	Virtuous	1	Universal	1			U			From the Start	John 1:1		Joshua Wegner
 Alphalux 2	RLD	70_Alphalux_2.jpg	70	Virtuous	2	Universal	8			UUU			The Way	John 14:6		Danh Tran Art
 Alphalux 3	RLD	71_Alphalux_3.jpg	71	Virtuous	3	Universal	15			UUU			Eternal King	Revelation 22:13		Danh Tran Art

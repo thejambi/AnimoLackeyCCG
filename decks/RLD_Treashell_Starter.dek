@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Animo</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="33_Mongoroo.jpg">Mongoroo 1</name><set>RLD</set></card>
+		<card><name id="33_Mongoroo.jpg">Mongoroo 1</name><set>RLD</set></card>
+		<card><name id="37_Quillow_2L.jpg">Quillow 2 (L)</name><set>RLD</set></card>
+		<card><name id="38_Treashell.jpg">Treashell 1</name><set>RLD</set></card>
+		<card><name id="38_Treashell.jpg">Treashell 1</name><set>RLD</set></card>
+		<card><name id="38_Treashell.jpg">Treashell 1</name><set>RLD</set></card>
+		<card><name id="39_Treashell_2.jpg">Treashell 2</name><set>RLD</set></card>
+		<card><name id="39_Treashell_2.jpg">Treashell 2</name><set>RLD</set></card>
+		<card><name id="40_Treashell_3.jpg">Treashell 3</name><set>RLD</set></card>
+		<card><name id="42_Salteeny.jpg">Salteeny 1</name><set>RLD</set></card>
+		<card><name id="42_Salteeny.jpg">Salteeny 1</name><set>RLD</set></card>
+		<card><name id="42_Salteeny.jpg">Salteeny 1</name><set>RLD</set></card>
+		<card><name id="43_Salteeny_2.jpg">Salteeny 2</name><set>RLD</set></card>
+		<card><name id="43_Salteeny_2.jpg">Salteeny 2</name><set>RLD</set></card>
+		<card><name id="47_Hybird.jpg">Hybird 1</name><set>RLD</set></card>
+		<card><name id="47_Hybird.jpg">Hybird 1</name><set>RLD</set></card>
+		<card><name id="48_Hybird_2.jpg">Hybird 2</name><set>RLD</set></card>
+		<card><name id="60_Quillow_2S.jpg">Quillow 2 (S)</name><set>RLD</set></card>
+		<card><name id="65_Mercifire.jpg">Mercifire 1</name><set>RLD</set></card>
+		<card><name id="65_Mercifire.jpg">Mercifire 1</name><set>RLD</set></card>
+		<card><name id="66_Servidude.jpg">Servidude 1</name><set>RLD</set></card>
+		<card><name id="66_Servidude.jpg">Servidude 1</name><set>RLD</set></card>
+		<card><name id="66_Servidude.jpg">Servidude 1</name><set>RLD</set></card>
+		<card><name id="58_Razzbear_a.jpg">Razzbear 1 (S)</name><set>RLD</set></card>
+		<card><name id="58_Razzbear_a.jpg">Razzbear 1 (S)</name><set>RLD</set></card>
+		<card><name id="68_Razzbear_c.jpg">Razzbear 1 (RLD 68)</name><set>RLD</set></card>
+		<card><name id="79_Quillow.jpg">Quillow 1</name><set>RLD</set></card>
+		<card><name id="79_Quillow.jpg">Quillow 1</name><set>RLD</set></card>
+		<card><name id="79_Quillow.jpg">Quillow 1</name><set>RLD</set></card>
+		<card><name id="84_Grumproast.jpg">Grumproast</name><set>RLD</set></card>
+		<card><name id="87_Globster.jpg">Globster</name><set>RLD</set></card>
+		<card><name id="90_Hippocritter.jpg">Hippocritter</name><set>RLD</set></card>
+		<card><name id="91_Splidapidator.jpg">Splidapidator</name><set>RLD</set></card>
+		<card><name id="100_Blinderz.jpg">Blinderz</name><set>RLD</set></card>
+		<card><name id="101_Murkay.jpg">Murkay</name><set>RLD</set></card>
+		<card><name id="102_Waspitz.jpg">Waspitz</name><set>RLD</set></card>
+		<card><name id="109_Mustard_Seed.jpg">Mustard Seed</name><set>RLD</set></card>
+		<card><name id="111_Fishing_Nets.jpg">Fishing Nets</name><set>RLD</set></card>
+		<card><name id="111_Fishing_Nets.jpg">Fishing Nets</name><set>RLD</set></card>
+		<card><name id="112_Lost_and_Found.jpg">Lost and Found</name><set>RLD</set></card>
+		<card><name id="112_Lost_and_Found.jpg">Lost and Found</name><set>RLD</set></card>
+		<card><name id="113_Copper_Coins.jpg">Copper Coins</name><set>RLD</set></card>
+		<card><name id="119_Myyrh.jpg">Myrrh</name><set>RLD</set></card>
+		<card><name id="120_Tools_Trade.jpg">Tools of the Trade</name><set>RLD</set></card>
+		<card><name id="120_Tools_Trade.jpg">Tools of the Trade</name><set>RLD</set></card>
+		<card><name id="122_Millstone.jpg">Millstone</name><set>RLD</set></card>
+		<card><name id="127_Yana.jpg">Yana</name><set>RLD</set></card>
+		<card><name id="129_Breanna.jpg">Breanna</name><set>RLD</set></card>
+		<card><name id="133_Love_Power.jpg">Love</name><set>RLD</set></card>
+		<card><name id="133_Love_Power.jpg">Love</name><set>RLD</set></card>
+		<card><name id="133_Love_Power.jpg">Love</name><set>RLD</set></card>
+		<card><name id="133_Love_Power.jpg">Love</name><set>RLD</set></card>
+		<card><name id="134_Holy_Spirit_Power.jpg">Holy Spirit</name><set>RLD</set></card>
+		<card><name id="134_Holy_Spirit_Power.jpg">Holy Spirit</name><set>RLD</set></card>
+		<card><name id="134_Holy_Spirit_Power.jpg">Holy Spirit</name><set>RLD</set></card>
+	</superzone>
+</deck>

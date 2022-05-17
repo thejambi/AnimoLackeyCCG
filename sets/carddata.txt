@@ -1,286 +1,286 @@
-Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	ActivationCost	AbilityText	Weakness	Attribute	VerseReference	VerseText	Artist
-Beeliever 1	CT	1_Beeliever.jpg	1	Virtuous	1	Faith	6			FU	ACTION: Search your discard pile for any 1 F Animo and put it in your hand		Saving Faith	Acts 16:31 		Danh Tran Art
-Halfalanche 1	CT	2_Halfalanche.jpg	2	Virtuous	1	Faith	6			FF			Child of God	Galatians 3:26		Joshua Wegner
-Halfalanche 2	CT	3_Halfalanche2.jpg	3	Virtuous	2	Faith	10			FFF	ACTION: You may shuffle up to 5 of any combination of F powers and/or F Animo from your discard pile back into your deck.		Mountain Mover	Matthew 20:7b		Danh Tran Art
-Pumkindle 1	CT	4_Pumkindle.jpg	4	Virtuous	1	Faith	4			Fx	ACTION: Shuffle three cards from your discard pile back into your deck.		Renewed	Psalm 51:10		Joshua Wegner
-Fetchie 1	CT	5_Fetchie.jpg	5	Virtuous	1	Faith	5			Fx			Obedient	Romans 2:13		Joshua Wegner
-Trusty 1	CT	6_Trusty.jpg	6	Virtuous	1	Faith	5			FF			Things Unseen	2 Corinthians 4:28		Joshua Wegner
-Trusty 2	CT	7_Trusty2.jpg	7	Virtuous	2	Faith	12			FFUx	ACTION: You may exchange 1 card from your discard pile with 1 card from your hand.		Faith Walk	2 Corinthians 5:7		Danh Tran Art
-Armorino 1	CT	8_Armorino.jpg	8	Virtuous	1	Faith	5			Fx	ABILITY: Once per turn, as long as this card is in your small group, you may place 1 F power from your discard pile into your power pool.		Fearless	Romans 8:31		Joshua Wegner
-Armorino 2	CT	9_Armorino2.jpg	9	Virtuous	2	Faith	9			FFx			Victorious	1 Corinthians 15:57		Danh Tran Art
-Armorino 3	CT	10_Armorino3.jpg	10	Virtuous	3	Faith	10	S	15	FFFx	ABILITY: As long as this card remains in play, your opponent's Sinnies actions or abilities have no effect.		Extinguish	Ephesians 6:16		Danh Tran Art
-Troobloo 1	CT	11_Troobloo.jpg	11	Virtuous	1	Faith	6			FU	ABILITY: If this card is in your small group you may swap it with any level 1 Virtuous Animo in your discard pile (excluding Ultra Animo).		Integrity	Titus 2:7		Joshua Wegner
-Sparkube 1	CT	12_sparkube.jpg	12	Virtuous	1	Faith	3	H	5	F			Spark of Truth	2 Corinthians 4:6 (NIV)		Joshua Wegner
-Stagnetic 1	CT	13_Stagnetic.jpg	13	Virtuous	1	Faith	10			FUUx	ABILITY: If there are at least 3 F power cards in your discard pile this card has no activation cost.		Standing Firm	Philippians 4:1		Danh Tran Art
-Armorino ULTRA 1	CT	14_Armorino_ULTRA.jpg	14	Virtuous	1	Faith	16			FxFxFx			Shielded	Psalm 28:7 (KJV)		Danh Tran Art
-Stagnetic ULTRA 1	CT	15_Stagnetic_Ultra.jpg	15	Virtuous	1	Faith	12			FFF			Immovable	1 Corinthians 15:58		Danh Tran Art
-Glimmer 1	CT	16_Glimmer.jpg	16	Virtuous	1	Hope	2	F	5	H			Child of Light	Ephesians 5:8		Joshua Wegner
-Glimmer 2	CT	17_Glimmer2.jpg	17	Virtuous	2	Hope	6	F	10	HU			Hopeful	Philippians 1:6		Joshua Wegner
-Gazoom 1	CT	18_Gazoom.jpg	18	Virtuous	1	Hope	12			HHU-			In It To Win It	1 Corinthians 9:24		Joshua Wegner
-Daybeak 1	CT	19_Daybeak.jpg	19	Virtuous	1	Hope	5			HU			Awaken	Ephesians 5:14		Baygent Baker
-Squibble 1	CT	20_Squibble.jpg	20	Virtuous	1	Hope	4	L	7	HU			Sharing	1 Timothy 6:18		Joshua Wegner
-Llamup 1	CT	21_Llamup.jpg	21	Virtuous	1	Hope	7			HUU	ACTION: Look at the top 5 cards in your deck.  Arrange them in any order you desire.		Eyes Up	Colossians 3:2		Christina Todd
-Conquersaur 1	CT	22_Conquersaur.jpg	22	Virtuous	1	Hope	5			HU-			Unwavering	Hebrews 10:23		Joshua Wegner
-Conquersaur 2	CT	23_Conquersaur2.jpg	23	Virtuous	2	Hope	10			HH 			More Than Conquerors	Romans 8:37		Danh Tran Art
-Dependaru 1	CT	24_Dependaru.jpg	24	Virtuous	1	Hope	4			HU			Joyful Noise	Psalm 95:1 (KJV)		Thomas Strickland
-Dependaru 2	CT	25_Dependaru2.jpg	25	Virtuous	2	Hope	9	S	12	H-			Rescued	Psalm 40:2		Thomas Strickland
-Oincome 1	CT	26_Oincome.jpg	26	Virtuous	1	Hope	7			HH-			True Provider	1 Timothy 6:17		Joshua Wegner
-Oincome 2	CT	27_Oincome2.jpg	27	Virtuous	2	Hope	8			HH	ACTION: Search your deck for 2 H powers.  Place them directly into your power pool.  Shuffle your deck afterward.		Stewardship	1 Peter 4:10		Joshua Wegner
-Shwimmer 1	CT	28_Schwimmer.jpg	28	Virtuous	1	Hope	5	S	9	H-			Abounding Hope	Romans 15:13		Christina Todd
-Profess-Hare 1	CT	29_Professhare.jpg	29	Virtuous	1	Hope	8			H-H-	ACTION: Search your deck for up to two Lv. 1 Animo (excluding Ultra) and place them into your small group (if space provides).  Shuffle your deck afterward.		Profess	Romans 10:10		Christina Todd
-Conquersaur ULTRA 1	CT	30_Conquersaur_Ultra.jpg	30	Virtuous	1	Hope	14			HH-H-			More Than Conquerors	Romans 8:37		Danh Tran Art
-Agapesaur 1	CT	31_Agapesaur.jpg	31	Virtuous	1	Love	5			LL	ABILITY: Once per turn, discard 1 F or H Animo from your small group and search your deck for 1 L Animo and place it in your hand.  Shuffle afterward.		Greatest of These	1 Corinthians 13:13		Joshua Wegner
-Agapesaur 2	CT	32_Agapesaur2.jpg	32	Virtuous	2	Love	10			LL	ABILITY: As long as this card is in your small group any Sinnie that is revealed to you also has a weakness of "Agapesaur" in addition to it's stated weakness.		Love Conquers All	1 Peter 4:8		Danh Tran Art
-Potpourraise 1	CT	33_Potpourraise.jpg	33	Virtuous	1	Love	7			LUU	ABILITY: As long as this card is in your small group, ignore any effects from the ACTIONS of nay Sinnies revealed to you.		Praise	1 Corinthians 16:23		Christina Todd
-Ankindleo 1	CT	34_Ankindleo.jpg	34	Virtuous	1	Love	5			LL	ABILITY: As long as this card remains in your small group, your opponent(s) may not reveal any MEGA Sinnies to you.		Fearless love	1 John 4:18a		Joshua Wegner
-Fairlee 1	CT	35_Fairlee.jpg	35	Virtuous	1	Love	4	?	8	LUU	ABILITY: Apply the fellowship bonus for this card as long as it is activated in the same turn as another Animo, regardless of it's kind.		Fairness	James 2:1		Baygent Baker
-Fawndly 1	CT	36_Fawndly.jpg	36	Virtuous	1	Love	5	H	8	LU 			Parched Heart	Psalms 42:1		Joshua Wegner
-Mooyoo 1	CT	37_Mooyoo.jpg	37	Virtuous	1	Love	4	H	7	LL			Selfless	Philippians 2:4 (KJV)		Sophia Wegner
-Klimate 1	CT	38_Klimate.jpg	38	Virtuous	1	Love	4	S	10	LLU			Overcomer	1 Peter 5:7		Danh Tran Art
-Furball 1	CT	39_Furball.jpg	39	Virtuous	1	Love	3	F	6	LU			Kindness	Galatians 6:10		Joshua Wegner
-Bearmaid 1	CT	40_Bearmaid.jpg	40	Virtuous	1	Love	3	F	5	L			Bear with One Another	Ephesians 4:2		Baygent Baker
-Harmony 1 (L)	CT	41_Harmony.jpg	41	Virtuous	1	Love	3			L	ABILITY: If this card is in your small group at the same time as "S Harmony", you may search your deck for "Harmony Lv.2".  Shuffle your deck afterward.		Love Bond	Colossians 3:14		Danh Tran Art
-Tweetheart 1	CT	42_Tweetheart.jpg	42	Virtuous	1	Love	3	S	6	L			Tender-Hearted	1 Peter 3:8		Joshua Wegner
-Servidude 1	CT	43_Servidude.jpg	43	Virtuous	1	Love	8			LUU	ABILITY: Once per turn, you may draw 1 card for each F, H, or S Animo in your small group.		Servant's Heart	Galatians 5:13		Christina Todd
-Naybay 1	CT	44_NaybayL.jpg	44	Virtuous	1	Love	4			LU	ACTION: You may search your deck for a standard power and place it directly into your power pool.  If you do, choose 1 opponent to do the same.		Neigh-borly Love	Galatians 5:14		Christina Todd
-Salteeny 1	CT	45_Salteeny.jpg	45	Virtuous	1	Love	5			LL			Tasty Talk	Colossians 4:6		Joshua Wegner
-Salteeny 2	CT	46_Salteeny2.jpg	46	Virtuous	2	Love	10	S	14	LL			Speak Truth	Ephesians 4:25		Danh Tran Art
-Salteeny ULTRA 1	CT	47_Salteeny_Ultra.jpg	47	Virtuous	1	Love	11			LLU			Speak Life	Ephesians 4:15		Danh Tran Art
-Agapesaur ULTRA 1	CT	48_Agapesaur_Ultra.jpg	48	Virtuous	1	Love	13			LLL			Loving	1 Corinthians 16:14		Danh Tran Art
-Razzbear 1 (CT)	CT	49_Razzbear.jpg	49	Virtuous	1	Spirit	8			SUU	ACTION: Reveal the top three cards of your deck.  You may place any power cards you find there directly into your power pool.  Shuffle the rest back into your deck.		Bear-ing Fruit	Galatians 5:22-23		Danh Tran Art
-Draylight 1	CT	50_Draylight.jpg	50	Virtuous	1	Spirit	2			S 			Made Special	Psalm 139:13		Joshua Wegner
-Draylight 2	CT	51_Draylight2.jpg	51	Virtuous	2	Spirit	7			SU 			Wonderfully Made	Psalm 139:14		Joshua Wegner
-Draylight 3	CT	52_Draylight3.jpg	52	Virtuous	3	Spirit	13			SUU	ABILITY: When this card is played from your hand to grow Draylight Lv. 2, you may search your deck for any card.  Shuffly your deck afterward. 		New Creation	2 Corinthians 5:17		Danh Tran Art
-Guppeace 1 (CT)	CT	53_Guppeace_CT.jpg	53	Virtuous	1	Spirit	2			S	ABILITY: When you play this card from your hand into your small group, you may search your deck for any 1 F or H Animo.  Shuffle your deck afterward.		Overflowing Peace	Philippians 4:7		Joshua Wegner
-Manty 1	CT	54_Manty.jpg	54	Virtuous	1	Spirit	3			S			Steadfast	Colossians 4:2		Joshua Wegner
-Manty 2	CT	55_manty2.jpg	55	Virtuous	2	Spirit	8			SU	ACTION: Search your deck for any power card and place it directly in your power pool.  Shuffle your deck afterward.		Prayer	Ephesians 6:18a (NIV)		Danh Tran Art
-Fuzzwurm 1	CT	56_Fuzzwurm.jpg	56	Virtuous	1	Spirit	2			S			Beyond Compare	Romans 8:18		Joshua Wegner
-Fuzzwurm 2	CT	57_Fuzzwurm2.jpg	57	Virtuous	2	Spirit	7			SUU	ABILITY: You may choose to discard an equipment card that is attached to this card.  If you do, you may draw 4 cards.		Persevere	Romans 5:3-4		Joshua Wegner
-Fuzzwurm 3	CT	58_Fuzzwurm3.jpg	58	Virtuous	3	Spirit	12			SU	ACTION: Search your deck for an equipment card and attach it to an Animo in your small group.  Shuffle your deck afterward.		Transformed	2 Corinthians 3:18		Joshua Wegner
-Owlert 1	CT	59_Owlert.jpg	59	Virtuous	1	Spirit	6			SU	ABILITY: Once per turn, you may look at the top card of your deck and either return it to the top or place it on the bottom of the deck.		Keeping Watch	1 Thessalonians 5:6		Baygent Baker
-Sprout 1	CT	60_Sprout.jpg	60	Virtuous	1	Spirit	4			SU			Spiritual Growth	Ephesians 4:15		Joshua Wegner
-Sprout 2	CT	61_Sprout2.jpg	61	Virtuous	2	Spirit	7			SU	ACTION: Search your deck for the next growth stage for any Animo in your small group and instantly grow that Animo.  Shuffle your deck afterwards.		Rooted in Him	Colossians 2:6-7a		Joshua Wegner
-Pladdy 1	CT	62_Pladdy.jpg	62	Virtuous	1	Spirit	5			SU			Holy Dwelling	1 Corinthians 6:19a		Baygent Baker
-Harmony 1 (S)	CT	63_HarmonyS.jpg	63	Virtuous	1	Spirit	3			S			Harmonious	Romans 12:16a (NIV)		Danh Tran Art
-Floraline 1	CT	64_Floraline.jpg	64	Virtuous	1	Spirit	7			SUU			Freedom	2 Corithians 3:17		Baygent Baker
-Floraline 2	CT	65_Floraline2.jpg	65	Virtuous	2	Spirit	8			SU	ABILITY: If you are facing a Sinnie this card has no activation cost.		Set Free	Romans 8:2		Baygent Baker
-Lilly 1	CT	66_Lilly.jpg	66	Virtuous	1	Spirit	3			S	ACTION: Search your deck for any Lv. 1 F, H, or L Animo and place it in your hand.  Shuffle your deck afterwards.		Peace	Colossains 3:15		Sophia Wegner
-Razzbear ULTRA 1	CT	67_Razzbear_Ultra.jpg	67	Virtuous	1	Spirit	10			SUU			Fruit of the Spirit	Galatians 5:22-23a		Danh Tran Art
-Draylight ULTRA 1	CT	68_Draylight_Ultra.jpg	68	Virtuous	1	Spirit	13			SUUU			New Creation	2 Corinthians 5:17		Danh Tran Art
-Potpourraise 1	CT	69_PotpourraiseU.jpg	69	Virtuous	1	Universal	12			SHL			Rejoice	Isaiah 55:12		Christina Todd
-Harmony 2	CT	70_Harmony2.jpg	70	Virtuous	2	Universal	12			SL			In Sync	Romans 15:5-6		Danh Tran Art
-Fawndly 2	CT	71_Fawndly2.jpg	71	Virtuous	2	Universal	10			UU			Loved	Psalm 136:26		Baygent Baker
-Princess Gem 1	CT	72_PrincessGem.jpg	72	Virtuous	1	Universal	3			UU			Child of the King	2 Corinthians 6:18		Joshua Wegner
-Princess Gem 2	CT	73_PrincessGem2.jpg	73	Virtuous	2	Universal	6			UU			Clothed in Christ	Galatians 3:26-27		Joshua Wegner
-Princess Gem 3	CT	74_PrincessGem3.jpg	74	Virtuous	3	Universal	12			UU			Alive in Christ	Ephesians 2:4-5		Danh Tran Art
-Honoroo 1	CT	75_Honoroo.jpg	75	Virtuous	1	Universal	9			SFU			Ransomed	1 Corinthians 6:19b-20		Baygent Baker
-Naybay 1	CT	76_NaybayU.jpg	76	Virtuous	1	Universal	5			FL			Saved by Grace	Ephesians 2:8-9		Christina Todd
-Bearmaid 2	CT	77_Bearmaid2.jpg	77	Virtuous	2	Universal	8			UU			Serving	1 Peter 4:10		Baygent Baker
-Mercifire 1	CT	78_Mercifire.jpg	78	Virtuous	1	Universal	9			FLU			Not of Ourselves	Titus 3:5		Danh Tran Art
-Mercifire ULTRA 1	CT	79_Mercifire_Ultra.jpg	79	Virtuous	1	Universal	14			UUUU			Merciful King	Psalm 145:8		Danh Tran Art
-Princess Gem ULTRA 1	CT	80_PrincessGem_Ultra.jpg	80	Virtuous	1	Universal	12			UUU 			Heavenly Home	Ephesians 2:6 (NIV)		Danh Tran Art
-Croggle 	CT	81_Croggle.jpg	81	Sinnie			7				ABILITY: As long as this card remains your opponent's Active Sinnie, they may not retrieve any cards from their discard pile.	Princess Gem	Guilt	Romans 8:18		Joshua Wegner
-Skortch 	CT	82_Skortch.jpg	82	Sinnie			9				ACTION: Your opponent may not ACTIVATE any H Animo on thier next turn.	Furball	Fire Starter	James 3:5		Joshua Wegner
-Krass-Hopper 	CT	83_Krasshopper.jpg	83	Sinnie			9				ACTION: When played, your opponent reveals their hand.  Select one carad and have them shuffle it back into their deck.	Salteeny Lv. 1	Coarseness	Ephesians 5:4		Danh Tran Art
-Zapper King 	CT	84_zapperking.jpg	84	Sinnie			9				ACTION: Your opponent may not play any level 1 Animo from their hand into their small group next turn.	Fairlee	Oppressor	Zechariah 7:10		Joshua Wegner
-Scoffish 	CT	85_Scoffish.jpg	85	Sinnie			8				ACTION: Your opponent may not ACTIVATE any F Animo on their next turn.	Trusty	Scoffer	2 Peter 3:3-4 (NIV)		Baygent Baker
-Evol 	CT	86_Evol.jpg	86	Sinnie			8				ACTION: Your opponent may not ACTIVATE any L Animo on thier next turn.	Naybay	Hatred	1 John 4:20		Baygent Baker
-Tollkrow 	CT	87_Tollkrow.jpg	87	Sinnie			12					Beeliever	Due Penalty	Romans 6:23		Danh Tran Art
-Scornit 	CT	88_Scornit.jpg	88	Sinnie			6				ABILITY: You may have up to 3 Scornits in your deck and play them on top of each other to create a Swarm.  The Swarm has a defense of the sum of each Scornit, but only counts as 1 Sinnie when defeated.	Fetchie	Scornful	Proverbs 13:13		Joshua Wegner
-Rottenweiler 	CT	89_Rottenweiler.jpg	89	Sinnie			8				ACTION: Select up to two cards from your opponent's discard pile and add them to their hand.	Potpourraise	Trash Talk	1 Timothy 2:16 (KJV)		Baygent Baker
-Scorpoon 	CT	90_Scorpoon.jpg	90	Sinnie			12				ACTION: If you are not already facing a Sinnie, your opponent must reveal a Sinnie from their discard pile (if they have one) and play it against you.	Armorino Lv. 2	Sting	1 Corinthians 15:55-56		Danh Tran Art
-Screeny 	CT	91_Screeny.jpg	91	Sinnie			8				ABILITY: Your opponent may not use their Truth Seeker ability while this Sinnie remains active.	Floraline	Overload	1 Corinthians 6:12		Sophia Wegner
-Belligerphant 	CT	92_Belligerphant.jpg	92	Sinnie			11					Tweetheart	Belligerent	Colossains 3:8 (NIV)		Christina Todd
-Detestabull 	CT	93_Detestabull.jpg	93	Sinnie			10				ACTION: Your opponent must discard one of thier equipment cards that are in play.	Troobloo	Unfit	Titus 1:16		Danh Tran Art
-Corruptayra 	CT	94_Corruptayra.jpg	94	Sinnie			9				ABILITY: As long as this card remains your opponent's Active Sinnie, they may not attach any equipment cards to their Animo.	Salteeny Lv. 2	Defiled	Titus 1:15		Danh Tran Art
-Provokupine 	CT	95_Provokupine.jpg	95	Sinnie			7				ABILITY: When this Sinnie is defeated, the player who revealed this Sinnie may search their deck for any card and place it in their hand.	Bearmaid Lv. 1	Provoke	Galatians 5:26		Joshua Wegner
-Narci 	CT	96_Narci.jpg	96	Sinnie			7				ACTION: Your opponent must flip over one Animo in their small group.  They may not ACTIVATE or GROW that Animo on thier next turn.	Draylight	Vanity	Proverbs 31:30		Joshua Wegner
-Itchyena 	CT	97_Itchyena.jpg	97	Sinnie			8				ACTION: Your opponent may shuffle any 1 card from their discard pile back into their deck.  If they do, they must discard the top two cards of their deck.	Pladdy	Itching Ears	2 Timothy 4:3		Danh Tran Art
-Zapper King MEGA 	CT	98_Zapperking_Mega.jpg	98	Sinnie			16					Squibble	Shocking Schemes	Zechariah 7:10b		Joshua Wegner
-Corruptayra MEGA 	CT	99_Corruptayra_Mega.jpg	99	Sinnie			16					Dependaru	Corrupted	Titus 1:15		Danh Tran Art
-Skortch MEGA 	CT	100_Skortch_Mega.jpg	100	Sinnie			16					Sparkube	Fire Starter	James 3:5		Joshua Wegner
-Ascension 	CT	101_Ascension.jpg	101	Story							You may skip one growth stage this turn.  If you have a Lv. 2 Animo, you may place it directly in your small group.  If you have a Lv. 3 Animo, you may place it directly onto the Lv. 1 of the same Animo. 			Acts 1:6-11		Cardsstation
-Indwelling 	CT	102_Indwelling.jpg	102	Story							Search your deck for up to 2 Holy Spirit power cards and place them in your hand.  Shuffle your deck afterward. 			Acts 2		Olga Menshikova
-Conversion 	CT	103_Conversion.jpg	103	Story							You may discard a Sinnie from your hand and search your deck for any 1 Virtuous Animo.  If you do not have a Sinnie in your hand you cannot play this card.			Acts 9:1-22		Joshua Wegner
-Peter's Vision 	CT	104_Peter_s_Vision.jpg	104	Story							Seach your deck for 1 Lv. 1 Animo and exchange it with 1 Animo (and any attached equipment) from your small group.  Shuffle your deck afterward.  			Acts 10:1-48		Cardsstation
-Answered Prayers 	CT	105_Answered_Prayers.jpg	105	Story							Look at the bottom 5 cards of your deck.  Put one in your hand and return the rest to the bottom in any order you desire.			Acts 12:6-17		Cardsstation
-Beautiful Gate 	CT	106_Beautiful_Gate.jpg	106	Story							Choose 1 of the following:  1) Remove a hindrance card from your Active Sinnie -OR- 2) Ignore any effects from your Active Sinnie's ability for this turn.			Acts 16:16-18		Cardsstation
-Shake n' Break 	CT	107_Shake_Break.jpg	107	Story							Return two Lv. 1 Animo (excluding Ultra) from your discard pile to your hand.			Acts 16:22-39		Cardsstation
-Slumber Tumbler 	CT	108_Slumber_Tumbler.jpg	108	Story							Select 1 standard power from your power pool and place this card on top.  You may not use that power this turn.  On your following turn, that power may be used twice.  DIscard this card afterward.			Acts 20:7-12		Cardsstation
-Snakebit 	CT	109_Snakebit.jpg	109	Story							Playing this card forfeits your scoring phase.  Return your hand to your deck.  You may select ANY 4 cards from your deck and place them in your hand.  Shuffle your deck.  Your turn ends immediately.			Acts 28:1-6		Danh Tran Art
-Letter To Corinth 	CT	110_Letter_Corinth.jpg	110	Story							Search your deck for a card that provides a  L fellowship bonus.			1 Corinthians 13		Olga Menshikova
-Letter To Galatia  	CT	111_Letter_Galatia.jpg	111	Story							Search your deck for a card that provides a S fellowship bonus.			Galatians 4:1-7		Olga Menshikova
-Letter To Ephesus 	CT	112_Letter_Ephesus.jpg	112	Story							Search your deck for a card that provides a F fellowship bonus.			Ephesians 2:1-10		Olga Menshikova
-Tought as Nails 	CT	113_Tough_Nails.jpg	113	Story							If your Active Sinnie spot is empty, you may place this card there.  When an opponent reveals a Sinnie to you, discard this card and search your deck for up to 3 Animo and place them in your hand.  Shuffle your deck afterward.			Philippians 2:4-11		Olga Menshikova
-Bible Study - Spirit 	CT	114_Bible_Study_Spirit.jpg	114	Story							Search your deck for any 1 S Animo.  Reveal it and put it in your hand.  Shuffle your deck afterward.			1 Thessalonians 2:13		anonymous
-Letter To Thessalonica 	CT	115_Letter_Thessalonica.jpg	115	Story							Search your deck for an Animo that provides a H fellowship bonus.			1 Thessalonians 4:13-18		Olga Menshikova
-Breastpalte of Righteousness 	CT	116_Breastplate_Righteousness.jpg	116	Equipment							Every H cost associated with the ANimo to whom this card is attached becomes a universal cost.  Any F, L, or S costs now become H costs.			Ephesians 6:14		Olga Menshikova
-Helmet of Salvation 	CT	117_Helmet_Salvation.jpg	117	Equipment							This card may not be attached to an ULTRA Animo. When the Animo to whom this card is attached is to be discarded, discard this card instead and return the Animo to your hand.			Ephesians 6:17		Olga Menshikova
-Sword of the Spirit 	CT	118_Sword_Spirit.jpg	118	Equipment							The S Animo to whom this card is attached gains +3 Virtue Points.			Ephesians 6:14		Olga Menshikova
-Shield of Faith 	CT	119_Shield_Faith.jpg	119	Equipment							The F Animo to which this card is attached is not effected by abilities or actions of Sinnies.  Also, as long as this card remains in play, your power cards are protected against the actions of your opponent's story cards or Sinnies.			Ephesians 6:16		Olga Menshikova
-Belt of Truth 	CT	120_Belt_Truth.jpg	120	Equipment							1. When this card is attached to a L Animo, instantly draw 2 cards.  2.  Once per turn, as long as this card is attached to any Animo in play, you may peek at the top 4 cards in your deck and return them to the top of your deck in any order.			Ephesians 6:14		Olga Menshikova
-Shoes of the Gospel 	CT	121_Shoes_Gospel.jpg	121	Equipment							Once during your turn, as long as this card is attached to one of the Animo in your small group, you may look at the top card of your deck.  If that card is a power card, you may put it directly into your power pool.  Otherwise, put the card back on top.			Ephesians 6:15		Olga Menshikova
-Peter's Sandals 	CT	122_Peter_s_Sandals.jpg	122	Equipment							When the Animo to whom this card is attached is to be discarded, discard this card, and shuffle that Animo back into your deck.			Acts 12:8-10		Olga Menshikova
-Paul's Chains 	CT	123_Paul_s_Chains.jpg	123	Equipment							The Animo to whom this card is attached may not be ACTIVATED, but may be discarded at any time during your setup phase.  Once per turn, as long as this card is attached to an Animo in your small group, you may search your deck for up to 2 level 1 Animo and place them in your small group.  If there is no room in your small group, this card has no use.			Philippians 1:12-14		Olga Menshikova
-Hardened Heart 	CT	124_Hardened_Heart.jpg	124	Hindrance							This card may only be attached to a Sinnie with a defense less than 10.  The Sinnie to which this card is attached has +5 defense.			Ephesians 4:18		Olga Menshikova
-Paul's Thorn 	CT	125_Pauls_Thorn.jpg	125	Hindrance							As long as this is attached to a Sinnie (excluding MEGA), every Virtuous Animo that is played against that Sinnie has it's virtue score reduced by 2 points.			2 Corinthians 12		Olga Menshikova
-Blindfold 	CT	126_Blindfold.jpg	126	Hindrance							This card may only be attached to a Sinnie with an ABILITY.  As long as this card is attached, the ABILITY of the Sinnie may no longer be used, instead, the Sinnie gains +7 defense.			2 Corinthians 4:4		Olga Menshikova
-Silas 	CT	127_Silas.jpg	127	Truth Seeker		Faith					Once per turn, you may return 1 F power from your discard pile into your hand.					Weirdsgn
-Mae 	CT	128_Mae.jpg	128	Truth Seeker		Faith					(Once per turn) You may draw 2 cards for each F power that you discard from your hand.					Weirdsgn
-Sadie 	CT	129_Sadie.jpg	129	Truth Seeker		Hope					Once per turn, you may search your deck for a level 1 Animo (excluding ULTRA) and place it in your small group.					Weirdsgn
-Link 	CT	130_Link.jpg	130	Truth Seeker		Hope					If after your draw phase you have no power cards in your hand, you may reveal your hand and search your deck for 1 standard power card.  Shuffle your deck.					Weirdsgn
-Sophia 	CT	131_Sophia.jpg	131	Truth Seeker		Love					If you are facing a Sinnie when your turn begins, you may draw 2 extra cards during your draw phase.					Weirdsgn
-Calvin 	CT	132_Calvin.jpg	132	Truth Seeker		Love					Victory Condition: Win by defeating 5 Sinnies					Weirdsgn
-Simon 	CT	133_Simon.jpg	133	Truth Seeker		Spirit					Once per turn you may reveal an Animo from your hand and search your deck for the previous growth stage of that Animo.  Shuffle your deck afterward.					Weirdsgn
-Ellie 	CT	134_Ellie.jpg	134	Truth Seeker		Spirit					Victory Condition: Win by scoring 55 Virtue Points					Weirdsgn
-Faith 	CT	135_Faith.jpg	135	Power		Faith								Hebrews 11:1		
-Hope 	CT	136_Hope.jpg	136	Power		Hope								Psalm 39:7		
-Love 	CT	137_Love.jpg	137	Power		Love								John 13:34		
-Holy Spirit 	CT	138_Spirit.jpg	138	Power		Spirit								Acts 1:8		
-Prayer 	CT	139_Prayer.jpg	139	Special Power										Colossians 4:2		
-Fasting 	CT	140_Fasting.jpg	140	Special Power										Acts 13:3		
-Faith Alternate Art 	CT	141_Faith_Alt.jpg	141	Power		Faith								Hebrews 11:1		
-Hope Alternate Art 	CT	142_Hope_Alt.jpg	142	Power		Hope								Psalm 39:7		
-Love Alternate Art 	CT	143_Love_Alt.jpg	143	Power		Love								John 13:34		
-Holy Spirit Alternate Art 	CT	144_Spirit_Alt.jpg	144	Power		Spirit								Acts 1:8		
-Luminey 1	RLD	1_Luminey.jpg	1	Virtuous	1	Faith	4			FF			Night Light	Luke 11:33		Joshua Wegner
-Luminey 2	RLD	2_Luminey_2.jpg	2	Virtuous	2	Faith	8			FFx	ABILITY: When this card is played from your hand to grow Luminey Lv.1, you may look at the top 5 cards of your deck.  Discard as many of those cards as you desire and return the rest to the top of the deck in any order.		Revealed	Luke 12:2		Danh Tran Art
-Luminey 3	RLD	3_Luminey_3.jpg	3	Virtuous	3	Faith	13	H	16	FFF	ACTION: You may select up to 3 standard power cards from your discard pile and place them directly into your power pool.		En-light-ened	Luke 8:17		Danh Tran Art
-Sparkube 1	RLD	4_sparkube.jpg	4	Virtuous	1	Faith	4			Fx			Light of Life	Matthew 5:14		Joshua Wegner
-Sparkube 2	RLD	5_Sparkube_2.jpg	5	Virtuous	2	Faith	7	H	10	Fx			Shine	Matthew 5:16		Danh Tran Art
-Maiseal 1	RLD	6_Maiseal.jpg	6	Virtuous	1	Faith	5			Fx	ACTION: You may return a Story card from your discard pile back into your hand.		Believe	John 3:16		Danh Tran Art
-Trusty 1	RLD	7_Trusty.jpg	7	Virtuous	1	Faith	5			FU			Untroubled	John 14:1		Lucy_Was_Taken
-Trusty 2	RLD	8_Trusty_2.jpg	8	Virtuous	2	Faith	10			FFF	ABILITY: For each Trusty in your discard pile, you may remove one cost to activate this Animo.		Blind Faith	John 20:29		Lucy_Was_Taken
-Flo 1	RLD	9_Flo_a.jpg	9	Virtuous	1	Faith	3			F	ABILITY: When this card is played from your hand into your small gorup, you may place 1 L Animo from your discard pile into your hand.		Good Shepherd	John 10:11		Lucy_Was_Taken
-Flo 1	RLD	10_Flo_b.jpg	10	Virtuous	1	Faith	4	L	6	Fx			Follow	John 10:27		Chris Alonso
-Flo 2	RLD	11_Flo_2.jpg	11	Virtuous	2	Faith	6	L	9	F	ABILITY: As long as this card is in your small group, any L Animo in play may NOT be targeted by the ACTIONS of Sinnies.		Safe and Sound	John 10:28		Lucy_Was_Taken
-Quillow 2 (F)	RLD	12_Quillow_2_F.jpg	12	Virtuous	2	Faith	3x			F	ABILITY: You may place up to 4 cards from your hand beneath this card (and effectively out of play).  When activated, this card earns 3 VP for each card beneath this one.  Discard those cards when this card is discarded.		Trial by Fire	Matthew 5:10		Christina Todd
-Flamingrow 2 (F)	RLD	13_flamingrow_2_F.jpg	13	Virtuous	2	Faith	10			FFx	ABILITY: When this card is played to grow Flamingrow Lv. 1, you may select any 3 cards from your discard pile and place them in any order on the bottom of your deck.		All Things Possible	Mark 9:23		Alex Gil Ble
-Halfalanche ULTRA 1	RLD	14_Halfalanche_Ultra.jpg	14	Virtuous	1	Faith	11			FxFx			Faith Flurry	Mark 11:23		Danh Tran Art
-Luminey ULTRA 1	RLD	15_Luminey_Ultra.jpg	15	Virtuous	1	Faith	15			FFFF			Revealed	Luke 8:17		Danh Tran Art
-Hopper 1	RLD	16_Hopper.jpg	16	Virtuous	1	Hope	4			HHU	ACTION: Search your deck for ANY 2 Animo with a VP score of 8 or less and place them in your hand.  Shuffle your deck afterwards.		Squeak N' Seek	Matthew 7:7		Christina Todd
-Quillow 2 (H)	RLD	17_Quillow_2H.jpg	17	Virtuous	2	Hope	8			HH 	ACTION: Search your deck for any 1 Story Card and 1 H power.  Reveal them and put them into your hand.  Shuffle your deck afterward.		Comforted	Matthew 5:4		Christina Todd
-Glimmer 1	RLD	18_Glimmer.jpg	18	Virtuous	1	Hope	4	L	6	HH-			Joy	John 15:11		Lucy_Was_Taken
-Glimmer 2	RLD	19_Glimmer_2.jpg	19	Virtuous	2	Hope	7	L	10	HH	ABILITY: When this card is played from your hand to grow "Glimmer Lv. 1" you may draw 2 cards.		The Golden Rule	Matthew 7:12 (NIV)		Lucy_Was_Taken
-Amaryllis 1	RLD	20_Amaryllis.jpg	20	Virtuous	1	Hope	5	S	8	HU			Provision	Matthew 6:28b-29		Baygent Baker
-Shwimmer 1	RLD	21_Shwimmer.jpg	21	Virtuous	1	Hope	3	S	5	H	ACTION: Search your deck for 1 standard power card and place it directly into your power pool.  Shuffle your deck afterward.		Greater Things	John 14:12		Christina Todd
-Percy 1	RLD	22_Percy.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: When this card is played from your hand into your small group, you may look at the top 5 cards of your deck, take 1, and return the rest in any order.		Cheer Up!	John 16:33		Alex Gil Ble
-Percy 2	RLD	23_Percy_2.jpg	23	Virtuous	2	Hope	10			HHU	ACTION: Search your deck for any 2 cards and place them in your hand.  Shuffle afterward.		Overcomer	Revelation 21:7		Alex Gil Ble
-Flamingrow 2 (H)	RLD	24_Flamingrow_2H.jpg	24	Virtuous	2	Hope	9	F	12	HH-			Repent	Luke 15:10		Alex Gil Ble
-Sowcrow 1	RLD	25_Sowcrow.jpg	25	Virtuous	1	Hope	6			H-H-	ABILITY: When this card is played from your hand into your small group, you may draw 1 card.		Harvest	Matthew 9:37-38		Joshua Wegner
-Sowcrow 2	RLD	26_Sowcrow_2.jpg	26	Virtuous	2	Hope	9			HH-	ABILITY: When this card is played from your hand to grow Sowcrow lv. 1, you may shuffle your hand back into your deck and draw 5 cards.		Ripe for Harvest	John 4:25b		Mangaboi
-Aurora 1	RLD	27_Aurora.jpg	27	Virtuous	1	Hope	4			H	ABILITY: If this card is in your small group, it provides 1 H power during your scoring phase.  This card may not be activated in the turn this ability is used.		Walking on Sunshine	John 8:12		Christina Todd
-Infinifish 1	RLD	28_Infinifish.jpg	28	Virtuous	1	Hope	3			H	ACTION: When this card is to be discarded, you may choose to shuffle it back into your deck instead.  If you do, gain +1 VP to your score.		Enduring	Matthew 28;20b		Danh Tran Art
-Sowcrow ULTRA 1	RLD	29_Sowcrow_ULTRA.jpg	29	Virtuous	1	Hope	12			HUU			Provision	Luke 12:24		Mangaboi
-Percy ULTRA 1	RLD	30_Percy_ULTRA.jpg	30	Virtuous	1	Hope	12			HHH	ABILITY: Once per turn, as long as this card is in your small group, you may draw 1 card.		Overcomer	Revelation 21:7		Alex Gil Ble
-Heartvark 1	RLD	31_Heartvark.jpg	31	Virtuous	1	Love	5			LL			Christ's Love	John 15:9		Joshua Wegner
-Heartvark 2	RLD	32_Heartvark_2.jpg	32	Virtuous	2	Love	7	F	10	LU	ACTION: Search your deck for up to 2 Animo with a VP score of 8 or less.  Reveal them, place them in your hand, and shuffle your deck afterward.		Remaining in Love	John 15:10		Joshua Wegner
-Mongoroo 1	RLD	33_Mongoroo.jpg	33	Virtuous	1	Love	4	S	8	LL			Cheerful Giver	Matthew 5:42		Lucy_Was_Taken
-Flamingrow 2 (L)	RLD	34_Flamingrow_2L.jpg	34	Virtuous	2	Love	8			LU	ABILITY: When this card is played from your hand to grow "Flamingrow Lv. 1", you may search your deck for 1 L power and add it to your power pool.		Love One Another	John 13:34		Alex Gil Ble
-Cordaiwl 1	RLD	35_Cordiawl.jpg	35	Virtuous	1	Love	3			LL			Caring	Luke 6:27		Joshua Wegner
-Cordiawl 2	RLD	36_Cordiawl_2.jpg	36	Virtuous	2	Love	5			L			Cordial	Luke 6:28		Danh Tran Art
-Quillow 2 (L)	RLD	37_Quillow_2L.jpg	37	Virtuous	2	Love	4			L	ACTION: Search your deck for either 1 special power or 2 standr power cards and add it/them to your power pool.  Shuffle your deck afterward.		Merciful	Matthew 5:7		Christina Todd
-Treashell 1	RLD	38_Treashell.jpg	38	Virtuous	1	Love	2			L			Investment	Matthew 13:45-46		Danh Tran Art
-Treashell 2	RLD	39_Treashell_2.jpg	39	Virtuous	2	Love	6			LU			Heavenly Treasure	Matthew 6:20		Danh Tran Art
-Treashell 3	RLD	40_Treashell_3.jpg	40	Virtuous	3	Love	12	H	15	LL	ABILITY: If this card is in your small group, it provides 2 L powers during your scoring phase.  This card may not be activated in the turn this ability is used.		True Treasure	Matthew 6:21		Danh Tran Art
-Ragdalene 1	RLD	41_Ragdelene.jpg	41	Virtuous	1	Love	4	H	8	LL			Poor in Spirit	Matthew 5:3		Joshua Hale
-Salteeny 1	RLD	42_Salteeny.jpg	42	Virtuous	1	Love	5			LL			Salty	Matthew 5:13a		Lucy_Was_Taken
-Salteeny 2	RLD	43_Salteeny_2.jpg	43	Virtuous	2	Love	8	S	11	LL	ABILITY: When played to grow Salteeny Lv. 1, return your active Sinnie to the hand of the player who revealed it to you.		Forgive	Matthew 6:14		Lucy_Was_Taken
-Humbumble 1	RLD	44_Humbumble.jpg	44	Virtuous	1	Love	5	H	10	LUU			Bee-Attitude	Matthew 5:8		Christina Todd
-Treashell ULTRA 1	RLD	45_Treashell_ULTRA.jpg	45	Virtuous	1	Love	12			LLU			True Treasure	Matthew 6:21		Danh Tran Art
-Flo ULTRA 1	RLD	46_Flo_ULTRA.jpg	46	Virtuous	1	Love	9			LU	ABILITY: You may discard this card from your small group.  If you do, search your deck for any 3 Animo, reveal them and place them in your hand.  Shuffle your deck afterward.		Sacrificial Love	John 15:13		Danh Tran Art
-Hybird 1	RLD	47_Hybird.jpg	47	Virtuous	1	Spirit	3			SU			Thirsty	John 4:12-14a		Danh Tran Art
-Hybird 2	RLD	48_Hybird_2.jpg	48	Virtuous	2	Spirit	5			SU	ABILITY: When this card is played from your hand to grow "Hybird Lv.1", you may search your deck for 1 standard power card and place it in your power pool.		Thirst Quencher	John 7:37		Danh Tran Art
-Hybird 3	RLD	49_Hybird_3.jpg	49	Virtuous	3	Spirit	10			SU	ACTION: Search your deck for up to two Virtuos Animo that are either Lv. 2 or Lv. 3		Spring Up	John 4:14b		Danh Tran Art
-Nico 1	RLD	50_Nico.jpg	50	Virtuous	1	Spirit	2			S 			Born Again	John 3:3		Danh Tran Art
-Nico 2	RLD	51_Nico_2.jpg	51	Virtuous	2	Spirit	7			SUU			Second Birth	John 3:5		Danh Tran Art
-Nico 3	RLD	52_Nico_3.jpg	52	Virtuous	3	Spirit	11			SUU	ACTION: Search your discard pile for the next growth stage of any Animo in your small group.  You may instantly grow those Animo.		Spiritual Birth	John 3:8		Danh Tran Art
-Guppeace 1	RLD	53_Guppeace.jpg	53	Virtuous	1	Spirit	5			SU			Peace	John 14:27a (KJV)		Joshua Wegner
-Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this card is played from your hand to grow "Guppeace Lv. 1", you may re-shuffle your hand into your deck and draw 6 cards.		Untroubled	John 14:27b (KJV)		Joshua Wegner
-Prayeregrine 1	RLD	55_Prayeragrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble
-Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble
-Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble
-Razzbear 1 (S)	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd
-Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28		Joshua Wegner
-Quillow 2 (S)	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd
-Prayeregrine ULTRA 1	RLD	61_Prayeregrine_ULTRA.jpg	61	Virtuous	1	Spirit	13			SUUU			Willing Spirit	Matthew 26:41		Alex Gil Ble
-Hybird ULTRA 1	RLD	62_Hybird_Ultra.jpg	62	Virtuous	1	Spirit	8	F	13	SUU			Living Water	John 7:38		Danh Tran Art
-Nico ULTRA 1	RLD	63_Nico_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:24		Danh Tran Art
-Cordiawl 3	RLD	64_Cordiawl_3.jpg	64	Virtuous	3	Universal	10			UU	ABILITY: As long as this card is in your small group, all F, H, L, and S costs on your other Animo become U costs.		Loving	Luke 6:35a		Danh Tran Art
-Mercifire 1	RLD	65_Mercifire.jpg	65	Virtuous	1	Universal	7			UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less.  Shuffle your deck afterward.		Merciful	Luke 6:36		Danh Tran Art
-Servidude 1	RLD	66_Servidude.jpg	66	Virtuous	1	Universal	5			UUU	ABILITY: This card costs 1 less power to activate for each L or S Animo in your small group.		Servant	Matthew 20:26		Christina Todd
-Razzbear 1 (RLD 67)	RLD	67_Razzbear_b.jpg	67	Virtuous	1	Universal	9			SLU			Fruitful	Matthew 7:16-17a		Christina Todd
-Razzbear 1 (RLD 68)	RLD	68_Razzbear_c.jpg	68	Virtuous	1	Universal	9			SFU			Fruitful	John 15:4		Christina Todd
-Alphalux 1	RLD	69_Alphalux.jpg	69	Virtuous	1	Universal	1			U			From the Start	John 1:1		Joshua Wegner
-Alphalux 2	RLD	70_Alphalux_2.jpg	70	Virtuous	2	Universal	8			UUU			The Way	John 14:6		Danh Tran Art
-Alphalux 3	RLD	71_Alphalux_3.jpg	71	Virtuous	3	Universal	15			UUU			Eternal King	Revelation 22:13		Danh Tran Art
-Glimmer 2	RLD	72_Glimmer_2.jpg	72	Virtuous	2	Universal	12			HLU			The Golden Rule	Luke 6:31		Lucy_Was_Taken
-Seacurl 1	RLD	73_Seacurl.jpg	73	Virtuous	1	Universal	3			U			The Least of These	Matthew 25:40		Sadie Wegner
-Vineon 2	RLD	74_Vineon_2.jpg	74	Virtuous	2	Universal	8			UU			The Vine	John 15:5		Joshua Wegner
-Heraldash 1	RLD	75_Heraldash.jpg	75	Virtuous	1	Universal	8			UUU	ACTION: All players may select a story card from their discard pile and shuffle it back into their deck.		Spread the Word	Mark 16:15		Danh Tran Art
-Lolli 1	RLD	76_Lolli.jpg	76	Virtuous	1	Universal	9			SHU			Humble Pie	Matthew 23:12		Baygent Baker
-Floraline 1	RLD	77_Floraline.jpg	77	Virtuous	1	Universal	4			UU			Set Free	John 8:31-32		Baygent Baker
-Floraline 2	RLD	78_Floraline_2.jpg	78	Virtuous	2	Universal	8			UU	ABILITY: As long as this card is in your small group, there is not limit to the number of power cards you may play from your hand into your power pool.		Free Indeed	John 8:36		Baygent Baker
-Quillow 1	RLD	79_Quillow.jpg	79	Virtuous	1	Universal	3			U			Meek	Matthew 5:5		Christina Todd
-Flamingrow 1	RLD	80_Flamingrow.jpg	80	Virtuous	1	Universal	4			UUU			Hungry	Matthew 5:6		Alex Gil Ble
-Alphalux ULTRA 1	RLD	81_Alphalux_ULTRA.jpg	81	Virtuous	1	Universal	10			UUU	ABILITY: When this card is activated, any Animo activated in the same turn gains +2 VP		Cross Bearer	Mark 8:34b		Danh Tran Art
-Babubble 	RLD	82_Babubble.jpg	82	Sinnie			10				ABILITY: As long as this card remains active, your opponent may not have more than one Animo of the same NAME in thier small group at a time.	Prayeregrine	Cheap Talk	Matthew 6:7		Christina Todd
-Pandit 	RLD	83_Pandit.jpg	83	Sinnie			9				ACTION: Select 1 SPECIAL power card from your opponent's power pool.  They must shuffle it back into their deck.	Owlert	Thief in the Night	Luke 12:39		Joshua Hale
-Grumproast 	RLD	84_Grumproast.jpg	84	Sinnie			9				ABILITY: As long as this Sinnie remains active, your opponent may have no more than 3 Animo in their small group at a time.  (If more than 3 Animo are in your opponent's small group when this card is revealed, they must discard down to 3.)	Salteeny Lv.1	Trample	Matthew 7:6		Lucy_Was_Taken
-Planttrap 	RLD	85_Planttrap.jpg	85	Sinnie			8				ACTION: You may select up to three cards from your opponent's discard pile and place them on the bottom of their deck.	Vineon	Trapped	Matthew 13:22		Danh Tran Art
-Anxietor 	RLD	86_Anxietor.jpg	86	Sinnie			9				ACTION: Your opponent may not play any Story or Equipment cards on their next turn.	Sowcrow ULTRA	Worried Sick	Matthew 6:27		Joshua Hale
-Globster 	RLD	87_Globster.jpg	87	Sinnie			10				ABILITY: As long as this Sinnie remains active, your opponent must discard the top card in their deck as soon as their turn begins (before drawing cards).  	Humbumble	Repulsive	Matthew 15:17-18		Danh Tran Art
-Judgeweed 	RLD	88_Judgeweed.jpg	88	Sinnie			8				ABILITY: As long as this Sinnie is active, your opponent may not reveal Sinnies.	Glimmer Lv. 2	Judging Eye	Matthew 7:1-2		Danh Tran Art
-Woolf 	RLD	89_Woolf.jpg	89	Sinnie			10				ABILITY: If this card is in your hand, you may choose to show it to your opponent and shuffle it back into your deck.  If you do, draw another card.	Flo	Deceiver	Matthew 7:15		Baygent Baker
-Hippocritter 	RLD	90_Hippocritter.jpg	90	Sinnie			9				ABILITY: As long as this Sinnie remains active, the ACTIONS of your opponents virtuous Animo have no effect.	Flamingrow Lv.2 (Hope)	Hypocrisy	Matthew 7:5		Joshua Hale
-Splidapidator 	RLD	91_Splidapidator.jpg	91	Sinnie			6				ACTION: When this card is reveled, your opponent must shuffle half of the Animo from their small group back into their deck (rounding up).	Prayer Group	House Divided	Matthew 12:25		Joshua Hale
-Nastree 	RLD	92_Nastree.jpg	92	Sinnie			8				ACTION: Any Animo (and any attached cards) that remain in your opponent's small group following their next turn, must be shuffled back into their deck.	Razzbear	Rotten Fruit	Matthew 7:19-20		Danh Tran Art
-Hookwurm 	RLD	93_Hookwurm.jpg	93	Sinnie			8				ABILITY: As long as this Sinnie is active, all of your opponent's Animo require 1 extra U cost in order to be activated.	Alphalux ULTRA	Lukewarm	Revelation 3:15-16		Joshua Hale
-Grrrrumble 	RLD	94_Grrrumble.jpg	94	Sinnie			13					Glimmer Lv. 2	Grumble Grumble	John 6:43 (NIV)		Christina Todd
-Denyala 	RLD	95_Denyala.jpg	95	Sinnie			8				ABILITY: As long as this Sinnie remains active, your opponent may not use their Truth Seeker's POWER.	Profess-Hare	Denial	Luke 12:9		Joshua Wegner
-Pogo 	RLD	96_Pogo.jpg	96	Sinnie			11				ACTION: When this Sinnie is revealed, both you and your opponent must discard the top card of your deck.	Cordiawl	Aye' for an 'Aye'	Matthew 5:38-39		Joshua Hale
-Flipper 	RLD	97_Flipper.jpg	97	Sinnie			7/17				ABILITY: If your opponent has 40 points or more, this Sinnie gets +10 defense by revealing this V side.	Luminey Lv. 3	Two-Faced	Matthew 15:8		Danh Tran Art
-Wall-R-Us 	RLD	98_Wall_R_Us.jpg	98	Sinnie			8				ABILITY: You may have up to 3 Wall-R-Us in your deck and play them on top of each other to create a 'Wall' which has a defense of the sum of each card.  Each Wall-R-Us card in the 'Wall' counts as 1 Sinnie when defeated.	Sowcrow	Hinder	Matthew 19:14		Danh Tran Art
-Fearcrow 	RLD	99_Fearcrow.jpg	99	Sinnie			10				ACTION: Chooose 1 Lv. 2 or Lv. 3 Animo from your opponent's small group.  Revert that Animo back to Lv. 1 by having your opponent shuffle the growth stage(s) for that Animo back into their deck.	Guppeace Lv.2	Fear	Matthew 10:28a		Danh Tran Art
-Blinderz 	RLD	100_Blinderz.jpg	100	Sinnie			11				ACTION: When this Sinnie is revealed, blindly (at random) select one card from your opponent's hand and have them discard it.	Flo	Blind Guide	Matthew 15:14		Joshua Hale
-Murkay 	RLD	101_Murkay.jpg	101	Sinnie			8				ABILITY: As long as this Sinnie is active, your opponent may draw no more than 2 cards during their draw phase, regardless of hand size.	Sparkube	In The Dark	Matthew 6:23		Sophia Wegner
-Waspitz 	RLD	102_Waspitz.jpg	102	Sinnie			10				ACITON: When this Sinnie is revealed, select 1 card from your opponent's discard pile and set it to the side.  It may not return for the duration of the game.	Percy	Tempted	Luke 22:40		Baygent Baker
-Nastree MEGA 	RLD	103_Nastree_MEGA.jpg	103	Sinnie			16					Razzbear	Rotten Fruit	Matthew 7:19-20		Danh Tran Art
-Globster MEGA 	RLD	104_Globster_MEGA.jpg	104	Sinnie			16					Fetchy	Worker of Iniquity	Matthew 7:21		Danh Tran Art
-Planttrap MEGA 	RLD	105_Planttrap_MEGA.jpg	105	Sinnie			16					Vineon	Among the Thorns	Matthew 13:22		Danh Tran Art
-Wall-R-Us MEGA 	RLD	106_Wall_R_Us_MEGA.jpg	106	Sinnie			16					Hopper	Halt	Matthew 19:14		Danh Tran Art
-Sand Castle 	RLD	107_Sand_Castle.jpg	107	Story							Search your deck for either 1 Ultra or 1 Mega Animo			Matthew 7:24-27		Victoria Skakandi
-Good Soil 	RLD	108_Good_Soil.jpg	108	Story							Look at the top 7 cards of your deck.  Place 1 Animo you find there in your hand.  Shuffle your deck afterwards.			Matthew 13:1-23		Victoria Skakandi
-Mustard Seed 	RLD	109_Mustard_Seed.jpg	109	Story							Discard 2 cards from your hand.  Search your deck for up to 2 growth stages for an Animo in your small group and grow that Animo.  Shuffle your deck.  If you do not have 2 cards in your hand to discard, you cannot play this card.			Matthew 13:31-32		Victoria Skakandi
-Hidden Treasure 	RLD	110_Hidden_Treasure.jpg	110	Story							Place 1 card from your hand on the bottom of your deck.  If you do, you may draw 3 cards.			Matthew 13:45-46		Victoria Skakandi
-Fishing Nets 	RLD	111_Fishing_Nets.jpg	111	Story							Draw 2 cards.  If this was the last card in your hand, draw 4 cards instead.			John 21:1-14		Olga Menshikova
-Lost and Found 	RLD	112_Lost_and_Found.jpg	112	Story							Search your deck for any 1 card, reveal it to your opponent, and place it in your hand.  You may not paly or discard that card this turn.			Matthew 18:10-14		Victoria Skakandi
-Copper Coins 	RLD	113_Copper_Coins.jpg	113	Story							Look at the top 7 cards of your deck.  You may place up to 2 power cards you find there directly into your power pool.  Shuffle your deck afterward.			Mark 12:41-44		Olga Menshikova
-Good Neighbor 	RLD	114_Good_Neighbor.jpg	114	Story							You may give 2, 4, or 6 VP of your total score to any single opponent.  For every 2 points you give away, search your deck for any card (up to 3 cards) and place it/them in your hand.  Shuffle your deck afterward.  You cannot give more points than you currently have.			Luke 10:29-37		Victoria Skakandi
-The Rich Fool 	RLD	115_Rich_Fool.jpg	115	Story							Draw the bottom 3 cards of your deck			Luke 12:13-31		Victoria Skakandi
-The Runaway 	RLD	116_The_Runaway.jpg	116	Story							Select any Animo from your discard pile and return it to your hand.			Luke 15:11-32		Victoria Skakandi
-Gold 	RLD	117_Gold.jpg	117	Equipment							If the Animo to whom this card is attached has any H- costs, they may be converted to H costs instead.			Matthew 2:1-12		Olga Menshikova
-Frankincense 	RLD	118_Frankincense.jpg	118	Equipment							If the Animo to whom this card is attached has any Fx costs, they may be converted to F costs instead.			Matthew 2:1-12		Olga Menshikova
-Myrrh 	RLD	119_Myyrh.jpg	119	Equipment							When attached to an Animo, this card reduces its cost by 1 S power.			Matthew 2:1-12		Olga Menshikova
-Tools of the Trade 	RLD	120_Tools_Trade.jpg	120	Equipment							The L Animo to whom this card is attached gains +2 virtue points when activated.  If activated against an Active Sinnie, the Animo instead gains +4 virtue points.			Mark 6:1-6		Olga Menshikova
-Broken Jar 	RLD	121_Broken_Jar.jpg	121	Equipment							When attached to an Animo, this card increases its activation cost by 1 U power.  The Animo to whom this card is attached gains +5 VP when activated.			Mark 14:1-9		Olga Menshikova
-Millstone 	RLD	122_Millstone.jpg	122	Equipment							This card may only be attached to a Sinnie with an ABILITY.  This card's ability nullifies that Sinnie's normal ability.  The player facing the Sinnie to whom this card is attached may only activate 1 Animo per turn while the Sinnie is active.			Luke 17:1-4		Olga Menshikova
-Roman Scourge 	RLD	123_Roman_Scourge.jpg	123	Equipment							Universal Animo may not be activated against the Sinnie to whom this card is attached- as long as the Sinnie is active.  If this card is attached to a Sinie that is currenlty 'battling' Universal Animo, those Animo must be returned to your opponent's hand.			John 19		Olga Menshikova
-Blood Money 	RLD	124_Blood_Money.jpg	124	Equipment							This card may only be attached to a MEGA Sinnie.  The Sinnie to whom this card is attached gains +8 Defense.  When the Sinnie is defeated, the opponent gets credit for defeating 2 Sinnies.			Matthew 26:14-16		Olga Menshikova
-Ezra 	RLD	125_Ezra.jpg	125	Truth Seeker		Faith					During your scoring phase, you may convert any Fx cost on a single Animo to F costs.					Weirdsgn
-Levi 	RLD	126_Levi.jpg	126	Truth Seeker		Hope					You may place upu to 2 power cards from your hand into your power pool per turn.					Weirdsgn
-Yana 	RLD	127_Yana.jpg	127	Truth Seeker		Love					Every Sinnie reevaled to you has it's base defense reduced by -2 pts.					Weirdsgn
-JP 	RLD	128_JP.jpg	128	Truth Seeker		Spirit					Once per turn (during your setup phase), you may draw 1 card for each Lv. 2 or Lv. 3 Animo in your small group.					Weirdsgn
-Breanna 	RLD	129_Breanna.jpg	129	Truth Seeker		Universal					Before the game begins, separate any 3 cards from your deck and place them face-down beneath this card.  Once per turn, you may select 1 of those cards and place it in your hand.					Weirdsgn
-Aleks 	RLD	130_Aleks.jpg	130	Truth Seeker		Universal					As long as your total score is less than 30 VP, you may have up to 5 Animo in your small group at a time.					Weirdsgn
-Faith 	RLD	131_Faith_Power.jpg	131	Power		Faith								Mark 2:5		
-Hope 	RLD	132_Hope_Power.jpg	132	Power		Hope								Luke 2:11 (KJV)		
-Love 	RLD	133_Love_Power.jpg	133	Power		Love								John 3:16		
-Holy Spirit 	RLD	134_Holy_Spirit_Power.jpg	134	Power		Spirit								Matthew 10:20		
-Prayer 	RLD	135_Prayer.jpg	135	Special Power							Provides 1 F, H, or L power per turn.			John 15:7		
-Fasting 	RLD	136_Fasting.jpg	136	Special Power							Provides 1 S or 2 U powers to one Animo per turn.			Matthew 6:17-18a		
-Faith Alternate Art 	RLD	137_Faith_Power_Alt.jpg	137	Power		Faith								Mark 2:5		
-Hope Alternate Art 	RLD	138_Hope_Power_Alt.jpg	138	Power		Hope								Luke 2:11 (KJV)		
-Love Alternate Art 	RLD	139_Love_Power_Alt.jpg	139	Power		Love								John 3:16		
-Holy Spirit Alternate Art 	RLD	140_Holy_Spirit_Alt.jpg	140	Power		Spirit								Matthew 10:20		
-Prayer Group 1	RLD	141_Prayer_Group.jpg	141	Virtuous	1	Universal	3x			U?	ABILITY: You may activate this acrd using up to 6 of any power.  When activated, this card is worth 3 VP for each power that is used to activate it.			Matthew 18:20		Danh Tran Art
+Name	Set	ImageFile	Number	CardType	Level	PowerKind	VirtueScoreOrSinnieDefense	FellowshipScoreKind	FellowshipScorePoints	ActivationCost	AbilityText	Weakness	Attribute	VerseReference	VerseText	Artist	Script
+Beeliever 1	CT	1_Beeliever.jpg	1	Virtuous	1	Faith	6			FU	ACTION: Search your discard pile for any 1 F Animo and put it in your hand		Saving Faith	Acts 16:31 		Danh Tran Art	
+Halfalanche 1	CT	2_Halfalanche.jpg	2	Virtuous	1	Faith	6			FF			Child of God	Galatians 3:26		Joshua Wegner	
+Halfalanche 2	CT	3_Halfalanche2.jpg	3	Virtuous	2	Faith	10			FFF	ACTION: You may shuffle up to 5 of any combination of F powers and/or F Animo from your discard pile back into your deck.		Mountain Mover	Matthew 20:7b		Danh Tran Art	
+Pumkindle 1	CT	4_Pumkindle.jpg	4	Virtuous	1	Faith	4			Fx	ACTION: Shuffle three cards from your discard pile back into your deck.		Renewed	Psalm 51:10		Joshua Wegner	
+Fetchie 1	CT	5_Fetchie.jpg	5	Virtuous	1	Faith	5			Fx			Obedient	Romans 2:13		Joshua Wegner	
+Trusty 1	CT	6_Trusty.jpg	6	Virtuous	1	Faith	5			FF			Things Unseen	2 Corinthians 4:28		Joshua Wegner	
+Trusty 2	CT	7_Trusty2.jpg	7	Virtuous	2	Faith	12			FFUx	ACTION: You may exchange 1 card from your discard pile with 1 card from your hand.		Faith Walk	2 Corinthians 5:7		Danh Tran Art	
+Armorino 1	CT	8_Armorino.jpg	8	Virtuous	1	Faith	5			Fx	ABILITY: Once per turn, as long as this card is in your small group, you may place 1 F power from your discard pile into your power pool.		Fearless	Romans 8:31		Joshua Wegner	
+Armorino 2	CT	9_Armorino2.jpg	9	Virtuous	2	Faith	9			FFx			Victorious	1 Corinthians 15:57		Danh Tran Art	
+Armorino 3	CT	10_Armorino3.jpg	10	Virtuous	3	Faith	10	S	15	FFFx	ABILITY: As long as this card remains in play, your opponent's Sinnies actions or abilities have no effect.		Extinguish	Ephesians 6:16		Danh Tran Art	
+Troobloo 1	CT	11_Troobloo.jpg	11	Virtuous	1	Faith	6			FU	ABILITY: If this card is in your small group you may swap it with any level 1 Virtuous Animo in your discard pile (excluding Ultra Animo).		Integrity	Titus 2:7		Joshua Wegner	
+Sparkube 1	CT	12_sparkube.jpg	12	Virtuous	1	Faith	3	H	5	F			Spark of Truth	2 Corinthians 4:6 (NIV)		Joshua Wegner	
+Stagnetic 1	CT	13_Stagnetic.jpg	13	Virtuous	1	Faith	10			FUUx	ABILITY: If there are at least 3 F power cards in your discard pile this card has no activation cost.		Standing Firm	Philippians 4:1		Danh Tran Art	
+Armorino ULTRA 1	CT	14_Armorino_ULTRA.jpg	14	Virtuous	1	Faith	16			FxFxFx			Shielded	Psalm 28:7 (KJV)		Danh Tran Art	
+Stagnetic ULTRA 1	CT	15_Stagnetic_Ultra.jpg	15	Virtuous	1	Faith	12			FFF			Immovable	1 Corinthians 15:58		Danh Tran Art	
+Glimmer 1	CT	16_Glimmer.jpg	16	Virtuous	1	Hope	2	F	5	H			Child of Light	Ephesians 5:8		Joshua Wegner	
+Glimmer 2	CT	17_Glimmer2.jpg	17	Virtuous	2	Hope	6	F	10	HU			Hopeful	Philippians 1:6		Joshua Wegner	
+Gazoom 1	CT	18_Gazoom.jpg	18	Virtuous	1	Hope	12			HHU-			In It To Win It	1 Corinthians 9:24		Joshua Wegner	
+Daybeak 1	CT	19_Daybeak.jpg	19	Virtuous	1	Hope	5			HU			Awaken	Ephesians 5:14		Baygent Baker	
+Squibble 1	CT	20_Squibble.jpg	20	Virtuous	1	Hope	4	L	7	HU			Sharing	1 Timothy 6:18		Joshua Wegner	
+Llamup 1	CT	21_Llamup.jpg	21	Virtuous	1	Hope	7			HUU	ACTION: Look at the top 5 cards in your deck.  Arrange them in any order you desire.		Eyes Up	Colossians 3:2		Christina Todd	
+Conquersaur 1	CT	22_Conquersaur.jpg	22	Virtuous	1	Hope	5			HU-			Unwavering	Hebrews 10:23		Joshua Wegner	
+Conquersaur 2	CT	23_Conquersaur2.jpg	23	Virtuous	2	Hope	10			HH 			More Than Conquerors	Romans 8:37		Danh Tran Art	
+Dependaru 1	CT	24_Dependaru.jpg	24	Virtuous	1	Hope	4			HU			Joyful Noise	Psalm 95:1 (KJV)		Thomas Strickland	
+Dependaru 2	CT	25_Dependaru2.jpg	25	Virtuous	2	Hope	9	S	12	H-			Rescued	Psalm 40:2		Thomas Strickland	
+Oincome 1	CT	26_Oincome.jpg	26	Virtuous	1	Hope	7			HH-			True Provider	1 Timothy 6:17		Joshua Wegner	
+Oincome 2	CT	27_Oincome2.jpg	27	Virtuous	2	Hope	8			HH	ACTION: Search your deck for 2 H powers.  Place them directly into your power pool.  Shuffle your deck afterward.		Stewardship	1 Peter 4:10		Joshua Wegner	
+Shwimmer 1	CT	28_Schwimmer.jpg	28	Virtuous	1	Hope	5	S	9	H-			Abounding Hope	Romans 15:13		Christina Todd	
+Profess-Hare 1	CT	29_Professhare.jpg	29	Virtuous	1	Hope	8			H-H-	ACTION: Search your deck for up to two Lv. 1 Animo (excluding Ultra) and place them into your small group (if space provides).  Shuffle your deck afterward.		Profess	Romans 10:10		Christina Todd	
+Conquersaur ULTRA 1	CT	30_Conquersaur_Ultra.jpg	30	Virtuous	1	Hope	14			HH-H-			More Than Conquerors	Romans 8:37		Danh Tran Art	
+Agapesaur 1	CT	31_Agapesaur.jpg	31	Virtuous	1	Love	5			LL	ABILITY: Once per turn, discard 1 F or H Animo from your small group and search your deck for 1 L Animo and place it in your hand.  Shuffle afterward.		Greatest of These	1 Corinthians 13:13		Joshua Wegner	
+Agapesaur 2	CT	32_Agapesaur2.jpg	32	Virtuous	2	Love	10			LL	ABILITY: As long as this card is in your small group any Sinnie that is revealed to you also has a weakness of "Agapesaur" in addition to it's stated weakness.		Love Conquers All	1 Peter 4:8		Danh Tran Art	
+Potpourraise 1	CT	33_Potpourraise.jpg	33	Virtuous	1	Love	7			LUU	ABILITY: As long as this card is in your small group, ignore any effects from the ACTIONS of nay Sinnies revealed to you.		Praise	1 Corinthians 16:23		Christina Todd	
+Ankindleo 1	CT	34_Ankindleo.jpg	34	Virtuous	1	Love	5			LL	ABILITY: As long as this card remains in your small group, your opponent(s) may not reveal any MEGA Sinnies to you.		Fearless love	1 John 4:18a		Joshua Wegner	
+Fairlee 1	CT	35_Fairlee.jpg	35	Virtuous	1	Love	4	?	8	LUU	ABILITY: Apply the fellowship bonus for this card as long as it is activated in the same turn as another Animo, regardless of it's kind.		Fairness	James 2:1		Baygent Baker	
+Fawndly 1	CT	36_Fawndly.jpg	36	Virtuous	1	Love	5	H	8	LU 			Parched Heart	Psalms 42:1		Joshua Wegner	
+Mooyoo 1	CT	37_Mooyoo.jpg	37	Virtuous	1	Love	4	H	7	LL			Selfless	Philippians 2:4 (KJV)		Sophia Wegner	
+Klimate 1	CT	38_Klimate.jpg	38	Virtuous	1	Love	4	S	10	LLU			Overcomer	1 Peter 5:7		Danh Tran Art	
+Furball 1	CT	39_Furball.jpg	39	Virtuous	1	Love	3	F	6	LU			Kindness	Galatians 6:10		Joshua Wegner	
+Bearmaid 1	CT	40_Bearmaid.jpg	40	Virtuous	1	Love	3	F	5	L			Bear with One Another	Ephesians 4:2		Baygent Baker	
+Harmony 1 (L)	CT	41_Harmony.jpg	41	Virtuous	1	Love	3			L	ABILITY: If this card is in your small group at the same time as "S Harmony", you may search your deck for "Harmony Lv.2".  Shuffle your deck afterward.		Love Bond	Colossians 3:14		Danh Tran Art	
+Tweetheart 1	CT	42_Tweetheart.jpg	42	Virtuous	1	Love	3	S	6	L			Tender-Hearted	1 Peter 3:8		Joshua Wegner	
+Servidude 1	CT	43_Servidude.jpg	43	Virtuous	1	Love	8			LUU	ABILITY: Once per turn, you may draw 1 card for each F, H, or S Animo in your small group.		Servant's Heart	Galatians 5:13		Christina Todd	
+Naybay 1	CT	44_NaybayL.jpg	44	Virtuous	1	Love	4			LU	ACTION: You may search your deck for a standard power and place it directly into your power pool.  If you do, choose 1 opponent to do the same.		Neigh-borly Love	Galatians 5:14		Christina Todd	
+Salteeny 1	CT	45_Salteeny.jpg	45	Virtuous	1	Love	5			LL			Tasty Talk	Colossians 4:6		Joshua Wegner	
+Salteeny 2	CT	46_Salteeny2.jpg	46	Virtuous	2	Love	10	S	14	LL			Speak Truth	Ephesians 4:25		Danh Tran Art	
+Salteeny ULTRA 1	CT	47_Salteeny_Ultra.jpg	47	Virtuous	1	Love	11			LLU			Speak Life	Ephesians 4:15		Danh Tran Art	
+Agapesaur ULTRA 1	CT	48_Agapesaur_Ultra.jpg	48	Virtuous	1	Love	13			LLL			Loving	1 Corinthians 16:14		Danh Tran Art	
+Razzbear 1 (CT)	CT	49_Razzbear.jpg	49	Virtuous	1	Spirit	8			SUU	ACTION: Reveal the top three cards of your deck.  You may place any power cards you find there directly into your power pool.  Shuffle the rest back into your deck.		Bear-ing Fruit	Galatians 5:22-23		Danh Tran Art	
+Draylight 1	CT	50_Draylight.jpg	50	Virtuous	1	Spirit	2			S 			Made Special	Psalm 139:13		Joshua Wegner	
+Draylight 2	CT	51_Draylight2.jpg	51	Virtuous	2	Spirit	7			SU 			Wonderfully Made	Psalm 139:14		Joshua Wegner	
+Draylight 3	CT	52_Draylight3.jpg	52	Virtuous	3	Spirit	13			SUU	ABILITY: When this card is played from your hand to grow Draylight Lv. 2, you may search your deck for any card.  Shuffly your deck afterward. 		New Creation	2 Corinthians 5:17		Danh Tran Art	
+Guppeace 1 (CT)	CT	53_Guppeace_CT.jpg	53	Virtuous	1	Spirit	2			S	ABILITY: When you play this card from your hand into your small group, you may search your deck for any 1 F or H Animo.  Shuffle your deck afterward.		Overflowing Peace	Philippians 4:7		Joshua Wegner	
+Manty 1	CT	54_Manty.jpg	54	Virtuous	1	Spirit	3			S			Steadfast	Colossians 4:2		Joshua Wegner	
+Manty 2	CT	55_manty2.jpg	55	Virtuous	2	Spirit	8			SU	ACTION: Search your deck for any power card and place it directly in your power pool.  Shuffle your deck afterward.		Prayer	Ephesians 6:18a (NIV)		Danh Tran Art	
+Fuzzwurm 1	CT	56_Fuzzwurm.jpg	56	Virtuous	1	Spirit	2			S			Beyond Compare	Romans 8:18		Joshua Wegner	
+Fuzzwurm 2	CT	57_Fuzzwurm2.jpg	57	Virtuous	2	Spirit	7			SUU	ABILITY: You may choose to discard an equipment card that is attached to this card.  If you do, you may draw 4 cards.		Persevere	Romans 5:3-4		Joshua Wegner	
+Fuzzwurm 3	CT	58_Fuzzwurm3.jpg	58	Virtuous	3	Spirit	12			SU	ACTION: Search your deck for an equipment card and attach it to an Animo in your small group.  Shuffle your deck afterward.		Transformed	2 Corinthians 3:18		Joshua Wegner	
+Owlert 1	CT	59_Owlert.jpg	59	Virtuous	1	Spirit	6			SU	ABILITY: Once per turn, you may look at the top card of your deck and either return it to the top or place it on the bottom of the deck.		Keeping Watch	1 Thessalonians 5:6		Baygent Baker	
+Sprout 1	CT	60_Sprout.jpg	60	Virtuous	1	Spirit	4			SU			Spiritual Growth	Ephesians 4:15		Joshua Wegner	
+Sprout 2	CT	61_Sprout2.jpg	61	Virtuous	2	Spirit	7			SU	ACTION: Search your deck for the next growth stage for any Animo in your small group and instantly grow that Animo.  Shuffle your deck afterwards.		Rooted in Him	Colossians 2:6-7a		Joshua Wegner	
+Pladdy 1	CT	62_Pladdy.jpg	62	Virtuous	1	Spirit	5			SU			Holy Dwelling	1 Corinthians 6:19a		Baygent Baker	
+Harmony 1 (S)	CT	63_HarmonyS.jpg	63	Virtuous	1	Spirit	3			S			Harmonious	Romans 12:16a (NIV)		Danh Tran Art	
+Floraline 1	CT	64_Floraline.jpg	64	Virtuous	1	Spirit	7			SUU			Freedom	2 Corithians 3:17		Baygent Baker	
+Floraline 2	CT	65_Floraline2.jpg	65	Virtuous	2	Spirit	8			SU	ABILITY: If you are facing a Sinnie this card has no activation cost.		Set Free	Romans 8:2		Baygent Baker	
+Lilly 1	CT	66_Lilly.jpg	66	Virtuous	1	Spirit	3			S	ACTION: Search your deck for any Lv. 1 F, H, or L Animo and place it in your hand.  Shuffle your deck afterwards.		Peace	Colossains 3:15		Sophia Wegner	
+Razzbear ULTRA 1	CT	67_Razzbear_Ultra.jpg	67	Virtuous	1	Spirit	10			SUU			Fruit of the Spirit	Galatians 5:22-23a		Danh Tran Art	
+Draylight ULTRA 1	CT	68_Draylight_Ultra.jpg	68	Virtuous	1	Spirit	13			SUUU			New Creation	2 Corinthians 5:17		Danh Tran Art	
+Potpourraise 1	CT	69_PotpourraiseU.jpg	69	Virtuous	1	Universal	12			SHL			Rejoice	Isaiah 55:12		Christina Todd	
+Harmony 2	CT	70_Harmony2.jpg	70	Virtuous	2	Universal	12			SL			In Sync	Romans 15:5-6		Danh Tran Art	
+Fawndly 2	CT	71_Fawndly2.jpg	71	Virtuous	2	Universal	10			UU			Loved	Psalm 136:26		Baygent Baker	
+Princess Gem 1	CT	72_PrincessGem.jpg	72	Virtuous	1	Universal	3			UU			Child of the King	2 Corinthians 6:18		Joshua Wegner	
+Princess Gem 2	CT	73_PrincessGem2.jpg	73	Virtuous	2	Universal	6			UU			Clothed in Christ	Galatians 3:26-27		Joshua Wegner	
+Princess Gem 3	CT	74_PrincessGem3.jpg	74	Virtuous	3	Universal	12			UU			Alive in Christ	Ephesians 2:4-5		Danh Tran Art	
+Honoroo 1	CT	75_Honoroo.jpg	75	Virtuous	1	Universal	9			SFU			Ransomed	1 Corinthians 6:19b-20		Baygent Baker	
+Naybay 1	CT	76_NaybayU.jpg	76	Virtuous	1	Universal	5			FL			Saved by Grace	Ephesians 2:8-9		Christina Todd	
+Bearmaid 2	CT	77_Bearmaid2.jpg	77	Virtuous	2	Universal	8			UU			Serving	1 Peter 4:10		Baygent Baker	
+Mercifire 1	CT	78_Mercifire.jpg	78	Virtuous	1	Universal	9			FLU			Not of Ourselves	Titus 3:5		Danh Tran Art	
+Mercifire ULTRA 1	CT	79_Mercifire_Ultra.jpg	79	Virtuous	1	Universal	14			UUUU			Merciful King	Psalm 145:8		Danh Tran Art	
+Princess Gem ULTRA 1	CT	80_PrincessGem_Ultra.jpg	80	Virtuous	1	Universal	12			UUU 			Heavenly Home	Ephesians 2:6 (NIV)		Danh Tran Art	
+Croggle 	CT	81_Croggle.jpg	81	Sinnie			7				ABILITY: As long as this card remains your opponent's Active Sinnie, they may not retrieve any cards from their discard pile.	Princess Gem	Guilt	Romans 8:18		Joshua Wegner	
+Skortch 	CT	82_Skortch.jpg	82	Sinnie			9				ACTION: Your opponent may not ACTIVATE any H Animo on thier next turn.	Furball	Fire Starter	James 3:5		Joshua Wegner	
+Krass-Hopper 	CT	83_Krasshopper.jpg	83	Sinnie			9				ACTION: When played, your opponent reveals their hand.  Select one carad and have them shuffle it back into their deck.	Salteeny Lv. 1	Coarseness	Ephesians 5:4		Danh Tran Art	
+Zapper King 	CT	84_zapperking.jpg	84	Sinnie			9				ACTION: Your opponent may not play any level 1 Animo from their hand into their small group next turn.	Fairlee	Oppressor	Zechariah 7:10		Joshua Wegner	
+Scoffish 	CT	85_Scoffish.jpg	85	Sinnie			8				ACTION: Your opponent may not ACTIVATE any F Animo on their next turn.	Trusty	Scoffer	2 Peter 3:3-4 (NIV)		Baygent Baker	
+Evol 	CT	86_Evol.jpg	86	Sinnie			8				ACTION: Your opponent may not ACTIVATE any L Animo on thier next turn.	Naybay	Hatred	1 John 4:20		Baygent Baker	
+Tollkrow 	CT	87_Tollkrow.jpg	87	Sinnie			12					Beeliever	Due Penalty	Romans 6:23		Danh Tran Art	
+Scornit 	CT	88_Scornit.jpg	88	Sinnie			6				ABILITY: You may have up to 3 Scornits in your deck and play them on top of each other to create a Swarm.  The Swarm has a defense of the sum of each Scornit, but only counts as 1 Sinnie when defeated.	Fetchie	Scornful	Proverbs 13:13		Joshua Wegner	
+Rottenweiler 	CT	89_Rottenweiler.jpg	89	Sinnie			8				ACTION: Select up to two cards from your opponent's discard pile and add them to their hand.	Potpourraise	Trash Talk	1 Timothy 2:16 (KJV)		Baygent Baker	
+Scorpoon 	CT	90_Scorpoon.jpg	90	Sinnie			12				ACTION: If you are not already facing a Sinnie, your opponent must reveal a Sinnie from their discard pile (if they have one) and play it against you.	Armorino Lv. 2	Sting	1 Corinthians 15:55-56		Danh Tran Art	
+Screeny 	CT	91_Screeny.jpg	91	Sinnie			8				ABILITY: Your opponent may not use their Truth Seeker ability while this Sinnie remains active.	Floraline	Overload	1 Corinthians 6:12		Sophia Wegner	
+Belligerphant 	CT	92_Belligerphant.jpg	92	Sinnie			11					Tweetheart	Belligerent	Colossains 3:8 (NIV)		Christina Todd	
+Detestabull 	CT	93_Detestabull.jpg	93	Sinnie			10				ACTION: Your opponent must discard one of thier equipment cards that are in play.	Troobloo	Unfit	Titus 1:16		Danh Tran Art	
+Corruptayra 	CT	94_Corruptayra.jpg	94	Sinnie			9				ABILITY: As long as this card remains your opponent's Active Sinnie, they may not attach any equipment cards to their Animo.	Salteeny Lv. 2	Defiled	Titus 1:15		Danh Tran Art	
+Provokupine 	CT	95_Provokupine.jpg	95	Sinnie			7				ABILITY: When this Sinnie is defeated, the player who revealed this Sinnie may search their deck for any card and place it in their hand.	Bearmaid Lv. 1	Provoke	Galatians 5:26		Joshua Wegner	
+Narci 	CT	96_Narci.jpg	96	Sinnie			7				ACTION: Your opponent must flip over one Animo in their small group.  They may not ACTIVATE or GROW that Animo on thier next turn.	Draylight	Vanity	Proverbs 31:30		Joshua Wegner	
+Itchyena 	CT	97_Itchyena.jpg	97	Sinnie			8				ACTION: Your opponent may shuffle any 1 card from their discard pile back into their deck.  If they do, they must discard the top two cards of their deck.	Pladdy	Itching Ears	2 Timothy 4:3		Danh Tran Art	
+Zapper King MEGA 	CT	98_Zapperking_Mega.jpg	98	Sinnie			16					Squibble	Shocking Schemes	Zechariah 7:10b		Joshua Wegner	
+Corruptayra MEGA 	CT	99_Corruptayra_Mega.jpg	99	Sinnie			16					Dependaru	Corrupted	Titus 1:15		Danh Tran Art	
+Skortch MEGA 	CT	100_Skortch_Mega.jpg	100	Sinnie			16					Sparkube	Fire Starter	James 3:5		Joshua Wegner	
+Ascension 	CT	101_Ascension.jpg	101	Story							You may skip one growth stage this turn.  If you have a Lv. 2 Animo, you may place it directly in your small group.  If you have a Lv. 3 Animo, you may place it directly onto the Lv. 1 of the same Animo. 			Acts 1:6-11		Cardsstation	
+Indwelling 	CT	102_Indwelling.jpg	102	Story							Search your deck for up to 2 Holy Spirit power cards and place them in your hand.  Shuffle your deck afterward. 			Acts 2		Olga Menshikova	
+Conversion 	CT	103_Conversion.jpg	103	Story							You may discard a Sinnie from your hand and search your deck for any 1 Virtuous Animo.  If you do not have a Sinnie in your hand you cannot play this card.			Acts 9:1-22		Joshua Wegner	
+Peter's Vision 	CT	104_Peter_s_Vision.jpg	104	Story							Seach your deck for 1 Lv. 1 Animo and exchange it with 1 Animo (and any attached equipment) from your small group.  Shuffle your deck afterward.  			Acts 10:1-48		Cardsstation	
+Answered Prayers 	CT	105_Answered_Prayers.jpg	105	Story							Look at the bottom 5 cards of your deck.  Put one in your hand and return the rest to the bottom in any order you desire.			Acts 12:6-17		Cardsstation	
+Beautiful Gate 	CT	106_Beautiful_Gate.jpg	106	Story							Choose 1 of the following:  1) Remove a hindrance card from your Active Sinnie -OR- 2) Ignore any effects from your Active Sinnie's ability for this turn.			Acts 16:16-18		Cardsstation	
+Shake n' Break 	CT	107_Shake_Break.jpg	107	Story							Return two Lv. 1 Animo (excluding Ultra) from your discard pile to your hand.			Acts 16:22-39		Cardsstation	
+Slumber Tumbler 	CT	108_Slumber_Tumbler.jpg	108	Story							Select 1 standard power from your power pool and place this card on top.  You may not use that power this turn.  On your following turn, that power may be used twice.  DIscard this card afterward.			Acts 20:7-12		Cardsstation	
+Snakebit 	CT	109_Snakebit.jpg	109	Story							Playing this card forfeits your scoring phase.  Return your hand to your deck.  You may select ANY 4 cards from your deck and place them in your hand.  Shuffle your deck.  Your turn ends immediately.			Acts 28:1-6		Danh Tran Art	
+Letter To Corinth 	CT	110_Letter_Corinth.jpg	110	Story							Search your deck for a card that provides a  L fellowship bonus.			1 Corinthians 13		Olga Menshikova	
+Letter To Galatia  	CT	111_Letter_Galatia.jpg	111	Story							Search your deck for a card that provides a S fellowship bonus.			Galatians 4:1-7		Olga Menshikova	
+Letter To Ephesus 	CT	112_Letter_Ephesus.jpg	112	Story							Search your deck for a card that provides a F fellowship bonus.			Ephesians 2:1-10		Olga Menshikova	
+Tought as Nails 	CT	113_Tough_Nails.jpg	113	Story							If your Active Sinnie spot is empty, you may place this card there.  When an opponent reveals a Sinnie to you, discard this card and search your deck for up to 3 Animo and place them in your hand.  Shuffle your deck afterward.			Philippians 2:4-11		Olga Menshikova	
+Bible Study - Spirit 	CT	114_Bible_Study_Spirit.jpg	114	Story							Search your deck for any 1 S Animo.  Reveal it and put it in your hand.  Shuffle your deck afterward.			1 Thessalonians 2:13		anonymous	
+Letter To Thessalonica 	CT	115_Letter_Thessalonica.jpg	115	Story							Search your deck for an Animo that provides a H fellowship bonus.			1 Thessalonians 4:13-18		Olga Menshikova	
+Breastpalte of Righteousness 	CT	116_Breastplate_Righteousness.jpg	116	Equipment							Every H cost associated with the ANimo to whom this card is attached becomes a universal cost.  Any F, L, or S costs now become H costs.			Ephesians 6:14		Olga Menshikova	
+Helmet of Salvation 	CT	117_Helmet_Salvation.jpg	117	Equipment							This card may not be attached to an ULTRA Animo. When the Animo to whom this card is attached is to be discarded, discard this card instead and return the Animo to your hand.			Ephesians 6:17		Olga Menshikova	
+Sword of the Spirit 	CT	118_Sword_Spirit.jpg	118	Equipment							The S Animo to whom this card is attached gains +3 Virtue Points.			Ephesians 6:14		Olga Menshikova	
+Shield of Faith 	CT	119_Shield_Faith.jpg	119	Equipment							The F Animo to which this card is attached is not effected by abilities or actions of Sinnies.  Also, as long as this card remains in play, your power cards are protected against the actions of your opponent's story cards or Sinnies.			Ephesians 6:16		Olga Menshikova	
+Belt of Truth 	CT	120_Belt_Truth.jpg	120	Equipment							1. When this card is attached to a L Animo, instantly draw 2 cards.  2.  Once per turn, as long as this card is attached to any Animo in play, you may peek at the top 4 cards in your deck and return them to the top of your deck in any order.			Ephesians 6:14		Olga Menshikova	
+Shoes of the Gospel 	CT	121_Shoes_Gospel.jpg	121	Equipment							Once during your turn, as long as this card is attached to one of the Animo in your small group, you may look at the top card of your deck.  If that card is a power card, you may put it directly into your power pool.  Otherwise, put the card back on top.			Ephesians 6:15		Olga Menshikova	
+Peter's Sandals 	CT	122_Peter_s_Sandals.jpg	122	Equipment							When the Animo to whom this card is attached is to be discarded, discard this card, and shuffle that Animo back into your deck.			Acts 12:8-10		Olga Menshikova	
+Paul's Chains 	CT	123_Paul_s_Chains.jpg	123	Equipment							The Animo to whom this card is attached may not be ACTIVATED, but may be discarded at any time during your setup phase.  Once per turn, as long as this card is attached to an Animo in your small group, you may search your deck for up to 2 level 1 Animo and place them in your small group.  If there is no room in your small group, this card has no use.			Philippians 1:12-14		Olga Menshikova	
+Hardened Heart 	CT	124_Hardened_Heart.jpg	124	Hindrance							This card may only be attached to a Sinnie with a defense less than 10.  The Sinnie to which this card is attached has +5 defense.			Ephesians 4:18		Olga Menshikova	
+Paul's Thorn 	CT	125_Pauls_Thorn.jpg	125	Hindrance							As long as this is attached to a Sinnie (excluding MEGA), every Virtuous Animo that is played against that Sinnie has it's virtue score reduced by 2 points.			2 Corinthians 12		Olga Menshikova	
+Blindfold 	CT	126_Blindfold.jpg	126	Hindrance							This card may only be attached to a Sinnie with an ABILITY.  As long as this card is attached, the ABILITY of the Sinnie may no longer be used, instead, the Sinnie gains +7 defense.			2 Corinthians 4:4		Olga Menshikova	
+Silas 	CT	127_Silas.jpg	127	Truth Seeker		Faith					Once per turn, you may return 1 F power from your discard pile into your hand.					Weirdsgn	
+Mae 	CT	128_Mae.jpg	128	Truth Seeker		Faith					(Once per turn) You may draw 2 cards for each F power that you discard from your hand.					Weirdsgn	
+Sadie 	CT	129_Sadie.jpg	129	Truth Seeker		Hope					Once per turn, you may search your deck for a level 1 Animo (excluding ULTRA) and place it in your small group.					Weirdsgn	
+Link 	CT	130_Link.jpg	130	Truth Seeker		Hope					If after your draw phase you have no power cards in your hand, you may reveal your hand and search your deck for 1 standard power card.  Shuffle your deck.					Weirdsgn	
+Sophia 	CT	131_Sophia.jpg	131	Truth Seeker		Love					If you are facing a Sinnie when your turn begins, you may draw 2 extra cards during your draw phase.					Weirdsgn	
+Calvin 	CT	132_Calvin.jpg	132	Truth Seeker		Love					Victory Condition: Win by defeating 5 Sinnies					Weirdsgn	
+Simon 	CT	133_Simon.jpg	133	Truth Seeker		Spirit					Once per turn you may reveal an Animo from your hand and search your deck for the previous growth stage of that Animo.  Shuffle your deck afterward.					Weirdsgn	
+Ellie 	CT	134_Ellie.jpg	134	Truth Seeker		Spirit					Victory Condition: Win by scoring 55 Virtue Points					Weirdsgn	
+Faith 	CT	135_Faith.jpg	135	Power		Faith								Hebrews 11:1			/cr90
+Hope 	CT	136_Hope.jpg	136	Power		Hope								Psalm 39:7			/cr90
+Love 	CT	137_Love.jpg	137	Power		Love								John 13:34			/cr90
+Holy Spirit 	CT	138_Spirit.jpg	138	Power		Spirit								Acts 1:8			/cr90
+Prayer 	CT	139_Prayer.jpg	139	Special Power										Colossians 4:2			/cr90
+Fasting 	CT	140_Fasting.jpg	140	Special Power										Acts 13:3			/cr90
+Faith Alternate Art 	CT	141_Faith_Alt.jpg	141	Power		Faith								Hebrews 11:1			/cr90
+Hope Alternate Art 	CT	142_Hope_Alt.jpg	142	Power		Hope								Psalm 39:7			/cr90
+Love Alternate Art 	CT	143_Love_Alt.jpg	143	Power		Love								John 13:34			/cr90
+Holy Spirit Alternate Art 	CT	144_Spirit_Alt.jpg	144	Power		Spirit								Acts 1:8			/cr90
+Luminey 1	RLD	1_Luminey.jpg	1	Virtuous	1	Faith	4			FF			Night Light	Luke 11:33		Joshua Wegner	
+Luminey 2	RLD	2_Luminey_2.jpg	2	Virtuous	2	Faith	8			FFx	ABILITY: When this card is played from your hand to grow Luminey Lv.1, you may look at the top 5 cards of your deck.  Discard as many of those cards as you desire and return the rest to the top of the deck in any order.		Revealed	Luke 12:2		Danh Tran Art	
+Luminey 3	RLD	3_Luminey_3.jpg	3	Virtuous	3	Faith	13	H	16	FFF	ACTION: You may select up to 3 standard power cards from your discard pile and place them directly into your power pool.		En-light-ened	Luke 8:17		Danh Tran Art	
+Sparkube 1	RLD	4_sparkube.jpg	4	Virtuous	1	Faith	4			Fx			Light of Life	Matthew 5:14		Joshua Wegner	
+Sparkube 2	RLD	5_Sparkube_2.jpg	5	Virtuous	2	Faith	7	H	10	Fx			Shine	Matthew 5:16		Danh Tran Art	
+Maiseal 1	RLD	6_Maiseal.jpg	6	Virtuous	1	Faith	5			Fx	ACTION: You may return a Story card from your discard pile back into your hand.		Believe	John 3:16		Danh Tran Art	
+Trusty 1	RLD	7_Trusty.jpg	7	Virtuous	1	Faith	5			FU			Untroubled	John 14:1		Lucy_Was_Taken	
+Trusty 2	RLD	8_Trusty_2.jpg	8	Virtuous	2	Faith	10			FFF	ABILITY: For each Trusty in your discard pile, you may remove one cost to activate this Animo.		Blind Faith	John 20:29		Lucy_Was_Taken	
+Flo 1	RLD	9_Flo_a.jpg	9	Virtuous	1	Faith	3			F	ABILITY: When this card is played from your hand into your small gorup, you may place 1 L Animo from your discard pile into your hand.		Good Shepherd	John 10:11		Lucy_Was_Taken	
+Flo 1	RLD	10_Flo_b.jpg	10	Virtuous	1	Faith	4	L	6	Fx			Follow	John 10:27		Chris Alonso	
+Flo 2	RLD	11_Flo_2.jpg	11	Virtuous	2	Faith	6	L	9	F	ABILITY: As long as this card is in your small group, any L Animo in play may NOT be targeted by the ACTIONS of Sinnies.		Safe and Sound	John 10:28		Lucy_Was_Taken	
+Quillow 2 (F)	RLD	12_Quillow_2_F.jpg	12	Virtuous	2	Faith	3x			F	ABILITY: You may place up to 4 cards from your hand beneath this card (and effectively out of play).  When activated, this card earns 3 VP for each card beneath this one.  Discard those cards when this card is discarded.		Trial by Fire	Matthew 5:10		Christina Todd	
+Flamingrow 2 (F)	RLD	13_flamingrow_2_F.jpg	13	Virtuous	2	Faith	10			FFx	ABILITY: When this card is played to grow Flamingrow Lv. 1, you may select any 3 cards from your discard pile and place them in any order on the bottom of your deck.		All Things Possible	Mark 9:23		Alex Gil Ble	
+Halfalanche ULTRA 1	RLD	14_Halfalanche_Ultra.jpg	14	Virtuous	1	Faith	11			FxFx			Faith Flurry	Mark 11:23		Danh Tran Art	
+Luminey ULTRA 1	RLD	15_Luminey_Ultra.jpg	15	Virtuous	1	Faith	15			FFFF			Revealed	Luke 8:17		Danh Tran Art	
+Hopper 1	RLD	16_Hopper.jpg	16	Virtuous	1	Hope	4			HHU	ACTION: Search your deck for ANY 2 Animo with a VP score of 8 or less and place them in your hand.  Shuffle your deck afterwards.		Squeak N' Seek	Matthew 7:7		Christina Todd	
+Quillow 2 (H)	RLD	17_Quillow_2H.jpg	17	Virtuous	2	Hope	8			HH 	ACTION: Search your deck for any 1 Story Card and 1 H power.  Reveal them and put them into your hand.  Shuffle your deck afterward.		Comforted	Matthew 5:4		Christina Todd	
+Glimmer 1	RLD	18_Glimmer.jpg	18	Virtuous	1	Hope	4	L	6	HH-			Joy	John 15:11		Lucy_Was_Taken	
+Glimmer 2	RLD	19_Glimmer_2.jpg	19	Virtuous	2	Hope	7	L	10	HH	ABILITY: When this card is played from your hand to grow "Glimmer Lv. 1" you may draw 2 cards.		The Golden Rule	Matthew 7:12 (NIV)		Lucy_Was_Taken	
+Amaryllis 1	RLD	20_Amaryllis.jpg	20	Virtuous	1	Hope	5	S	8	HU			Provision	Matthew 6:28b-29		Baygent Baker	
+Shwimmer 1	RLD	21_Shwimmer.jpg	21	Virtuous	1	Hope	3	S	5	H	ACTION: Search your deck for 1 standard power card and place it directly into your power pool.  Shuffle your deck afterward.		Greater Things	John 14:12		Christina Todd	
+Percy 1	RLD	22_Percy.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: When this card is played from your hand into your small group, you may look at the top 5 cards of your deck, take 1, and return the rest in any order.		Cheer Up!	John 16:33		Alex Gil Ble	
+Percy 2	RLD	23_Percy_2.jpg	23	Virtuous	2	Hope	10			HHU	ACTION: Search your deck for any 2 cards and place them in your hand.  Shuffle afterward.		Overcomer	Revelation 21:7		Alex Gil Ble	
+Flamingrow 2 (H)	RLD	24_Flamingrow_2H.jpg	24	Virtuous	2	Hope	9	F	12	HH-			Repent	Luke 15:10		Alex Gil Ble	
+Sowcrow 1	RLD	25_Sowcrow.jpg	25	Virtuous	1	Hope	6			H-H-	ABILITY: When this card is played from your hand into your small group, you may draw 1 card.		Harvest	Matthew 9:37-38		Joshua Wegner	
+Sowcrow 2	RLD	26_Sowcrow_2.jpg	26	Virtuous	2	Hope	9			HH-	ABILITY: When this card is played from your hand to grow Sowcrow lv. 1, you may shuffle your hand back into your deck and draw 5 cards.		Ripe for Harvest	John 4:25b		Mangaboi	
+Aurora 1	RLD	27_Aurora.jpg	27	Virtuous	1	Hope	4			H	ABILITY: If this card is in your small group, it provides 1 H power during your scoring phase.  This card may not be activated in the turn this ability is used.		Walking on Sunshine	John 8:12		Christina Todd	
+Infinifish 1	RLD	28_Infinifish.jpg	28	Virtuous	1	Hope	3			H	ACTION: When this card is to be discarded, you may choose to shuffle it back into your deck instead.  If you do, gain +1 VP to your score.		Enduring	Matthew 28;20b		Danh Tran Art	
+Sowcrow ULTRA 1	RLD	29_Sowcrow_ULTRA.jpg	29	Virtuous	1	Hope	12			HUU			Provision	Luke 12:24		Mangaboi	
+Percy ULTRA 1	RLD	30_Percy_ULTRA.jpg	30	Virtuous	1	Hope	12			HHH	ABILITY: Once per turn, as long as this card is in your small group, you may draw 1 card.		Overcomer	Revelation 21:7		Alex Gil Ble	
+Heartvark 1	RLD	31_Heartvark.jpg	31	Virtuous	1	Love	5			LL			Christ's Love	John 15:9		Joshua Wegner	
+Heartvark 2	RLD	32_Heartvark_2.jpg	32	Virtuous	2	Love	7	F	10	LU	ACTION: Search your deck for up to 2 Animo with a VP score of 8 or less.  Reveal them, place them in your hand, and shuffle your deck afterward.		Remaining in Love	John 15:10		Joshua Wegner	
+Mongoroo 1	RLD	33_Mongoroo.jpg	33	Virtuous	1	Love	4	S	8	LL			Cheerful Giver	Matthew 5:42		Lucy_Was_Taken	
+Flamingrow 2 (L)	RLD	34_Flamingrow_2L.jpg	34	Virtuous	2	Love	8			LU	ABILITY: When this card is played from your hand to grow "Flamingrow Lv. 1", you may search your deck for 1 L power and add it to your power pool.		Love One Another	John 13:34		Alex Gil Ble	
+Cordaiwl 1	RLD	35_Cordiawl.jpg	35	Virtuous	1	Love	3			LL			Caring	Luke 6:27		Joshua Wegner	
+Cordiawl 2	RLD	36_Cordiawl_2.jpg	36	Virtuous	2	Love	5			L			Cordial	Luke 6:28		Danh Tran Art	
+Quillow 2 (L)	RLD	37_Quillow_2L.jpg	37	Virtuous	2	Love	4			L	ACTION: Search your deck for either 1 special power or 2 standr power cards and add it/them to your power pool.  Shuffle your deck afterward.		Merciful	Matthew 5:7		Christina Todd	
+Treashell 1	RLD	38_Treashell.jpg	38	Virtuous	1	Love	2			L			Investment	Matthew 13:45-46		Danh Tran Art	
+Treashell 2	RLD	39_Treashell_2.jpg	39	Virtuous	2	Love	6			LU			Heavenly Treasure	Matthew 6:20		Danh Tran Art	
+Treashell 3	RLD	40_Treashell_3.jpg	40	Virtuous	3	Love	12	H	15	LL	ABILITY: If this card is in your small group, it provides 2 L powers during your scoring phase.  This card may not be activated in the turn this ability is used.		True Treasure	Matthew 6:21		Danh Tran Art	
+Ragdalene 1	RLD	41_Ragdelene.jpg	41	Virtuous	1	Love	4	H	8	LL			Poor in Spirit	Matthew 5:3		Joshua Hale	
+Salteeny 1	RLD	42_Salteeny.jpg	42	Virtuous	1	Love	5			LL			Salty	Matthew 5:13a		Lucy_Was_Taken	
+Salteeny 2	RLD	43_Salteeny_2.jpg	43	Virtuous	2	Love	8	S	11	LL	ABILITY: When played to grow Salteeny Lv. 1, return your active Sinnie to the hand of the player who revealed it to you.		Forgive	Matthew 6:14		Lucy_Was_Taken	
+Humbumble 1	RLD	44_Humbumble.jpg	44	Virtuous	1	Love	5	H	10	LUU			Bee-Attitude	Matthew 5:8		Christina Todd	
+Treashell ULTRA 1	RLD	45_Treashell_ULTRA.jpg	45	Virtuous	1	Love	12			LLU			True Treasure	Matthew 6:21		Danh Tran Art	
+Flo ULTRA 1	RLD	46_Flo_ULTRA.jpg	46	Virtuous	1	Love	9			LU	ABILITY: You may discard this card from your small group.  If you do, search your deck for any 3 Animo, reveal them and place them in your hand.  Shuffle your deck afterward.		Sacrificial Love	John 15:13		Danh Tran Art	
+Hybird 1	RLD	47_Hybird.jpg	47	Virtuous	1	Spirit	3			SU			Thirsty	John 4:12-14a		Danh Tran Art	
+Hybird 2	RLD	48_Hybird_2.jpg	48	Virtuous	2	Spirit	5			SU	ABILITY: When this card is played from your hand to grow "Hybird Lv.1", you may search your deck for 1 standard power card and place it in your power pool.		Thirst Quencher	John 7:37		Danh Tran Art	
+Hybird 3	RLD	49_Hybird_3.jpg	49	Virtuous	3	Spirit	10			SU	ACTION: Search your deck for up to two Virtuos Animo that are either Lv. 2 or Lv. 3		Spring Up	John 4:14b		Danh Tran Art	
+Nico 1	RLD	50_Nico.jpg	50	Virtuous	1	Spirit	2			S 			Born Again	John 3:3		Danh Tran Art	
+Nico 2	RLD	51_Nico_2.jpg	51	Virtuous	2	Spirit	7			SUU			Second Birth	John 3:5		Danh Tran Art	
+Nico 3	RLD	52_Nico_3.jpg	52	Virtuous	3	Spirit	11			SUU	ACTION: Search your discard pile for the next growth stage of any Animo in your small group.  You may instantly grow those Animo.		Spiritual Birth	John 3:8		Danh Tran Art	
+Guppeace 1	RLD	53_Guppeace.jpg	53	Virtuous	1	Spirit	5			SU			Peace	John 14:27a (KJV)		Joshua Wegner	
+Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this card is played from your hand to grow "Guppeace Lv. 1", you may re-shuffle your hand into your deck and draw 6 cards.		Untroubled	John 14:27b (KJV)		Joshua Wegner	
+Prayeregrine 1	RLD	55_Prayeragrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble	
+Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble	
+Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble	
+Razzbear 1 (S)	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd	
+Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28		Joshua Wegner	
+Quillow 2 (S)	RLD	60_Quillow_2S.jpg	60	Virtuous	2	Spirit	7	?	10	SU	ABILITY: The fellowship bonus on this card is enabled as long as this card is activated in the same turn as any F, H, or L Level 1 Animo.		Peacemaker	Matthew 5:9		Christina Todd	
+Prayeregrine ULTRA 1	RLD	61_Prayeregrine_ULTRA.jpg	61	Virtuous	1	Spirit	13			SUUU			Willing Spirit	Matthew 26:41		Alex Gil Ble	
+Hybird ULTRA 1	RLD	62_Hybird_Ultra.jpg	62	Virtuous	1	Spirit	8	F	13	SUU			Living Water	John 7:38		Danh Tran Art	
+Nico ULTRA 1	RLD	63_Nico_ULTRA.jpg	63	Virtuous	1	Spirit	6			S			Worship	John 4:24		Danh Tran Art	
+Cordiawl 3	RLD	64_Cordiawl_3.jpg	64	Virtuous	3	Universal	10			UU	ABILITY: As long as this card is in your small group, all F, H, L, and S costs on your other Animo become U costs.		Loving	Luke 6:35a		Danh Tran Art	
+Mercifire 1	RLD	65_Mercifire.jpg	65	Virtuous	1	Universal	7			UU	ABILITY: If this card is in your small group, you may choose to swap it with a Lv. 1 Animo from your deck with a VP of 7 or less.  Shuffle your deck afterward.		Merciful	Luke 6:36		Danh Tran Art	
+Servidude 1	RLD	66_Servidude.jpg	66	Virtuous	1	Universal	5			UUU	ABILITY: This card costs 1 less power to activate for each L or S Animo in your small group.		Servant	Matthew 20:26		Christina Todd	
+Razzbear 1 (RLD 67)	RLD	67_Razzbear_b.jpg	67	Virtuous	1	Universal	9			SLU			Fruitful	Matthew 7:16-17a		Christina Todd	
+Razzbear 1 (RLD 68)	RLD	68_Razzbear_c.jpg	68	Virtuous	1	Universal	9			SFU			Fruitful	John 15:4		Christina Todd	
+Alphalux 1	RLD	69_Alphalux.jpg	69	Virtuous	1	Universal	1			U			From the Start	John 1:1		Joshua Wegner	
+Alphalux 2	RLD	70_Alphalux_2.jpg	70	Virtuous	2	Universal	8			UUU			The Way	John 14:6		Danh Tran Art	
+Alphalux 3	RLD	71_Alphalux_3.jpg	71	Virtuous	3	Universal	15			UUU			Eternal King	Revelation 22:13		Danh Tran Art	
+Glimmer 2	RLD	72_Glimmer_2.jpg	72	Virtuous	2	Universal	12			HLU			The Golden Rule	Luke 6:31		Lucy_Was_Taken	
+Seacurl 1	RLD	73_Seacurl.jpg	73	Virtuous	1	Universal	3			U			The Least of These	Matthew 25:40		Sadie Wegner	
+Vineon 2	RLD	74_Vineon_2.jpg	74	Virtuous	2	Universal	8			UU			The Vine	John 15:5		Joshua Wegner	
+Heraldash 1	RLD	75_Heraldash.jpg	75	Virtuous	1	Universal	8			UUU	ACTION: All players may select a story card from their discard pile and shuffle it back into their deck.		Spread the Word	Mark 16:15		Danh Tran Art	
+Lolli 1	RLD	76_Lolli.jpg	76	Virtuous	1	Universal	9			SHU			Humble Pie	Matthew 23:12		Baygent Baker	
+Floraline 1	RLD	77_Floraline.jpg	77	Virtuous	1	Universal	4			UU			Set Free	John 8:31-32		Baygent Baker	
+Floraline 2	RLD	78_Floraline_2.jpg	78	Virtuous	2	Universal	8			UU	ABILITY: As long as this card is in your small group, there is not limit to the number of power cards you may play from your hand into your power pool.		Free Indeed	John 8:36		Baygent Baker	
+Quillow 1	RLD	79_Quillow.jpg	79	Virtuous	1	Universal	3			U			Meek	Matthew 5:5		Christina Todd	
+Flamingrow 1	RLD	80_Flamingrow.jpg	80	Virtuous	1	Universal	4			UUU			Hungry	Matthew 5:6		Alex Gil Ble	
+Alphalux ULTRA 1	RLD	81_Alphalux_ULTRA.jpg	81	Virtuous	1	Universal	10			UUU	ABILITY: When this card is activated, any Animo activated in the same turn gains +2 VP		Cross Bearer	Mark 8:34b		Danh Tran Art	
+Babubble 	RLD	82_Babubble.jpg	82	Sinnie			10				ABILITY: As long as this card remains active, your opponent may not have more than one Animo of the same NAME in thier small group at a time.	Prayeregrine	Cheap Talk	Matthew 6:7		Christina Todd	
+Pandit 	RLD	83_Pandit.jpg	83	Sinnie			9				ACTION: Select 1 SPECIAL power card from your opponent's power pool.  They must shuffle it back into their deck.	Owlert	Thief in the Night	Luke 12:39		Joshua Hale	
+Grumproast 	RLD	84_Grumproast.jpg	84	Sinnie			9				ABILITY: As long as this Sinnie remains active, your opponent may have no more than 3 Animo in their small group at a time.  (If more than 3 Animo are in your opponent's small group when this card is revealed, they must discard down to 3.)	Salteeny Lv.1	Trample	Matthew 7:6		Lucy_Was_Taken	
+Planttrap 	RLD	85_Planttrap.jpg	85	Sinnie			8				ACTION: You may select up to three cards from your opponent's discard pile and place them on the bottom of their deck.	Vineon	Trapped	Matthew 13:22		Danh Tran Art	
+Anxietor 	RLD	86_Anxietor.jpg	86	Sinnie			9				ACTION: Your opponent may not play any Story or Equipment cards on their next turn.	Sowcrow ULTRA	Worried Sick	Matthew 6:27		Joshua Hale	
+Globster 	RLD	87_Globster.jpg	87	Sinnie			10				ABILITY: As long as this Sinnie remains active, your opponent must discard the top card in their deck as soon as their turn begins (before drawing cards).  	Humbumble	Repulsive	Matthew 15:17-18		Danh Tran Art	
+Judgeweed 	RLD	88_Judgeweed.jpg	88	Sinnie			8				ABILITY: As long as this Sinnie is active, your opponent may not reveal Sinnies.	Glimmer Lv. 2	Judging Eye	Matthew 7:1-2		Danh Tran Art	
+Woolf 	RLD	89_Woolf.jpg	89	Sinnie			10				ABILITY: If this card is in your hand, you may choose to show it to your opponent and shuffle it back into your deck.  If you do, draw another card.	Flo	Deceiver	Matthew 7:15		Baygent Baker	
+Hippocritter 	RLD	90_Hippocritter.jpg	90	Sinnie			9				ABILITY: As long as this Sinnie remains active, the ACTIONS of your opponents virtuous Animo have no effect.	Flamingrow Lv.2 (Hope)	Hypocrisy	Matthew 7:5		Joshua Hale	
+Splidapidator 	RLD	91_Splidapidator.jpg	91	Sinnie			6				ACTION: When this card is reveled, your opponent must shuffle half of the Animo from their small group back into their deck (rounding up).	Prayer Group	House Divided	Matthew 12:25		Joshua Hale	
+Nastree 	RLD	92_Nastree.jpg	92	Sinnie			8				ACTION: Any Animo (and any attached cards) that remain in your opponent's small group following their next turn, must be shuffled back into their deck.	Razzbear	Rotten Fruit	Matthew 7:19-20		Danh Tran Art	
+Hookwurm 	RLD	93_Hookwurm.jpg	93	Sinnie			8				ABILITY: As long as this Sinnie is active, all of your opponent's Animo require 1 extra U cost in order to be activated.	Alphalux ULTRA	Lukewarm	Revelation 3:15-16		Joshua Hale	
+Grrrrumble 	RLD	94_Grrrumble.jpg	94	Sinnie			13					Glimmer Lv. 2	Grumble Grumble	John 6:43 (NIV)		Christina Todd	
+Denyala 	RLD	95_Denyala.jpg	95	Sinnie			8				ABILITY: As long as this Sinnie remains active, your opponent may not use their Truth Seeker's POWER.	Profess-Hare	Denial	Luke 12:9		Joshua Wegner	
+Pogo 	RLD	96_Pogo.jpg	96	Sinnie			11				ACTION: When this Sinnie is revealed, both you and your opponent must discard the top card of your deck.	Cordiawl	Aye' for an 'Aye'	Matthew 5:38-39		Joshua Hale	
+Flipper 	RLD	97_Flipper.jpg	97	Sinnie			7/17				ABILITY: If your opponent has 40 points or more, this Sinnie gets +10 defense by revealing this V side.	Luminey Lv. 3	Two-Faced	Matthew 15:8		Danh Tran Art	
+Wall-R-Us 	RLD	98_Wall_R_Us.jpg	98	Sinnie			8				ABILITY: You may have up to 3 Wall-R-Us in your deck and play them on top of each other to create a 'Wall' which has a defense of the sum of each card.  Each Wall-R-Us card in the 'Wall' counts as 1 Sinnie when defeated.	Sowcrow	Hinder	Matthew 19:14		Danh Tran Art	
+Fearcrow 	RLD	99_Fearcrow.jpg	99	Sinnie			10				ACTION: Chooose 1 Lv. 2 or Lv. 3 Animo from your opponent's small group.  Revert that Animo back to Lv. 1 by having your opponent shuffle the growth stage(s) for that Animo back into their deck.	Guppeace Lv.2	Fear	Matthew 10:28a		Danh Tran Art	
+Blinderz 	RLD	100_Blinderz.jpg	100	Sinnie			11				ACTION: When this Sinnie is revealed, blindly (at random) select one card from your opponent's hand and have them discard it.	Flo	Blind Guide	Matthew 15:14		Joshua Hale	
+Murkay 	RLD	101_Murkay.jpg	101	Sinnie			8				ABILITY: As long as this Sinnie is active, your opponent may draw no more than 2 cards during their draw phase, regardless of hand size.	Sparkube	In The Dark	Matthew 6:23		Sophia Wegner	
+Waspitz 	RLD	102_Waspitz.jpg	102	Sinnie			10				ACITON: When this Sinnie is revealed, select 1 card from your opponent's discard pile and set it to the side.  It may not return for the duration of the game.	Percy	Tempted	Luke 22:40		Baygent Baker	
+Nastree MEGA 	RLD	103_Nastree_MEGA.jpg	103	Sinnie			16					Razzbear	Rotten Fruit	Matthew 7:19-20		Danh Tran Art	
+Globster MEGA 	RLD	104_Globster_MEGA.jpg	104	Sinnie			16					Fetchy	Worker of Iniquity	Matthew 7:21		Danh Tran Art	
+Planttrap MEGA 	RLD	105_Planttrap_MEGA.jpg	105	Sinnie			16					Vineon	Among the Thorns	Matthew 13:22		Danh Tran Art	
+Wall-R-Us MEGA 	RLD	106_Wall_R_Us_MEGA.jpg	106	Sinnie			16					Hopper	Halt	Matthew 19:14		Danh Tran Art	
+Sand Castle 	RLD	107_Sand_Castle.jpg	107	Story							Search your deck for either 1 Ultra or 1 Mega Animo			Matthew 7:24-27		Victoria Skakandi	
+Good Soil 	RLD	108_Good_Soil.jpg	108	Story							Look at the top 7 cards of your deck.  Place 1 Animo you find there in your hand.  Shuffle your deck afterwards.			Matthew 13:1-23		Victoria Skakandi	
+Mustard Seed 	RLD	109_Mustard_Seed.jpg	109	Story							Discard 2 cards from your hand.  Search your deck for up to 2 growth stages for an Animo in your small group and grow that Animo.  Shuffle your deck.  If you do not have 2 cards in your hand to discard, you cannot play this card.			Matthew 13:31-32		Victoria Skakandi	
+Hidden Treasure 	RLD	110_Hidden_Treasure.jpg	110	Story							Place 1 card from your hand on the bottom of your deck.  If you do, you may draw 3 cards.			Matthew 13:45-46		Victoria Skakandi	
+Fishing Nets 	RLD	111_Fishing_Nets.jpg	111	Story							Draw 2 cards.  If this was the last card in your hand, draw 4 cards instead.			John 21:1-14		Olga Menshikova	
+Lost and Found 	RLD	112_Lost_and_Found.jpg	112	Story							Search your deck for any 1 card, reveal it to your opponent, and place it in your hand.  You may not paly or discard that card this turn.			Matthew 18:10-14		Victoria Skakandi	
+Copper Coins 	RLD	113_Copper_Coins.jpg	113	Story							Look at the top 7 cards of your deck.  You may place up to 2 power cards you find there directly into your power pool.  Shuffle your deck afterward.			Mark 12:41-44		Olga Menshikova	
+Good Neighbor 	RLD	114_Good_Neighbor.jpg	114	Story							You may give 2, 4, or 6 VP of your total score to any single opponent.  For every 2 points you give away, search your deck for any card (up to 3 cards) and place it/them in your hand.  Shuffle your deck afterward.  You cannot give more points than you currently have.			Luke 10:29-37		Victoria Skakandi	
+The Rich Fool 	RLD	115_Rich_Fool.jpg	115	Story							Draw the bottom 3 cards of your deck			Luke 12:13-31		Victoria Skakandi	
+The Runaway 	RLD	116_The_Runaway.jpg	116	Story							Select any Animo from your discard pile and return it to your hand.			Luke 15:11-32		Victoria Skakandi	
+Gold 	RLD	117_Gold.jpg	117	Equipment							If the Animo to whom this card is attached has any H- costs, they may be converted to H costs instead.			Matthew 2:1-12		Olga Menshikova	
+Frankincense 	RLD	118_Frankincense.jpg	118	Equipment							If the Animo to whom this card is attached has any Fx costs, they may be converted to F costs instead.			Matthew 2:1-12		Olga Menshikova	
+Myrrh 	RLD	119_Myyrh.jpg	119	Equipment							When attached to an Animo, this card reduces its cost by 1 S power.			Matthew 2:1-12		Olga Menshikova	
+Tools of the Trade 	RLD	120_Tools_Trade.jpg	120	Equipment							The L Animo to whom this card is attached gains +2 virtue points when activated.  If activated against an Active Sinnie, the Animo instead gains +4 virtue points.			Mark 6:1-6		Olga Menshikova	
+Broken Jar 	RLD	121_Broken_Jar.jpg	121	Equipment							When attached to an Animo, this card increases its activation cost by 1 U power.  The Animo to whom this card is attached gains +5 VP when activated.			Mark 14:1-9		Olga Menshikova	
+Millstone 	RLD	122_Millstone.jpg	122	Equipment							This card may only be attached to a Sinnie with an ABILITY.  This card's ability nullifies that Sinnie's normal ability.  The player facing the Sinnie to whom this card is attached may only activate 1 Animo per turn while the Sinnie is active.			Luke 17:1-4		Olga Menshikova	
+Roman Scourge 	RLD	123_Roman_Scourge.jpg	123	Equipment							Universal Animo may not be activated against the Sinnie to whom this card is attached- as long as the Sinnie is active.  If this card is attached to a Sinie that is currenlty 'battling' Universal Animo, those Animo must be returned to your opponent's hand.			John 19		Olga Menshikova	
+Blood Money 	RLD	124_Blood_Money.jpg	124	Equipment							This card may only be attached to a MEGA Sinnie.  The Sinnie to whom this card is attached gains +8 Defense.  When the Sinnie is defeated, the opponent gets credit for defeating 2 Sinnies.			Matthew 26:14-16		Olga Menshikova	
+Ezra 	RLD	125_Ezra.jpg	125	Truth Seeker		Faith					During your scoring phase, you may convert any Fx cost on a single Animo to F costs.					Weirdsgn	
+Levi 	RLD	126_Levi.jpg	126	Truth Seeker		Hope					You may place upu to 2 power cards from your hand into your power pool per turn.					Weirdsgn	
+Yana 	RLD	127_Yana.jpg	127	Truth Seeker		Love					Every Sinnie reevaled to you has it's base defense reduced by -2 pts.					Weirdsgn	
+JP 	RLD	128_JP.jpg	128	Truth Seeker		Spirit					Once per turn (during your setup phase), you may draw 1 card for each Lv. 2 or Lv. 3 Animo in your small group.					Weirdsgn	
+Breanna 	RLD	129_Breanna.jpg	129	Truth Seeker		Universal					Before the game begins, separate any 3 cards from your deck and place them face-down beneath this card.  Once per turn, you may select 1 of those cards and place it in your hand.					Weirdsgn	
+Aleks 	RLD	130_Aleks.jpg	130	Truth Seeker		Universal					As long as your total score is less than 30 VP, you may have up to 5 Animo in your small group at a time.					Weirdsgn	
+Faith 	RLD	131_Faith_Power.jpg	131	Power		Faith								Mark 2:5			/cr90
+Hope 	RLD	132_Hope_Power.jpg	132	Power		Hope								Luke 2:11 (KJV)			/cr90
+Love 	RLD	133_Love_Power.jpg	133	Power		Love								John 3:16			/cr90
+Holy Spirit 	RLD	134_Holy_Spirit_Power.jpg	134	Power		Spirit								Matthew 10:20			/cr90
+Prayer 	RLD	135_Prayer.jpg	135	Special Power							Provides 1 F, H, or L power per turn.			John 15:7			/cr90
+Fasting 	RLD	136_Fasting.jpg	136	Special Power							Provides 1 S or 2 U powers to one Animo per turn.			Matthew 6:17-18a			/cr90
+Faith Alternate Art 	RLD	137_Faith_Power_Alt.jpg	137	Power		Faith								Mark 2:5			/cr90
+Hope Alternate Art 	RLD	138_Hope_Power_Alt.jpg	138	Power		Hope								Luke 2:11 (KJV)			/cr90
+Love Alternate Art 	RLD	139_Love_Power_Alt.jpg	139	Power		Love								John 3:16			/cr90
+Holy Spirit Alternate Art 	RLD	140_Holy_Spirit_Alt.jpg	140	Power		Spirit								Matthew 10:20			/cr90
+Prayer Group 1	RLD	141_Prayer_Group.jpg	141	Virtuous	1	Universal	3x			U?	ABILITY: You may activate this acrd using up to 6 of any power.  When activated, this card is worth 3 VP for each power that is used to activate it.			Matthew 18:20		Danh Tran Art	

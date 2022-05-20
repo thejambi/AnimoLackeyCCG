@@ -224,7 +224,7 @@ Floraline 2	RLD	78_Floraline_2.jpg	78	Virtuous	2	Universal	8			UU	ABILITY: As lo
 Quillow 1	RLD	79_Quillow.jpg	79	Virtuous	1	Universal	3			U			Meek	Matthew 5:5		Christina Todd	
 Flamingrow 1	RLD	80_Flamingrow.jpg	80	Virtuous	1	Universal	4			UUU			Hungry	Matthew 5:6		Alex Gil Ble	
 Alphalux ULTRA 1	RLD	81_Alphalux_ULTRA.jpg	81	Virtuous	1	Universal	10			UUU	ABILITY: When this card is activated, any Animo activated in the same turn gains +2 VP		Cross Bearer	Mark 8:34b		Danh Tran Art	
-Babubble 	RLD	82_Babubble.jpg	82	Sinnie			10				ABILITY: As long as this card remains active, your opponent may not have more than one Animo of the same NAME in theirsmall group at a time.	Prayeregrine	Cheap Talk	Matthew 6:7		Christina Todd	
+Babubble 	RLD	82_Babubble.jpg	82	Sinnie			10				ABILITY: As long as this card remains active, your opponent may not have more than one Animo of the same NAME in their small group at a time.	Prayeregrine	Cheap Talk	Matthew 6:7		Christina Todd	
 Pandit 	RLD	83_Pandit.jpg	83	Sinnie			9				ACTION: Select 1 SPECIAL power card from your opponent's power pool.  They must shuffle it back into their deck.	Owlert	Thief in the Night	Luke 12:39		Joshua Hale	
 Grumproast 	RLD	84_Grumproast.jpg	84	Sinnie			9				ABILITY: As long as this Sinnie remains active, your opponent may have no more than 3 Animo in their small group at a time.  (If more than 3 Animo are in your opponent's small group when this card is revealed, they must discard down to 3.)	Salteeny Lv.1	Trample	Matthew 7:6		Lucy_Was_Taken	
 Planttrap 	RLD	85_Planttrap.jpg	85	Sinnie			8				ACTION: You may select up to three cards from your opponent's discard pile and place them on the bottom of their deck.	Vineon	Trapped	Matthew 13:22		Danh Tran Art	

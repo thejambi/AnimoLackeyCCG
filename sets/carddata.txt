@@ -10,7 +10,7 @@ Armorino 1	CT	8_Armorino.jpg	8	Virtuous	1	Faith	5			Fx	ABILITY: Once per turn, a
 Armorino 2	CT	9_Armorino2.jpg	9	Virtuous	2	Faith	9			FFx			Victorious	1 Corinthians 15:57		Danh Tran Art	
 Armorino 3	CT	10_Armorino3.jpg	10	Virtuous	3	Faith	10	S	15	FFFx	ABILITY: As long as this card remains in play, your opponent's Sinnies actions or abilities have no effect.		Extinguish	Ephesians 6:16		Danh Tran Art	
 Troobloo 1	CT	11_Troobloo.jpg	11	Virtuous	1	Faith	6			FU	ABILITY: If this card is in your small group you may swap it with any level 1 Virtuous Animo in your discard pile (excluding Ultra Animo).		Integrity	Titus 2:7		Joshua Wegner	
-Sparkube 1	CT	12_sparkube.jpg	12	Virtuous	1	Faith	3	H	5	F			Spark of Truth	2 Corinthians 4:6 (NIV)		Joshua Wegner	
+Sparkube 1	CT	12_Sparkube.jpg	12	Virtuous	1	Faith	3	H	5	F			Spark of Truth	2 Corinthians 4:6 (NIV)		Joshua Wegner	
 Stagnetic 1	CT	13_Stagnetic.jpg	13	Virtuous	1	Faith	10			FUUx	ABILITY: If there are at least 3 F power cards in your discard pile this card has no activation cost.		Standing Firm	Philippians 4:1		Danh Tran Art	
 Armorino ULTRA 1	CT	14_Armorino_ULTRA.jpg	14	Virtuous	1	Faith	16			FxFxFx			Shielded	Psalm 28:7 (KJV)		Danh Tran Art	
 Stagnetic ULTRA 1	CT	15_Stagnetic_Ultra.jpg	15	Virtuous	1	Faith	12			FFF			Immovable	1 Corinthians 15:58		Danh Tran Art	
@@ -26,7 +26,7 @@ Dependaru 1	CT	24_Dependaru.jpg	24	Virtuous	1	Hope	4			HU			Joyful Noise	Psalm 9
 Dependaru 2	CT	25_Dependaru2.jpg	25	Virtuous	2	Hope	9	S	12	H-			Rescued	Psalm 40:2		Thomas Strickland	
 Oincome 1	CT	26_Oincome.jpg	26	Virtuous	1	Hope	7			HH-			True Provider	1 Timothy 6:17		Joshua Wegner	
 Oincome 2	CT	27_Oincome2.jpg	27	Virtuous	2	Hope	8			HH	ACTION: Search your deck for 2 H powers.  Place them directly into your power pool.  Shuffle your deck afterward.		Stewardship	1 Peter 4:10		Joshua Wegner	
-Shwimmer 1	CT	28_Schwimmer.jpg	28	Virtuous	1	Hope	5	S	9	H-			Abounding Hope	Romans 15:13		Christina Todd	
+Shwimmer 1	CT	28_Shwimmer.jpg	28	Virtuous	1	Hope	5	S	9	H-			Abounding Hope	Romans 15:13		Christina Todd	
 Profess-Hare 1	CT	29_Professhare.jpg	29	Virtuous	1	Hope	8			H-H-	ACTION: Search your deck for up to two Lv. 1 Animo (excluding Ultra) and place them into your small group (if space provides).  Shuffle your deck afterward.		Profess	Romans 10:10		Christina Todd	
 Conquersaur ULTRA 1	CT	30_Conquersaur_Ultra.jpg	30	Virtuous	1	Hope	14			HH-H-			More Than Conquerors	Romans 8:37		Danh Tran Art	
 Agapesaur 1	CT	31_Agapesaur.jpg	31	Virtuous	1	Love	5			LL	ABILITY: Once per turn, discard 1 F or H Animo from your small group and search your deck for 1 L Animo and place it in your hand.  Shuffle afterward.		Greatest of These	1 Corinthians 13:13		Joshua Wegner	
@@ -74,7 +74,7 @@ Princess Gem 1	CT	72_PrincessGem.jpg	72	Virtuous	1	Universal	3			UU			Child of t
 Princess Gem 2	CT	73_PrincessGem2.jpg	73	Virtuous	2	Universal	6			UU			Clothed in Christ	Galatians 3:26-27		Joshua Wegner	
 Princess Gem 3	CT	74_PrincessGem3.jpg	74	Virtuous	3	Universal	12			UU			Alive in Christ	Ephesians 2:4-5		Danh Tran Art	
 Honoroo 1	CT	75_Honoroo.jpg	75	Virtuous	1	Universal	9			SFU			Ransomed	1 Corinthians 6:19b-20		Baygent Baker	
-Naybay 1	CT	76_NaybayU.jpg	76	Virtuous	1	Universal	5			FL			Saved by Grace	Ephesians 2:8-9		Christina Todd	
+Naybay 1	CT	76_Naybay.jpg	76	Virtuous	1	Universal	5			FL			Saved by Grace	Ephesians 2:8-9		Christina Todd	
 Bearmaid 2	CT	77_Bearmaid2.jpg	77	Virtuous	2	Universal	8			UU			Serving	1 Peter 4:10		Baygent Baker	
 Mercifire 1	CT	78_Mercifire.jpg	78	Virtuous	1	Universal	9			FLU			Not of Ourselves	Titus 3:5		Danh Tran Art	
 Mercifire ULTRA 1	CT	79_Mercifire_Ultra.jpg	79	Virtuous	1	Universal	14			UUUU			Merciful King	Psalm 145:8		Danh Tran Art	
@@ -136,13 +136,13 @@ Ellie 	CT	134_Ellie.jpg	134	Truth Seeker		Spirit					Victory Condition: Win by s
 Faith 	CT	135_Faith.jpg	135	Power		Faith								Hebrews 11:1			/cr90
 Hope 	CT	136_Hope.jpg	136	Power		Hope								Psalm 39:7			/cr90
 Love 	CT	137_Love.jpg	137	Power		Love								John 13:34			/cr90
-Holy Spirit 	CT	138_Spirit.jpg	138	Power		Spirit								Acts 1:8			/cr90
+Holy Spirit 	CT	138_Holy_Spirit.jpg	138	Power		Spirit								Acts 1:8			/cr90
 Prayer 	CT	139_Prayer.jpg	139	Special Power										Colossians 4:2			/cr90
 Fasting 	CT	140_Fasting.jpg	140	Special Power										Acts 13:3			/cr90
 Faith Alternate Art 	CT	141_Faith_Alt.jpg	141	Power		Faith								Hebrews 11:1			/cr90
 Hope Alternate Art 	CT	142_Hope_Alt.jpg	142	Power		Hope								Psalm 39:7			/cr90
 Love Alternate Art 	CT	143_Love_Alt.jpg	143	Power		Love								John 13:34			/cr90
-Holy Spirit Alternate Art 	CT	144_Spirit_Alt.jpg	144	Power		Spirit								Acts 1:8			/cr90
+Holy Spirit Alternate Art 	CT	144_Holy_Spirit_Alt.jpg	144	Power		Spirit								Acts 1:8			/cr90
 Luminey 1	RLD	1_Luminey.jpg	1	Virtuous	1	Faith	4			FF			Night Light	Luke 11:33		Joshua Wegner	
 Luminey 2	RLD	2_Luminey_2.jpg	2	Virtuous	2	Faith	8			FFx	ABILITY: When this card is played from your hand to grow Luminey Lv.1, you may look at the top 5 cards of your deck.  Discard as many of those cards as you desire and return the rest to the top of the deck in any order.		Revealed	Luke 12:2		Danh Tran Art	
 Luminey 3	RLD	3_Luminey_3.jpg	3	Virtuous	3	Faith	13	H	16	FFF	ACTION: You may select up to 3 standard power cards from your discard pile and place them directly into your power pool.		En-light-ened	Luke 8:17		Danh Tran Art	
@@ -197,7 +197,7 @@ Nico 2	RLD	51_Nico_2.jpg	51	Virtuous	2	Spirit	7			SUU			Second Birth	John 3:5		D
 Nico 3	RLD	52_Nico_3.jpg	52	Virtuous	3	Spirit	11			SUU	ACTION: Search your discard pile for the next growth stage of any Animo in your small group.  You may instantly grow those Animo.		Spiritual Birth	John 3:8		Danh Tran Art	
 Guppeace 1	RLD	53_Guppeace.jpg	53	Virtuous	1	Spirit	5			SU			Peace	John 14:27a (KJV)		Joshua Wegner	
 Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this card is played from your hand to grow "Guppeace Lv. 1", you may re-shuffle your hand into your deck and draw 6 cards.		Untroubled	John 14:27b (KJV)		Joshua Wegner	
-Prayeregrine 1	RLD	55_Prayeragrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble	
+Prayeregrine 1	RLD	55_Prayeregrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble	
 Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble	
 Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble	
 Razzbear 1 (S)	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd	

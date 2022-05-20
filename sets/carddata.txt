@@ -136,7 +136,7 @@ Ellie 	CT	134_Ellie.jpg	134	Truth Seeker		Spirit					Victory Condition: Win by s
 Faith 	CT	135_Faith.jpg	135	Power		Faith								Hebrews 11:1			/cr90
 Hope 	CT	136_Hope.jpg	136	Power		Hope								Psalm 39:7			/cr90
 Love 	CT	137_Love.jpg	137	Power		Love								John 13:34			/cr90
-Holy Spirit 	CT	138_Spirit.jpg	138	Power		Spirit								Acts 1:8			/cr90
+Holy Spirit 	CT	138_Holy_Spirit.jpg	138	Power		Spirit								Acts 1:8			/cr90
 Prayer 	CT	139_Prayer.jpg	139	Special Power										Colossians 4:2			/cr90
 Fasting 	CT	140_Fasting.jpg	140	Special Power										Acts 13:3			/cr90
 Faith Alternate Art 	CT	141_Faith_Alt.jpg	141	Power		Faith								Hebrews 11:1			/cr90

@@ -7,9 +7,8 @@
 		<card><name id="21_Llamup.jpg">Llamup 1</name><set>CT</set></card>
 		<card><name id="24_Dependaru.jpg">Dependaru 1</name><set>CT</set></card>
 		<card><name id="24_Dependaru.jpg">Dependaru 1</name><set>CT</set></card>
-		<card><name id="28_Schwimmer.jpg">Shwimmer 1</name><set>CT</set></card>
-		<card><name id="28_Schwimmer.jpg">Shwimmer 1</name><set>CT</set></card>
-		<card><name id="49_Razzbear.jpg">Razzbear 1</name><set>CT</set></card>
+		<card><name id="28_Shwimmer.jpg">Shwimmer 1</name><set>CT</set></card>
+		<card><name id="28_Shwimmer.jpg">Shwimmer 1</name><set>CT</set></card>
 		<card><name id="50_Draylight.jpg">Draylight 1</name><set>CT</set></card>
 		<card><name id="50_Draylight.jpg">Draylight 1</name><set>CT</set></card>
 		<card><name id="50_Draylight.jpg">Draylight 1</name><set>CT</set></card>
@@ -42,8 +41,6 @@
 		<card><name id="102_Indwelling.jpg">Indwelling</name><set>CT</set></card>
 		<card><name id="106_Beautiful_Gate.jpg">Beautiful Gate</name><set>CT</set></card>
 		<card><name id="109_Snakebit.jpg">Snakebit</name><set>CT</set></card>
-		<card><name id="113_Tough_Nails.jpg">Tought as Nails</name><set>CT</set></card>
-		<card><name id="116_Breastplate_Righteousness.jpg">Breastpalte of Righteousness</name><set>CT</set></card>
 		<card><name id="118_Sword_Spirit.jpg">Sword of the Spirit</name><set>CT</set></card>
 		<card><name id="118_Sword_Spirit.jpg">Sword of the Spirit</name><set>CT</set></card>
 		<card><name id="126_Blindfold.jpg">Blindfold</name><set>CT</set></card>
@@ -51,11 +48,14 @@
 		<card><name id="136_Hope.jpg">Hope</name><set>CT</set></card>
 		<card><name id="136_Hope.jpg">Hope</name><set>CT</set></card>
 		<card><name id="136_Hope.jpg">Hope</name><set>CT</set></card>
-		<card><name id="138_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
-		<card><name id="138_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
-		<card><name id="138_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
+		<card><name id="138_Holy_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
+		<card><name id="138_Holy_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
+		<card><name id="138_Holy_Spirit.jpg">Holy Spirit</name><set>CT</set></card>
 		<card><name id="140_Fasting.jpg">Fasting</name><set>CT</set></card>
 		<card><name id="25_Dependaru2.jpg">Dependaru 2</name><set>CT</set></card>
+		<card><name id="49_Razzbear.jpg">Razzbear 1 (CT)</name><set>CT</set></card>
+		<card><name id="116_Breastplate_Righteousness.jpg">Breastplate of Righteousness</name><set>CT</set></card>
+		<card><name id="113_Tough_Nails.jpg">Tough as Nails</name><set>CT</set></card>
 	</superzone>
 	<superzone name="Truth Seeker">
 		<card><name id="133_Simon.jpg">Simon</name><set>CT</set></card>

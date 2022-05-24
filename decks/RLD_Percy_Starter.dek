@@ -49,13 +49,13 @@
 		<card><name id="117_Gold.jpg">Gold</name><set>RLD</set></card>
 		<card><name id="118_Frankincense.jpg">Frankincense</name><set>RLD</set></card>
 		<card><name id="123_Roman_Scourge.jpg">Roman Scourge</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="138_Hope_Power_Alt.jpg">Hope Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
-		<card><name id="137_Faith_Power_Alt.jpg">Faith Alternate Art</name><set>RLD</set></card>
+		<card><name id="132_Hope_Power.jpg">Hope</name><set>RLD</set></card>
+		<card><name id="132_Hope_Power.jpg">Hope</name><set>RLD</set></card>
+		<card><name id="132_Hope_Power.jpg">Hope</name><set>RLD</set></card>
+		<card><name id="132_Hope_Power.jpg">Hope</name><set>RLD</set></card>
+		<card><name id="131_Faith_Power.jpg">Faith</name><set>RLD</set></card>
+		<card><name id="131_Faith_Power.jpg">Faith</name><set>RLD</set></card>
+		<card><name id="131_Faith_Power.jpg">Faith</name><set>RLD</set></card>
 	</superzone>
 	<superzone name="Truth Seeker">
 		<card><name id="126_Levi.jpg">Levi</name><set>RLD</set></card>

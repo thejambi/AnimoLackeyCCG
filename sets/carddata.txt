@@ -197,8 +197,8 @@ Nico 2	RLD	51_Nico_2.jpg	51	Virtuous	2	Spirit	7			SUU			Second Birth	John 3:5		D
 Nico 3	RLD	52_Nico_3.jpg	52	Virtuous	3	Spirit	11			SUU	ACTION: Search your discard pile for the next growth stage of any Animo in your small group.  You may instantly grow those Animo.		Spiritual Birth	John 3:8		Danh Tran Art	
 Guppeace 1	RLD	53_Guppeace.jpg	53	Virtuous	1	Spirit	5			SU			Peace	John 14:27a (KJV)		Joshua Wegner	
 Guppeace 2	RLD	54_Guppeace_2.jpg	54	Virtuous	2	Spirit	8			SU	ABILITY: When this card is played from your hand to grow "Guppeace Lv. 1", you may re-shuffle your hand into your deck and draw 6 cards.		Untroubled	John 14:27b (KJV)		Joshua Wegner	
-Prayeregrine 1	RLD	55_Prayeregrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble	
-Prayeregrine 1	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble	
+Prayeregrine 1 RLD#55	RLD	55_Prayeregrine_a.jpg	55	Virtuous	1	Spirit	6			SU			The Lord's Prayer	Matthew 6:9 (KJV)		Alex Gil Ble	
+Prayeregrine 1 RLD#56	RLD	56_Prayeregrine_b.jpg	56	Virtuous	1	Spirit	8			SUU	ABILITY: If this card is in your small group, it provides 1 F, H, or L power during your scoring phase.  This card may not be activated in the turn this ability is used.		Bird of Pray	Matthew 6:6		Alex Gil Ble	
 Flamingrow 2 (S)	RLD	57_Flamingrow_2S.jpg	57	Virtuous	2	Spirit	7			SU	ABILITY: Once per turn, you may draw 1 card for each F, H, or L Animo in your small group.		Counselor	John 14:16		Alex Gil Ble	
 Razzbear 1 (S)	RLD	58_Razzbear_a.jpg	58	Virtuous	1	Spirit	4	L	7	SU			Bear-ing Fruit	Luke 3:8a		Christina Todd	
 Vineon 1	RLD	59_Vineon.jpg	59	Virtuous	1	Spirit	3			S			Rest Easy	Matthew 11:28		Joshua Wegner	

@@ -290,7 +290,7 @@ Armorino 2 (FL)	FL	FL_3_Armorino_2.jpg	3	Virtuous	2	Faith	7			FFx	ABILITY: When 
 Armorino 3 (FL)	FL	FL_4_Armorino_3.jpg	4	Virtuous	3	Faith	10			FF	PRESERVE FAITH (1x): Instantly earn 2 VP for every Faith power in your discard pile. (No more than 10 VP may be earned in this manner.		Fearless Faith	Psalm 27:3b		Alex Gil Ble	
 Trusty 1 (FL)	FL	FL_5_Trusty.jpg	5	Virtuous	1	Faith	6			FF			Walk the Line	Proverbs 3:5-6		Dhan Tran Art	
 Trusty 2 (FL)	FL	FL_6_Trusty_2.jpg	6	Virtuous	2	Faith	8	S	12	FFx	ABILITY: You may choose to discard this card from your small group (including previous growth stages and any attached cards). If you do, draw four cards.		Fireproof	Isaiah 43:2b		Dhan Tran Art	
-Hoofit (FL)	FL	FL_7_Hoofit.jpg	7	Virtuous	1	Faith	7			FF	ABILITY: If this card is in your hand you may choose to discard it. If you do, you may shuffle any three cards from your discard pile back into your deck.		Take Refuge	Proverbs 27:12		Dhan Tran Art	
+Hoofit (FL 7)	FL	FL_7_Hoofit.jpg	7	Virtuous	1	Faith	7			FF	ABILITY: If this card is in your hand you may choose to discard it. If you do, you may shuffle any three cards from your discard pile back into your deck.		Take Refuge	Proverbs 27:12		Dhan Tran Art	
 Stagnetic (FL)	FL	FL_8_Stagnetic.jpg	8	Virtuous	1	Faith	8			FUx	ABILITY: Once per turn, as long as this card is in your small group, you may choose to discard up to 3 cards from your hand. If you do, draw 1 card for each card that you discarded in this manner.		Withstand	1 Peter 5:9		Alex Gil Ble	
 Stagnetic (FL)	FL	FL_9_Stagnetic_v2.jpg	9	Virtuous	1	Faith	8			FxFx	ENDURANCE (1x): Instantly earn 5 VP if you have 20 or fewer cards in your deck and an additional 5 VP if you have 10 or fewer cards in your deck.		Endure	Matthew 24:13		Alex Gil Ble	
 Plucky (FL)	FL	FL_10_Plucky.jpg	10	Virtuous	1	Faith	5	L	8	FUU			Trusting	Psalm 56:3		Christina Todd	
@@ -346,7 +346,7 @@ Aquillion 2 (FL)	FL	FL_59_Aquillion_2.jpg	59	Virtuous	2	Spirit	9			SUU			Renewed
 Aquillion 3 (FL)	FL	FL_60_Aquillion_3.jpg	60	Virtuous	3	Spirit	10			S	ACTION: Search your deck for up to three standard power cards and add them to your power pool. Shuffle your deck afterwards.		On Eagles Wings	Isaiah 40:31b		Alex Gil Ble	
 Toadaken ULTRA (FL)	FL	FL_61_Toadaken_ULTRA.jpg	61	Virtuous	1	Spirit	10			SU			Strong	Joshua 1:9b		Chris Alonso	
 Aquillion ULTRA (FL)	FL	FL_62_Aquillion_ULTRA_S.jpg	62	Virtuous	1	Spirit	10			S	ABILITY: This card takes up two spaces in your small group and may not be ACTIVATED in the same turn in which it is added to your small group.		Mount Up	Isaiah 40:31b		Alex Gil Ble	
-Hoofit (FL)	FL	FL_63_Hoofit_U.jpg	63	Virtuous	1	Universal	10			FLU			Upright	1 Timothy 6:11		Dhan Tran Art	
+Hoofit (FL 63)	FL	FL_63_Hoofit_U.jpg	63	Virtuous	1	Universal	10			FLU			Upright	1 Timothy 6:11		Dhan Tran Art	
 Beshemoth (FL)	FL	FL_64_Beshemoth.jpg	64	Virtuous	1	Universal	5			UU			Contentment	Hebrews 13:5		Hector Montalvo	
 Mercifire (FL)	FL	FL_65_Mercifire.jpg	65	Virtuous	1	Universal	10			HLU			Conqueror	Revelation 5:5		Dhan Tran Art	
 Fawndly 2 (FL)	FL	FL_66_Fawndly_Lv._2.jpg	66	Virtuous	2	Universal	12			UUU			My Strength	Habakkuk 3:19		Christina Todd	

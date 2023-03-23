@@ -284,3 +284,133 @@ Hope Alternate Art 	RLD	138_Hope_Power_Alt.jpg	138	Power		Hope								Luke 2:11 
 Love Alternate Art 	RLD	139_Love_Power_Alt.jpg	139	Power		Love								John 3:16			/cr90
 Holy Spirit Alternate Art 	RLD	140_Holy_Spirit_Alt.jpg	140	Power		Spirit								Matthew 10:20			/cr90
 Prayer Group 1	RLD	141_Prayer_Group.jpg	141	Virtuous	1	Universal	3x			U?	ABILITY: You may activate this card using up to 6 of any power.  When activated, this card is worth 3 VP for each power that is used to activate it.			Matthew 18:20		Danh Tran Art	
+Armorino 1 (FL 1)	FL	FL_1_Armorino.jpg	1	Virtuous	1	Faith	3			FF	ABILITY: When this card is played from your hand into your small group, you may search your deck for 1 Faith power. Shuffle afterward.		Courageous	Dueteronomy 31:6		Alex Gil Ble	
+Armorino 1 (FL 2)	FL	FL_2_Armorino.jpg	2	Virtuous	1	Faith	6			FFF			Fear Less	Psalm 27:1a		Alex Gil Ble	
+Armorino 2 (FL)	FL	FL_3_Armorino_2.jpg	3	Virtuous	2	Faith	7			FFx	ABILITY: When this card is played to grow Armorino Lv. 1, you may search your discard pile for 1 card and place it in your hand.		Fearless	Psalm 27:1b		Alex Gil Ble	
+Armorino 3 (FL)	FL	FL_4_Armorino_3.jpg	4	Virtuous	3	Faith	10			FF	PRESERVE FAITH (1x): Instantly earn 2 VP for every Faith power in your discard pile. (No more than 10 VP may be earned in this manner.		Fearless Faith	Psalm 27:3b		Alex Gil Ble	
+Trusty 1 (FL)	FL	FL_5_Trusty.jpg	5	Virtuous	1	Faith	6			FF			Walk the Line	Proverbs 3:5-6		Dhan Tran Art	
+Trusty 2 (FL)	FL	FL_6_Trusty_2.jpg	6	Virtuous	2	Faith	8	S	12	FFx	ABILITY: You may choose to discard this card from your small group (including previous growth stages and any attached cards). If you do, draw four cards.		Fireproof	Isaiah 43:2b		Dhan Tran Art	
+Hoofit (FL)	FL	FL_7_Hoofit.jpg	7	Virtuous	1	Faith	7			FF	ABILITY: If this card is in your hand you may choose to discard it. If you do, you may shuffle any three cards from your discard pile back into your deck.		Take Refuge	1 Timothy 6:11		Dhan Tran Art	
+Stagnetic (FL)	FL	FL_8_Stagnetic.jpg	8	Virtuous	1	Faith	8			FUx	ABILITY: Once per turn, as long as this card is in your small group, you may choose to discard up to 3 cards from your hand. If you do, draw 1 card for each card that you discarded in this manner.		Withstand	1 Peter 5:9		Alex Gil Ble	
+Stagnetic (FL)	FL	FL_9_Stagnetic_v2.jpg	9	Virtuous	1	Faith	8			FxFx	ENDURANCE (1x): Instantly earn 5 VP if you have 20 or fewer cards in your deck and an additional 5 VP if you have 10 or fewer cards in your deck.		Endure	Matthew 24:13		Alex Gil Ble	
+Plucky (FL)	FL	FL_10_Plucky.jpg	10	Virtuous	1	Faith	5	L	8	FUU			Trusting	Psalm 56:3		Christina Todd	
+Maiseal (FL)	FL	FL_11_Maiseal.jpg	11	Virtuous	1	Faith	5	H	7	FF			Not Afraid	Isaiah 12:2a		Lucy_Was_Taken	
+Stagnetic ULTRA (FL)	FL	FL_12_Stagnetic_ULTRA.jpg	12	Virtuous	1	Faith	10			FF			Resistance	James 4:7		Alex Gil Ble	
+Armorino ULTRA (FL 13)	FL	FL_13_Armorino_ULTRA.jpg	13	Virtuous	1	Faith	10	S	14	FxFx			Strength	Psalm 28:7		Alex Gil Ble	
+Armorino ULTRA (FL 14)	FL	FL_14_Armorino_ULTRA_v2.jpg	14	Virtuous	1	Faith	13	S	18	FFUxUx			Shielded	Psalm 115:11		Alex Gil Ble	
+Hoofit ULTRA (FL)	FL	FL_15_Hoofit_ULTRA.jpg	15	Virtuous	1	Faith	13			FxFx	ABILITY: If this card is in your hand, you may choose to discard it. If you do, search your deck for 2 Faith powers and add them to your power pool.		Taking Refuge	Proverbs 27:12		Dhan Tran Art	
+Conquersaur 1 (FL)	FL	FL_16_Conquersaur.jpg	16	Virtuous	1	Hope	7			HH	ABILITY: When this card is played form your hand into your small group, draw 1 card. This card may not be grown or activated on the same turn in which it is added to your small group.		Safe Slumber	Psalm 4:8		Alex Gil Ble	
+Conquersaur 2 (FL)	FL	FL_17_Conquersaur_2.jpg	17	Virtuous	2	Hope	12			HH	ACTION: Search your deck for any four cards and place them on top of your deck in any order.		Unsinkable	Isaiah 43:2a		Alex Gil Ble	
+Dependaru 1 (FL)	FL	FL_18_Dependaru.jpg	18	Virtuous	1	Hope	3			H-			Rock Solid	Psalm 18:2		Dhan Tran Art	
+Dependaru 2 (FL)	FL	FL_19_Dependaru_2.jpg	19	Virtuous	2	Hope	6			H			Upright Hand	Isiaha 41:10b		Dhan Tran Art	
+Dependaru 3 (FL)	FL	FL_20_Dependaru_3.jpg	20	Virtuous	3	Hope	9			H	ABILITY: Once per turn, as long as this card is in your small group, you may choose to shuffle a card from your hand into your deck. If you do, draw 1 card.		Strong Tower	Proverbs 18:10		Dhan Tran Art	
+Tortisuar (FL)	FL	FL_21_Tortisaur.jpg	21	Virtuous	1	Hope	3			H-	ACTION: You may search your deck for any Lv.1 Animo and place it directly into your small group.		Hard Work	Proverbs 16:3		Ward Silverman	
+Sowcrow 1 (FL)	FL	FL_22_Sowcrow.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: Once per turn, as long as this card is in your small group, you may shuffle any 1 card from your hand into your deck. If you do, draw 1 card.		Patiently Waiting	James 5:7		Joshua Hale	
+Sowcrow 2 (FL)	FL	FL_23_Sowcrow_2.jpg	23	Virtuous	2	Hope	2x			HU			Patient	James 5:8		Joshua Hale	
+Hitail (FL)	FL	FL_24_Hitail.jpg	24	Virtuous	1	Hope	9			H-H-			Escape Route	1 Corinthians 10:13b		Ward Silverman	
+Percy 1 (FL)	FL	FL_25_Percy.jpg	25	Virtuous	1	Hope	6			HU-			Perseverance	Romans 8:18		Chris Alonso	
+Percy 2 (FL)	FL	FL_26_Percy_2.jpg	26	Virtuous	2	Hope	11			HU			Fearless Hope	Romans 8:38-39		Chris Alonso	
+Squibble (FL)	FL	FL_27_Squibble.jpg	27	Virtuous	1	Hope	3	S	6	H			Helping Hand	Isaiah 41:13		Lucy_Was_Taken	
+Daybeak (FL)	FL	FL_28_Daybeak.jpg	28	Virtuous	1	Hope	6	L	8	HU-			New Mercies	Lamentations 3:23		Christina Todd	
+Conquersaur ULTRA (FL)	FL	FL_29_Conquersaur_ULTRA.jpg	29	Virtuous	1	Hope	13			HHH			Unsinkable	Isaiah 43:2a		Alex Gil Ble	
+Dependaru ULTRA (FL)	FL	FL_30_Dependaru_ULTRA.jpg	30	Virtuous	1	Hope	8			H-			Strong Tower	Proverbs 18:10		Dhan Tran Art	
+Furball (FL 31)	FL	FL_31_Furball.jpg	31	Virtuous	1	Love	3	H	6	LU			Unfailing Love	Lamentations 3:22		Lucy_Was_Taken	
+Furball (FL 32)	FL	FL_32_Furball_v2.jpg	32	Virtuous	1	Love	2	S	5	L			Goodness	Romans 12:21		Ward Silverman	
+Agapesaur 1 (FL 33)	FL	FL_33_Agapesaur.jpg	33	Virtuous	1	Love	4			LU			Remaining in Love	1 John 4:16b		Lucy_Was_Taken	
+Agapesaur 1 (FL 34)	FL	FL_34_Agapesaur_v2.jpg	34	Virtuous	1	Love	5			LL			Courage	Hebrews 13:6		Dhan Tran ArtA	
+Agapesaur 2 (FL)	FL	FL_35_Agapesaur_2.jpg	35	Virtuous	2	Love	9	H	12	LL	ACTION: No opponent may reveal a Sinnie to you on their next turn		Fearless Love	1 John 4:18a		Dhan Tran ArtA	
+Kelebekah 1 (FL)	FL	FL_36_Kelebekah.jpg	36	Virtuous	1	Love	2			L			Comforted	2 Corinthians 1:3 NIV		Alex Gil Ble	
+Kelebekah 2 (FL)	FL	FL_37_Kelebekah_2.jpg	37	Virtuous	2	Love	4			L			Comfort-Able	2 Corinthians 1:4 NIV		Alex Gil Ble	
+Kelebekah 3 (FL)	FL	FL_38_Kelebekah_3.jpg	38	Virtuous	3	Love	10			L	ABILITY: As long as this card is in your small group, any Animo that you activate against an ACTIVE SINNIE earns +3 VP.		Abounding Comfort	2 Corinthinas 1:5 NIV		Alex Gil Ble	
+Fawndly 1 (FL)	FL	FL_39_Fawndly.jpg	39	Virtuous	1	Love	3			LL	ABILITY: If you are facing an Active Sinnie, you may draw 3 cards when this card is played from your hand into your small group.		Rejoice in the Lord	Habakkuk 3:18		Lucy_Was_Taken	
+Ankindleo (FL)	FL	FL_40_Ankindleo.jpg	40	Virtuous	1	Love	2			L			Delivered	Psalm 34:4		Lucy_Was_Taken	
+Tweetheart (FL)	FL	FL_41_Tweetheart.jpg	41	Virtuous	1	Love	5	F	7	LL	Exodus 15:2 Lord is my strength and my song		Sing for Joy	Psalm 5:11		Lucy_Was_Taken	
+Opopony 1 (FL)	FL	FL_42_Opopony.jpg	42	Virtuous	1	Love	5			LL			Boldness	1 John 4:17		Joshua Wegner	
+Opopony 2 (FL)	FL	FL_43_Opopony_2.jpg	43	Virtuous	2	Love	10			LL			Grace	Hebrews 4:16		Jhoan Leon	
+Kelebekah ULTRA (FL)	FL	FL_44_Kelebekah_ULTRA.jpg	44	Virtuous	1	Love	5	H	10	L			Comforted	2 Corinthians 1:5 NIV		Alex Gil Ble	
+Opopony ULTRA (FL)	FL	FL_45_Opopony_ULTRA.jpg	45	Virtuous	1	Love	10			LU	ABILITY: As long as this card reamins in your small group, your win condition for defeating Sinnies is reduced by 1.		Sweet Sacrifice	Ephesians 5:2		Dhan Tran ArtA	
+Agapesaur ULTRA (FL)	FL	FL_46_Agapesaur_ULTRA.jpg	46	Virtuous	1	Love	12			LLU	ABUILITY: As long as this card reains in your small group, you may search your deck for any 1 card whenever an opponent reveals a Sinnie to you. Shuffle your deck afterward.		Love Shield	Psalm 5:12		Inggit Awaliyah	
+Toadaken 1 (FL)	FL	FL_47_Toadaken.jpg	47	Virtuous	1	Spirit	2			S			Strengthen	Isaiah 40:29		Chris Alonso	
+Toadaken 2 (FL)	FL	FL_48_Toadaken_2.jpg	48	Virtuous	2	Spirit	10	F	13	SUU	"+2 VP for each F, H, L animo in your small group		Strengthen	Philippians 4:13		Chris Alonso	
+Prayeregrine (FL)	FL	FL_49_Prayeregrine.jpg	49	Virtuous	1	Spirit	5			SU	search for the next growth stage of any animo in your small group		Mountain Refuge	2 Timothy 1:7		Jhoan Leon	
+Prayeregrine (FL)	FL	FL_50_prayeregrine_v2.jpg	50	Virtuous	1	Spirit	8			SUU	you may exchange a power card from your pool with one in your deck		Fearless Spirit	Psalm 11:1		Dhan Tran Art	
+Draylight 1 (FL)	FL	FL_51_Draylight.jpg	51	Virtuous	1	Spirit	4			SUU			Foreknown	Psalm 139:73		Christina Todd	
+Draylight 2 (FL)	FL	FL_52_Draylight_2.jpg	52	Virtuous	2	Spirit	8			SUU			Prosperous Plans	Jeremiah 29:11		Christina Todd	
+Draylight 3 (FL)	FL	FL_53_Draylight_3.jpg	53	Virtuous	3	Spirit	12			SUU	search for up to 2 cards and instantly grow an Animo in your small group		Made For Good	Ephesians 2:10		Christina Todd	
+Owlert (FL)	FL	FL_54_Owlert.jpg	54	Virtuous	1	Spirit	7			SUU	look at the top 5 cards of your deck and put them back in any order		Keeping Watch	1 Thessalonians 5:6		Jhoan Leon	
+Phos (FL)	FL	FL_55_Phos.jpg	55	Virtuous	1	Spirit	3	H	5	S			Never Worried	Mark 13:11		Sophia Wegner	
+Stryder 1 (FL)	FL	FL_56_Stryder.jpg	56	Virtuous	1	Spirit	3			S	Search your deck for any Lv. 1 F, H, or L Animo (excluding ULTRA) and place it in your small group. Shuffle your deck afterward		Water Walker	1 John 4:4		Dhan Tran ArtA	
+Stryder 2 (FL)	FL	FL_57_Stryder_2.jpg	57	Virtuous	2	Spirit	8			S			Transformed				
+Aquillion 1 (FL)	FL	FL_58_Aquillion.jpg	58	Virtuous	1	Spirit	5			SU			Wait on the Lord	Psalm 27:14		Joshua Wegner	
+Aquillion 2 (FL)	FL	FL_59_Aquillion_2.jpg	59	Virtuous	2	Spirit	9			SUU			Renewed Strength	Isaiah 40:31a		Alex Gil Ble	
+Aquillion 3 (FL)	FL	FL_60_Aquillion_3.jpg	60	Virtuous	3	Spirit	10			S			On Eagles Wings	Isaiah 40:31b		Alex Gil Ble	
+Toadaken ULTRA (FL)	FL	FL_61_Toadaken_ULTRA.jpg	61	Virtuous	1	Spirit	10			SU			Strong	Joshua 1:9b		Chris Alonso	
+Aquillion ULTRA (FL)	FL	FL_62_Aquillion_ULTRA_S.jpg	62	Virtuous	1	Spirit	10			S	Ability: This card takes up two spaces in your small group and may not be activated in the same turn in which it is added to your small group.		Mount Up	Isaiah 40:31		Alex Gil Ble	
+Hoofit (FL)	FL	FL_63_Hoofit_U.jpg	63	Virtuous	1	Universal	10			FLU			Upright	1 Timothy 6:11			
+Beshemoth (FL)	FL	FL_64_Beshemoth.jpg	64	Virtuous	1	Universal	5			UU			Contentment	Hebrews 13:5		Hector Montalvo	
+Mercifire (FL)	FL	FL_65_Mercifire.jpg	65	Virtuous	1	Universal	10			HLU			Conqueror	Revelation 5:5		Dhan Tran Art	
+Fawndly 2 (FL)	FL	FL_66_Fawndly_Lv._2.jpg	66	Virtuous	2	Universal	12			UUU			My Strength	Habakkuk 3:19		Christina Todd	
+Bibzy (FL)	FL	FL_67_Bibzy.jpg	67	Virtuous	1	Universal	3			U			Encourage	Hebrews 10:25			
+Ninjiana (FL 68)	FL	FL_68_Ninjiana.jpg	68	Virtuous	1	Universal	6			UU			Fearless	Psalm 34:4			
+Ninjiana (FL 69)	FL	FL_69_Ninjiana_v2.jpg	69	Virtuous	1	Universal	8			SF			Fearless				
+Opalus (FL)	FL	FL_70_Opalus.jpg	70	Virtuous	1	Universal	10			SLU			Heavenly Mindset	Colossians 3:1-2		Hector Montalvo	
+Positiffany 1 (FL)	FL	FL_71_Positiffany.jpg	71	Virtuous	1	Universal	2			U			Glad	Psalm 118:24 (KJV)		Jhoan Leon	
+Positiffany 2 (FL)	FL	FL_72_Positiffany_2.jpg	72	Virtuous	2	Universal	5			U			Positivity	Philippians 4:8		Jhoan Leon	
+Positiffany 3 (FL)	FL	FL_73_Positiffany_3.jpg	73	Virtuous	3	Universal	9			U			Bright Future	1 Corinthians 13:12 (NIV)		Jhoan Leon	
+Ninjiana ULTRA (FL)	FL	FL_74_Ninjiana_ULTRA.jpg	74	Virtuous	1	Universal	9			UU			Delivered			Dhan Tran Art	
+Mercifire ULTRA (FL)	FL	FL_75_Mercifire_ULTRA.jpg	75	Virtuous	1	Universal	10			HL			Bold	Proverbs 28:1		Dhan Tran Art	
+Aquillion ULTRA (FL)	FL	FL_76_Aquillion_ULTRA.jpg	76	Virtuous	1	Universal	10			SH			Take Courage			Dhan Tran ArtA	
+Fearcrow (FL 77)	FL	FL_77_Fearcrow.jpg	77	Sinnie			10				may not play L power or animo next turn	Niniana	Fearful Heart	Isaiah 35:4		Alex Gil Ble	
+Fearcrow (FL 78)	FL	FL_78_Fearcrow.jpg	78	Sinnie			5+				gains 3 defense points for every Sinnie already defeated	Toadaken ULTRA	Fear	Psalm 116:3-4		Alex Gil Ble	
+Tollkrow (FL 79)	FL	FL_79_Tollkrow.jpg	79	Sinnie			12				AB as long as this card is active you may not use special powers from your power pool to activate animo	Trusty Lv.2	In The Valley	Psalm 23:4		Alex Gil Ble	
+Lurukai (FL)	FL	FL_80_Lurakai.jpg	80	Sinnie			8				you may play this card from your discard pile during your setup phase	Armorino Lv.3	Ambush	Psalm 27:3a		Alex Gil Ble	
+Refrigergator (FL)	FL	FL_81_Refrigigator.jpg	81	Sinnie			12				may not utilize L power on your next turn	Agapesaur	Icy Heart	Matthew 24:12		Dhan Tran Art	
+Dismayfly (FL)	FL	FL_82_Dismayfly.jpg	82	Sinnie			10					Positiffany	Dismayed	Isiah 41:10a		Alex Gil Ble	
+Brandish (FL)	FL	FL_83_Brandish.jpg	83	Sinnie			11					Stagnetic	Armed and Dangerous	Isiah 54:17		Dhan Tran Art	
+Gullabuoy (FL)	FL	FL_84_Gullabuoy.jpg	84	Sinnie			8				Roll a die/flip a coin? Heads no power, equipment, or story card.	Opalus	Gullible	Ephesians 4:14 NIV		Alex Gil Ble	
+Skortch (FL)	FL	FL_85_Skortch.jpg	85	Sinnie			10					Dependaru	Spark	James 3:5-6		Alex Gil Ble	
+Venomouth (FL)	FL	FL_86_Venomouth.jpg	86	Sinnie			10				ABILITY: As long as this card remains active, whenever your opponent plays a power card from their hand into their power pool- they must discard the top card of their deck.	Opopony	Untamed Tongue	James 3:8		Alex Gil Ble	
+Cellfish (FL)	FL	FL_87_Cellfish.jpg	87	Sinnie			8					Draylight Lv.2	Selfishness	James 4:3		Lucy_Was_Taken	
+Baddapole (FL)	FL	FL_88_Baddapole.jpg	88	Sinnie			11				while active, opponent must discard top 2 cards in order to use truthseeker ability	Stagnetic	Tempted	1 Corinthians 10:13		Lucy_Was_Taken	
+Krass-Hopper (FL)	FL	FL_89_Krass-Hopper.jpg	89	Sinnie			10					Hoofit	Wicked	Isaiah 13:11 KJV		Ward Silverman	
+Conformeon (FL)	FL	FL_90_Conformeleon.jpg	90	Sinnie			6+					Stryder	Conforming	Romans 12:2		Christina Todd	
+Squatch (FL)	FL	FL_91_Squatchie.jpg	91	Sinnie			11					Tortisaur	Folly	Ecclesiastes 10:1 (NIV)		Sophia Wegner	
+Tollkrow (FL 92)	FL	FL_92_Tollkrow.jpg	92	Sinnie			11					Prayeregrine	Dark Powers	Ephesians 6:12			
+Venomouth MEGA (FL)	FL	FL_93_Venomouth_MEGA.jpg	93	Sinnie			13					Furball	Poison Tongue	James 3:8		Alex Gil Ble	
+Lurukai MEGA (FL)	FL	FL_94_Lurikai_MEGA.jpg	94	Sinnie			14					Armorino ULTRA	Dark Aim	Psalm 11:2		Alex Gil Ble	
+Tollkrow MEGA (FL)	FL	FL_95_Tollkrow_MEGA.jpg	95	Sinnie			16					Percy Lv.2	Shadow of Death	Psalm 23:4		Alex Gil Ble	
+Tollkrow MEGA Plus (FL)	FL	FL_96_Tollkrow_MEGA_Plus.jpg	96	Sinnie			21					Stagnetic ULTRA	Spiritual Warfare	Ephesians 6:12			
+Fearcrow MEGA (FL)	FL	FL_97_Fearcrow_MEGA.jpg	97	Sinnie			13					Agapesaur Lv.2	Fearful	1 John 4:18b		Alex Gil Ble	
+Fearcrow MEGA Plus (FL)	FL	FL_98_Fearcrow_MEGA_Plus.jpg	98	Sinnie			18					Ninjiana	Paralyzing Fear	Psalm 116:3-4		Alex Gil Ble	
+Into The Fire (FL)	FL	FL_99_Into_The_Fire.jpg	99	Story							Daniel 3			Daniel 3			
+Paused Maws (FL)	FL	FL_100_Paused_Maws.jpg	100	Story							Daniel 6			Daniel 6			
+Giant Killer (FL)	FL	FL_101_Giant_Killer.jpg	101	Story							1 Samuel 17			1 Samuel 17			
+For Such a Time (FL)	FL	FL_102_For_Such_A_Time.jpg	102	Story							Esther			Esther			
+David's Sling (FL)	FL	FL_103_David_s_Sling.jpg	103	Equipment							As long as this card is attached to a H, L, or S Animo, any fellowship bonus becomes a F fellowhip bonus. This card only has an effect on Animo that already have a fellowhip bonus.		Faith				
+Kings Scepter (FL)	FL	FL_104_King_s_Scepter.jpg	104	Equipment							As long as this card is attached to a F, L, or S Amimo, any fellowship bonus becomes a H fellowship bonus.		Hope				
+Floatation Device (FL)	FL	FL_105_Floatation_Devise.jpg	105	Equipment							As long as this card is attached to a L Animo, you may choose to bypass the Active Sinnie and score this Animos VP when activated.		Love				
+Scarlet Rope (FL)	FL	FL_106_Scarlet_Cord.jpg	106	Equipment							The Animo to whom this card is attached may be discarded from your small group. If you do, you may search for any other Animo with an equal or lesser VP and place it in your hand.		Universal				
+Goliath's Sword (FL)	FL	FL_107_Goliaths_Sword.jpg	107	Hinderance									Hindrance				
+Faith (FL)		FL_108_Faith_Power.jpg	108														/cr90
+Hope (FL)		FL_109_Hope_Power.jpg	109														/cr90
+Love (FL)		FL_110_Love_Power.jpg	110														/cr90
+Holy Spirit (FL)		FL_111_Holy_Spirit_Power.jpg	111														/cr90
+Prayer (FL)		FL_112_Prayer.jpg	112														/cr90
+Fasting (FL)		FL_113_Fasting.jpg	113														/cr90
+Faith Alternate Art (FL)		FL_114_Faith_Alt.jpg	114														/cr90
+Hope Alternate Art (FL)		FL_115_Hope_Alt.jpg	115														/cr90
+Love Alternate Art (FL)		FL_116_Love_Alt.jpg	116														/cr90
+Holy Spirit Alternate Art (FL)		FL_117_Holy_Spirit_Alt.jpg	117														/cr90
+Prayer Group (FL)		FL_118_Prayer_Group.jpg	118														
+Trusty 1 Alternate Art (FL)		FL_S01_Trusty_Full_Art.jpg	S01														
+Stagnetic Alternate Art (FL)		FL_S02_Stagnetic_Full_Art.jpg	S02														
+Sowcrow 1 Alternate Art (FL)		FL_S03_Sowcrow_Full_Art.jpg	S03														
+Percy 2 Alternate Art (FL)		FL_S04_Percy_2_Full_Art.jpg	S04														
+Agepesaur 2 Alternate Art (FL)		FL_S05_Agapesaur_2_Full_Art.jpg	S05														
+Kelebekah 1 Alternate Art (FL)		FL_S06_Kelebekah_Full_Art.jpg	S06														
+Toadaken 1 Alternate Art (FL)		FL_S07_Toadaken_Full_Art.jpg	S07														
+Stryder 1 Alternate Art (FL)		FL_S08_Stryder_Full_Art.jpg	S08														
+Hoofit Alternate Art (FL)		FL_S09_Hoofit_Full_Art.jpg	S09														
+Ninjiana Alternate Art (FL)		FL_S10_Ninjiana_v2_Full_Art.jpg	S10														
+Refrigergator Alternate Art (FL)		FL_S11_Refrigigator_Full_Art.jpg	S11														
+Krass-Hopper Alternate Art (FL)		FL_S12_Krass_Hopper_Full_Art.jpg	S12														

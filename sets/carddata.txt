@@ -402,15 +402,21 @@ Hope Alternate Art (FL)	FL	FL_115_Hope_Alt.jpg	115			Hope								Proverbs 23:18	
 Love Alternate Art (FL)	FL	FL_116_Love_Alt.jpg	116			Love								Psalm 86:15			/cr90
 Holy Spirit Alternate Art (FL)	FL	FL_117_Holy_Spirit_Alt.jpg	117			Spirit								1 Corinthians 3:16			/cr90
 Prayer Group (FL)	FL	FL_118_Prayer_Group.jpg	118			Universal					ABILITY: You may activate this card using up to 6 of any power. When activated, this card is worth 3 VP for each power that is used to activate it.		Gathered Together	Matthew 18:20		Alex Gil Ble	
-Trusty 2 Alternate Art (FL)	FL	FL_S01_Trusty_Full_Art.jpg	S01		2	Faith	8	S	12	FFx	ABILITY: You may choose to discard this card from your small group (including previous growth stages and any attached cards). If you do, draw four cards.		Fireproof	Isaiah 43:2b		Dhan Tran Art	
-Stagnetic Alternate Art (FL)	FL	FL_S02_Stagnetic_Full_Art.jpg	S02		1	Faith	8			FxFx	ENDURANCE (1x): Instantly earn 5 VP if you have 20 or fewer cards in your deck and an additional 5 VP if you have 10 or fewer cards in your deck.		Endure	Matthew 24:13		Alex Gil Ble	
-Sowcrow 1 Alternate Art (FL)	FL	FL_S03_Sowcrow_Full_Art.jpg	S03		1	Hope	4			HU	ABILITY: Once per turn, as long as this card is in your small group, you may shuffle any 1 card from your hand into your deck. If you do, draw 1 card.		Patiently Waiting	James 5:7		Joshua Hale	
-Percy 2 Alternate Art (FL)	FL	FL_S04_Percy_2_Full_Art.jpg	S04		2	Hope	11			HU			Fearless Hope	Romans 8:38-39		Chris Alonso	
-Agepesaur 2 Alternate Art (FL)	FL	FL_S05_Agapesaur_2_Full_Art.jpg	S05		2	Love	9	H	12	LL	ACTION: No opponent may reveal a Sinnie to you on their next turn		Fearless Love	1 John 4:18a		Dhan Tran Art	
-Kelebekah 1 Alternate Art (FL)	FL	FL_S06_Kelebekah_Full_Art.jpg	S06		1	Love											
-Toadaken 1 Alternate Art (FL)	FL	FL_S07_Toadaken_Full_Art.jpg	S07		1	Spirit											
-Stryder 1 Alternate Art (FL)	FL	FL_S08_Stryder_Full_Art.jpg	S08		1	Spirit	3			S	SWAP (1x): If this card is in your small group and your small group is full, you may choose to swap it with a Lv. 1 Animo from your hand. If you do, draw 2 cards.		Water Walker	1 John 4:4		Dhan Tran Art	
-Hoofit Alternate Art (FL)	FL	FL_S09_Hoofit_Full_Art.jpg	S09		1	Universal	10			FLU			Upright	1 Timothy 6:11		Dhan Tran Art	
-Ninjiana Alternate Art (FL)	FL	FL_S10_Ninjiana_v2_Full_Art.jpg	S10		1	Universal	8			SF			Fearless	Romans 8:31		Dhan Tran Art	
-Refrigergator Alternate Art (FL)	FL	FL_S11_Refrigigator_Full_Art.jpg	S11				12				ACTION: Your opponent may not use any Love powers from their power pool or Truth Seeker on their next turn (including Love from Prayer).	Agapesaur	Icy Heart	Matthew 24:12		Dhan Tran Art	
-Krass-Hopper Alternate Art (FL)	FL	FL_S12_Krass_Hopper_Full_Art.jpg	S12				10				ABILITY: As long as this Sinnie remains active, your opponent must decrease their score by 2 points at the beginning of their turn (but not below 0).	Hoofit	Wicked	Isaiah 13:11 KJV		Ward Silverman	
+Trusty 2 Alternate Art (FL)	FL	FL_S01_Trusty_Full_Art.jpg	S01	Virtuous	2	Faith	8	S	12	FFx	ABILITY: You may choose to discard this card from your small group (including previous growth stages and any attached cards). If you do, draw four cards.		Fireproof	Isaiah 43:2b		Dhan Tran Art	
+Stagnetic Alternate Art (FL)	FL	FL_S02_Stagnetic_Full_Art.jpg	S02	Virtuous	1	Faith	8			FxFx	ENDURANCE (1x): Instantly earn 5 VP if you have 20 or fewer cards in your deck and an additional 5 VP if you have 10 or fewer cards in your deck.		Endure	Matthew 24:13		Alex Gil Ble	
+Sowcrow 1 Alternate Art (FL)	FL	FL_S03_Sowcrow_Full_Art.jpg	S03	Virtuous	1	Hope	4			HU	ABILITY: Once per turn, as long as this card is in your small group, you may shuffle any 1 card from your hand into your deck. If you do, draw 1 card.		Patiently Waiting	James 5:7		Joshua Hale	
+Percy 2 Alternate Art (FL)	FL	FL_S04_Percy_2_Full_Art.jpg	S04	Virtuous	2	Hope	11			HU			Fearless Hope	Romans 8:38-39		Chris Alonso	
+Agepesaur 2 Alternate Art (FL)	FL	FL_S05_Agapesaur_2_Full_Art.jpg	S05	Virtuous	2	Love	9	H	12	LL	ACTION: No opponent may reveal a Sinnie to you on their next turn		Fearless Love	1 John 4:18a		Dhan Tran Art	
+Kelebekah 1 Alternate Art (FL)	FL	FL_S06_Kelebekah_Full_Art.jpg	S06	Virtuous	1	Love											
+Toadaken 1 Alternate Art (FL)	FL	FL_S07_Toadaken_Full_Art.jpg	S07	Virtuous	1	Spirit											
+Stryder 1 Alternate Art (FL)	FL	FL_S08_Stryder_Full_Art.jpg	S08	Virtuous	1	Spirit	3			S	SWAP (1x): If this card is in your small group and your small group is full, you may choose to swap it with a Lv. 1 Animo from your hand. If you do, draw 2 cards.		Water Walker	1 John 4:4		Dhan Tran Art	
+Hoofit Alternate Art (FL)	FL	FL_S09_Hoofit_Full_Art.jpg	S09	Virtuous	1	Universal	10			FLU			Upright	1 Timothy 6:11		Dhan Tran Art	
+Ninjiana Alternate Art (FL)	FL	FL_S10_Ninjiana_v2_Full_Art.jpg	S10	Virtuous	1	Universal	8			SF			Fearless	Romans 8:31		Dhan Tran Art	
+Refrigergator Alternate Art (FL)	FL	FL_S11_Refrigigator_Full_Art.jpg	S11	Sinnie			12				ACTION: Your opponent may not use any Love powers from their power pool or Truth Seeker on their next turn (including Love from Prayer).	Agapesaur	Icy Heart	Matthew 24:12		Dhan Tran Art	
+Krass-Hopper Alternate Art (FL)	FL	FL_S12_Krass_Hopper_Full_Art.jpg	S12	Sinnie			10				ABILITY: As long as this Sinnie remains active, your opponent must decrease their score by 2 points at the beginning of their turn (but not below 0).	Hoofit	Wicked	Isaiah 13:11 KJV		Ward Silverman	
+Armorino 1 Promo (FL)	FL	FP1_Armorino_Promo.jpg	FP1	Virtuous	1	Faith	6			FFF			Fear Less	Psalm 27:1a		Jhoan Leon	
+Conquersaur 1 Promo (FL)	FL	FP2_Conquersaur_PROMO.jpg	FP2	Virtuous	1	Hope	7			HH	ABILITY: When this card is played form your hand into your small group, draw 1 card. This card may not be grown or activated on the same turn in which it is added to your small group.		Safe Slumber	Psalm 4:8		Jhoan Leon	
+Kelebekah 1 Promo (FL)	FL	FP3_Kelebekah_PROMO.jpg	FP3	Virtuous	1	Love	2			L	ABILITY: When this card is played from your hand into your small group you may draw 1 card.		Comforted	2 Corinthians 1:3 NIV		Jhoan Leon	
+Stryder 1 Promo (FL)	FL	FP4_Stryder_PROMO.jpg	FP4	Virtuous	1	Spirit	3			S	SWAP (1x): If this card is in your small group and your small group is full, you may choose to swap it with a Lv. 1 Animo from your hand. If you do, draw 2 cards.		Water Walker	1 John 4:4		Jhoan Leon	
+Prayer Promo (FL)	FL	FP5_PRAYER_CB_PROMO.jpg	FP5								Provides 1 Faith, Hope, or Love power per turn.			Philippians 4:6			
+Fasting Promo (FL)	FL	FP6_Fasting_CB_PROMO.jpg	FP6								Provides 1 Holy Spirit or 2 Universal powers to one Animo per turn.			Joel 2:12			

@@ -304,7 +304,7 @@ Conquersaur 2 (FL)	FL	FL_17_Conquersaur_2.jpg	17	Virtuous	2	Hope	12			HH	ACTION:
 Dependaru 1 (FL)	FL	FL_18_Dependaru.jpg	18	Virtuous	1	Hope	3			H-			Rock Solid	Psalm 18:2a		Dhan Tran Art	
 Dependaru 2 (FL)	FL	FL_19_Dependaru_2.jpg	19	Virtuous	2	Hope	6			H			Upright Hand	Isaiah 41:10b		Dhan Tran Art	
 Dependaru 3 (FL)	FL	FL_20_Dependaru_3.jpg	20	Virtuous	3	Hope	9			H	ABILITY: Once per turn, as long as this card is in your small group, you may choose to shuffle a card from your hand into your deck. If you do, draw 1 card.		Strong Tower	Proverbs 18:10		Dhan Tran Art	
-Tortisuar (FL)	FL	FL_21_Tortisaur.jpg	21	Virtuous	1	Hope	3			H-	ACTION: You may search your deck for any Lv.1 Animo and place it directly into your small group.		Hard Work	Proverbs 16:3		Ward Silverman	
+Tortisaur (FL)	FL	FL_21_Tortisaur.jpg	21	Virtuous	1	Hope	3			H-	ACTION: You may search your deck for any Lv.1 Animo and place it directly into your small group.		Hard Work	Proverbs 16:3		Ward Silverman	
 Sowcrow 1 (FL)	FL	FL_22_Sowcrow.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: Once per turn, as long as this card is in your small group, you may shuffle any 1 card from your hand into your deck. If you do, draw 1 card.		Patiently Waiting	James 5:7		Joshua Hale	
 Sowcrow 2 (FL)	FL	FL_23_Sowcrow_2.jpg	23	Virtuous	2	Hope	2x			HU	HARVEST (1x): At the time this card is activated, it is worth 2 VP for each card in your hand (up to 16 VP max).		Patient	James 5:8		Joshua Hale	
 Hitail (FL)	FL	FL_24_Hitail.jpg	24	Virtuous	1	Hope	9			H-H-	RETREAT (1x): If this card is in your hand, you may choose to reveal it to your opponent(s) and shuffle it back into your deck. If you do, draw 3 cards.		Escape Route	1 Corinthians 10:13b		Ward Silverman	

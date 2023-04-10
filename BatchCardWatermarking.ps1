@@ -3,9 +3,9 @@ Script requires ImageMagick from:
 https://imagemagick.org/script/index.php
 #>
 
-$watermarkPath = $PSScriptRoot + "\AnimoWatermarkLackey476x648.png"
-$sourcePath = $PSScriptRoot + "\sets\setimages\original\"
-$outputPath = $PSScriptRoot + "\sets\setimages\general\"
+$watermarkPath = $PSScriptRoot + "/AnimoWatermarkLackey476x648.png"
+$sourcePath = $PSScriptRoot + "/sets/setimages/original/"
+$outputPath = $PSScriptRoot + "/sets/setimages/general/"
 $sourceImages = Get-ChildItem  -path $sourcePath
 
 if(!(Test-Path -Path $outputPath))

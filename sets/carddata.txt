@@ -177,7 +177,7 @@ Heartvark 1	RLD	31_Heartvark.jpg	31	Virtuous	1	Love	5			LL			Christ's Love	John 
 Heartvark 2	RLD	32_Heartvark_2.jpg	32	Virtuous	2	Love	7	F	10	LU	ACTION: Search your deck for up to 2 Animo with a VP score of 8 or less.  Reveal them, place them in your hand, and shuffle your deck afterward.		Remaining in Love	John 15:10		Joshua Wegner		
 Mongoroo 1	RLD	33_Mongoroo.jpg	33	Virtuous	1	Love	4	S	8	LL			Cheerful Giver	Matthew 5:42		Lucy_Was_Taken		
 Flamingrow 2 (L)	RLD	34_Flamingrow_2L.jpg	34	Virtuous	2	Love	8			LU	ABILITY: When this card is played from your hand to grow "Flamingrow Lv. 1", you may search your deck for 1 L power and add it to your power pool.		Love One Another	John 13:34		Alex Gil Ble		
-Cordaiwl 1	RLD	35_Cordiawl.jpg	35	Virtuous	1	Love	3			LL			Caring	Luke 6:27		Joshua Wegner		
+Cordiawl 1	RLD	35_Cordiawl.jpg	35	Virtuous	1	Love	3			LL			Caring	Luke 6:27		Joshua Wegner		
 Cordiawl 2	RLD	36_Cordiawl_2.jpg	36	Virtuous	2	Love	5			L			Cordial	Luke 6:28		Danh Tran Art		
 Quillow 2 (L)	RLD	37_Quillow_2L.jpg	37	Virtuous	2	Love	4			L	ACTION: Search your deck for either 1 special power or 2 standard power cards and add it/them to your power pool.  Shuffle your deck afterward.		Merciful	Matthew 5:7		Christina Todd		
 Treashell 1	RLD	38_Treashell.jpg	38	Virtuous	1	Love	2			L			Investment	Matthew 13:45-46		Danh Tran Art		

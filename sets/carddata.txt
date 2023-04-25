@@ -345,7 +345,7 @@ Aquillion 1 (FL)	FL	FL_58_Aquillion.jpg	58	Virtuous	1	Spirit	5			SU	ABILITY: Whe
 Aquillion 2 (FL)	FL	FL_59_Aquillion_2.jpg	59	Virtuous	2	Spirit	9			SUU			Renewed Strength	Isaiah 40:31a		Alex Gil Ble		
 Aquillion 3 (FL)	FL	FL_60_Aquillion_3.jpg	60	Virtuous	3	Spirit	10			S	ACTION: Search your deck for up to three standard power cards and add them to your power pool. Shuffle your deck afterwards.		On Eagles Wings	Isaiah 40:31b		Alex Gil Ble		
 Toadaken ULTRA (FL)	FL	FL_61_Toadaken_ULTRA.jpg	61	Virtuous	1	Spirit	10			SU			Strong	Joshua 1:9b		Chris Alonso		
-Aquillion ULTRA (FL)	FL	FL_62_Aquillion_ULTRA_S.jpg	62	Virtuous	1	Spirit	10			S	ABILITY: This card takes up two spaces in your small group and may not be ACTIVATED in the same turn in which it is added to your small group.		Mount Up	Isaiah 40:31b		Alex Gil Ble		
+Aquillion ULTRA (FL 62)	FL	FL_62_Aquillion_ULTRA_S.jpg	62	Virtuous	1	Spirit	10			S	ABILITY: This card takes up two spaces in your small group and may not be ACTIVATED in the same turn in which it is added to your small group.		Mount Up	Isaiah 40:31b		Alex Gil Ble		
 Hoofit (FL 63)	FL	FL_63_Hoofit_U.jpg	63	Virtuous	1	Universal	10			FLU			Upright	1 Timothy 6:11		Dhan Tran Art		
 Beshemoth (FL)	FL	FL_64_Beshemoth.jpg	64	Virtuous	1	Universal	5			UU			Contentment	Hebrews 13:5		Hector Montalvo		
 Mercifire (FL)	FL	FL_65_Mercifire.jpg	65	Virtuous	1	Universal	10			HLU			Conqueror	Revelation 5:5		Dhan Tran Art		
@@ -359,7 +359,7 @@ Positiffany 2 (FL)	FL	FL_72_Positiffany_2.jpg	72	Virtuous	2	Universal	5			U			Po
 Positiffany 3 (FL)	FL	FL_73_Positiffany_3.jpg	73	Virtuous	3	Universal	9			U			Bright Future	1 Corinthians 13:12 (NIV)		Jhoan Leon		
 Ninjiana ULTRA (FL)	FL	FL_74_Ninjiana_ULTRA.jpg	74	Virtuous	1	Universal	9			UU			Delivered	Psalm 34:4		Dhan Tran Art		
 Mercifire ULTRA (FL)	FL	FL_75_Mercifire_ULTRA.jpg	75	Virtuous	1	Universal	10			HL	ABILITY: As long as this card is in your small group, you may remove 1 Universal cost tfrom your other Animo.		Bold	Proverbs 28:1		Dhan Tran Art		
-Aquillion ULTRA (FL)	FL	FL_76_Aquillion_ULTRA.jpg	76	Virtuous	1	Universal	10			SH	ABILITY: As long as this card is in your small group, you may remove 1 Universal cost tfrom your other Animo.		Take Courage	Psalm 31:24		Dhan Tran Art		
+Aquillion ULTRA (FL 76)	FL	FL_76_Aquillion_ULTRA.jpg	76	Virtuous	1	Universal	10			SH	ABILITY: As long as this card is in your small group, you may remove 1 Universal cost tfrom your other Animo.		Take Courage	Psalm 31:24		Dhan Tran Art		
 Fearcrow (FL 77)	FL	FL_77_Fearcrow.jpg	77	Sinnie			10				ACTION: Your opponent may not play any Love Animo or Love powers from their hand on their next turn.	Ninjiana	Fearful Heart	Isaiah 35:4a		Alex Gil Ble		
 Fearcrow (FL 78)	FL	FL_78_Fearcrow.jpg	78	Sinnie			5+				ABILITY: Add +3 to the defense of this Sinnie for each Sinnie your opponent has already defeated.	Toadaken ULTRA	Fear	Psalm 116:3-4		Alex Gil Ble		
 Tollkrow (FL 79)	FL	FL_79_Tollkrow.jpg	79	Sinnie			12				ABILITY: As long as this card is active, your opponent may not use any SPECIAL power cards from their power pool to activate Animo.	Trusty Lv.2	In The Valley	Psalm 23:4		Alex Gil Ble		

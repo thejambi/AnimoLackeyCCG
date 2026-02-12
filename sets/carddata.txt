@@ -163,7 +163,7 @@ Quillow 2 (H)	RLD	17_Quillow_2H.jpg	17	Virtuous	2	Hope	8			HH	ACTION: Search you
 Glimmer 1	RLD	18_Glimmer.jpg	18	Virtuous	1	Hope	4	L	6	HH-			Joy	John 15:11		Lucy_Was_Taken		
 Glimmer 2	RLD	19_Glimmer_2.jpg	19	Virtuous	2	Hope	7	L	10	HH	ABILITY: When this card is played from your hand to grow "Glimmer Lv. 1" you may draw 2 cards.		The Golden Rule	Matthew 7:12 (NIV)		Lucy_Was_Taken		
 Amaryllis 1	RLD	20_Amaryllis.jpg	20	Virtuous	1	Hope	5	S	8	HU			Provision	Matthew 6:28b-29		Baygent Baker		
-Shwimmer 1	RLD	21_Shwimmer.jpg	21	Virtuous	1	Hope	3	S	5	H	ACTION: Search your deck for 1 standard power card and place it directly into your power pool.  Shuffle your deck afterward.		Greater Things	John 14:12		Christina Todd		
+Shwimmer 1 (RLD)	RLD	21_Shwimmer.jpg	21	Virtuous	1	Hope	3	S	5	H	ACTION: Search your deck for 1 standard power card and place it directly into your power pool.  Shuffle your deck afterward.		Greater Things	John 14:12		Christina Todd		
 Percy 1	RLD	22_Percy.jpg	22	Virtuous	1	Hope	4			HU	ABILITY: When this card is played from your hand into your small group, you may look at the top 5 cards of your deck, take 1, and return the rest in any order.		Cheer Up!	John 16:33		Alex Gil Ble		
 Percy 2	RLD	23_Percy_2.jpg	23	Virtuous	2	Hope	10			HHU	ACTION: Search your deck for any 2 cards and place them in your hand.  Shuffle afterward.		Overcomer	Revelation 21:7		Alex Gil Ble		
 Flamingrow 2 (H)	RLD	24_Flamingrow_2H.jpg	24	Virtuous	2	Hope	9	F	12	HH-			Repent	Luke 15:10		Alex Gil Ble		
